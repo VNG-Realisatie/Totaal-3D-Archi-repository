@@ -1,11 +1,10 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="City JSON"
-    id="id-d3d93e4835904d5a85ea4f7a4d08722b">
+    id="id-2910f691ffab4f3c88dc8113e81e10f5">
   <source
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-643e545f7d81455c9128dbf3ac021dab.xml#id-643e545f7d81455c9128dbf3ac021dab"/>
+      href="ApplicationInterface_id-fa7fca1e09ce4db2b09309025fdbd621.xml#id-fa7fca1e09ce4db2b09309025fdbd621"/>
   <target
       xsi:type="archimate:ApplicationService"
       href="ApplicationService_id-d5ffbd7183b84737a81527fd72630e9e.xml#id-d5ffbd7183b84737a81527fd72630e9e"/>
