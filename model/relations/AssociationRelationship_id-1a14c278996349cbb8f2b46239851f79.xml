@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="In behandeling"
+    id="id-1a14c278996349cbb8f2b46239851f79">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-f451f983c4ff4372ba65dbaef69bdd22.xml#id-f451f983c4ff4372ba65dbaef69bdd22"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-70329ce752984b8cbc7c1bb4fcb2d336.xml#id-70329ce752984b8cbc7c1bb4fcb2d336"/>
+</archimate:AssociationRelationship>
