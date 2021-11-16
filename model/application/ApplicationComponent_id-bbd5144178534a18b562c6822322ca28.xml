@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validatie"
+    id="id-bbd5144178534a18b562c6822322ca28"
+    documentation="(Handmatige) validaties&#xD;&#xA;- ... bij de aanmaak van CityGML&#xD;&#xA;- ... tijdens de conversie naar CityGML&#xD;&#xA;- ... voor de geometrische validatie van CityGML-bestanden&#xD;&#xA;- ... voor de visuele check van CityGML-bestanden&#xD;&#xA;- ... bij de import van CityGML in de database voor de viewer"/>

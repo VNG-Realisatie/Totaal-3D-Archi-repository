@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3D Tile Generator"
+    id="id-b621840acf5e419cb7a3d93a38aa4a1c"
+    documentation="Haalt bestanden  op van EC2 Actual&#xD;&#xA;&#xD;&#xA;Conversie van CityGML naar 3D tiles (b3dsm bestanden) plus configuratie van de viewer&#xD;&#xA;&#xD;&#xA;"/>
