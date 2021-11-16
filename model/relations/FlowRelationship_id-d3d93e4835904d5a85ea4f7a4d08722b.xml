@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="City JSON"
+    name="City JSON (IM SOR)"
     id="id-d3d93e4835904d5a85ea4f7a4d08722b">
   <source
       xsi:type="archimate:ApplicationInterface"
