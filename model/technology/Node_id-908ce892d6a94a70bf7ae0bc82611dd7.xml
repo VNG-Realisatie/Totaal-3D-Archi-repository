@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AWS S3"
+    id="id-908ce892d6a94a70bf7ae0bc82611dd7"
+    documentation="Opslag van b3dsm bestanden&#xD;&#xA;Opslag van gepubliceerde 3D tiles datasets. Na 'publish' worden de datasets gekopieerd van de EC2 server naar de S3 bucket"/>
