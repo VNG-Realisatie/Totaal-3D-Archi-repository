@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="City JSON"
+    name="CityGML"
     id="id-023c979c86cb4c9e958b4423abc56d4d">
   <source
       xsi:type="archimate:ApplicationService"
