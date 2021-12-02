@@ -1,5 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3D City DB"
-    id="id-39b20b49186a4522b8fa2a25beeefb8d"
+    name="3D City DB (copy)"
+    id="id-56e69a7615f64fea9d4d9f5b218daf95"
     documentation="Opslag van CityGML data. Hier staat het 3D stadsmodel, de 3D tiles zijn bedoeld om ernaar te kijken. Dit is de echte bron van het 3D stadsmodel. "/>
