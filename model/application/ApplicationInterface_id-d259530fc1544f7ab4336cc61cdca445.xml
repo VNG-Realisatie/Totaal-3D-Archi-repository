@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data leveren"
+    id="id-d259530fc1544f7ab4336cc61cdca445"
+    documentation="Data leveren is een generieke API. Data kan worden geleverd voor meerdere doelen:&#xD;&#xA;- Validatie&#xD;&#xA;- transformatie &#xD;&#xA;- Aanlevering aan derden&#xD;&#xA;&#xD;&#xA;Het doel is dus een parameter in de API zodat een generieke lever API kan worden gemaakt.&#xD;&#xA;&#xD;&#xA;Het initieren van de actie moet dus op vanuit een andere dan de Data opslag worden gedaan,"/>

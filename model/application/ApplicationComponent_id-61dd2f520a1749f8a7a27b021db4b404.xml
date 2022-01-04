@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data orchestratie"
+    id="id-61dd2f520a1749f8a7a27b021db4b404"
+    documentation="Data orchestratie is het proces van het bij elkaar vinden en zoeken van data en het door de benodigde stappen heen helpen.&#xD;&#xA;&#xD;&#xA;Dit kan allemaal in 1 applicatie gebeuren, maar om het leverancier onafhankelijk te maken, wordt het proces uitgewerkt met behulp van kleine stappen en API's. &#xD;&#xA;&#xD;&#xA;Dat sommige gemeenten niet alle API's gebruiken omdat verschillende stappen binnen dezelfde software worden uitgevoerd is daarbij geen probleem."/>

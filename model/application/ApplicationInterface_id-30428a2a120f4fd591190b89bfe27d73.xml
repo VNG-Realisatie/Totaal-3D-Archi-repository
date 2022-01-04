@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validatie API"
+    id="id-30428a2a120f4fd591190b89bfe27d73"
+    documentation="Deze APi start validatie op voor een bestand. Parameters zijn dus het te valideren bestand, bestandstype, en wellicht locatie van de validatie resultaten.&#xD;&#xA;&#xD;&#xA;Het aanroepen van deze API kan vanuit alle verschillende applicaties worden uitgevoerd. &#xD;&#xA;&#xD;&#xA;Zo kan bijvoorbeeld een leverancier eerst de aanlever API aanroepen (die een locatie van het bestand zal moeten teruggeven), en vervolgendes de validatie API kunnen aanroepen.&#xD;&#xA;&#xD;&#xA;Of de validatie applicatie de data zelf ophaalt (kopieert), valideert en verwijderd, of rechtstreeks op de bronlocatie valideert is aan de validatie applicatie zelf."/>

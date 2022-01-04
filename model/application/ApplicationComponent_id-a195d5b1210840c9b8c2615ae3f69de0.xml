@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data opslag (leverancier)"
+    id="id-a195d5b1210840c9b8c2615ae3f69de0"
+    documentation="Dit is een domme applicatie. Hij initieert zelf geen acties. Hij heeft een aantal functies die via API's kunnen worden aangeroepen.&#xD;&#xA;- Nieuwe data toevoegen (Aanlever API)&#xD;&#xA;- Data verwijderen (Verwijder API)&#xD;&#xA;- Data vervangen (Vervang API)&#xD;&#xA;- Data wijzigen (Wijzig API)&#xD;&#xA;- Data Leveren (Lever API)&#xD;&#xA;&#xD;&#xA;Vervangen vervangt een gehele databron.&#xD;&#xA;Als een deel van de data of attributen van de data vervangen moeten worden, wordt de wijzig API gebruikt."/>
