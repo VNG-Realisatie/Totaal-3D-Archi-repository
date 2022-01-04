@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Query op de database"
+    id="id-32dc685595684e3eafedb67a55cb7c33">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c7f4646a4b004a059e27f262e22fce36.xml#id-c7f4646a4b004a059e27f262e22fce36"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_id-39b20b49186a4522b8fa2a25beeefb8d.xml#id-39b20b49186a4522b8fa2a25beeefb8d"/>
+</archimate:AssociationRelationship>
