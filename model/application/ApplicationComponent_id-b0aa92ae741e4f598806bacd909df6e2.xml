@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Betalingen"
+    id="id-b0aa92ae741e4f598806bacd909df6e2"
+    documentation="Voor het beheren van de betalingen van betaalde diensten door de gebruikers van die diensten, indien sprake is van betaalde diensten. Betalen kan op verschillende manieren worden ingericht, zoals vooraf, bij afname van de dienst of achteraf.&#xA;&#xA;Betalingen is 1 op 1 gekoppeld met abonnementen. Betalingen levert het betaalmechanisme.&#xA;&#xA;"/>

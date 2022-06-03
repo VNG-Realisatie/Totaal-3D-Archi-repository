@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie"
+    id="id-cf909bd2dff04af59864ad78c0598d48"
+    documentation="De component Registratie heeft als doel om bronhouderorganisaties en gemachtigde organisaties in staat te stellen objectgegevens en bijbehorende meta-gegevens te beheren (toevoegen en wijzigen). Deze component biedt de services die bronhouders en gemachtigden daarvoor nodig hebben.&#xA;&#xA;De component Registratie biedt services voor informatiesystemen om objectgegevens te beheren (toe te voegen en te wijzigen)."/>

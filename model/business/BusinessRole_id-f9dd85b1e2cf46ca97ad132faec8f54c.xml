@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bronleverancier"
-    id="id-f9dd85b1e2cf46ca97ad132faec8f54c"/>
+    name="Bronhouder"
+    id="id-f9dd85b1e2cf46ca97ad132faec8f54c"
+    documentation="Was: bronleverancier"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abonnementen"
+    id="id-6285d6a139fb48779a3d52de82c0319e"
+    documentation="De component Abonnementen heeft als doel om organisaties in staat te stellen abonnementen te registreren en beheren. We onderscheiden abonnementen op notificaties en abonnementen op Afname."/>

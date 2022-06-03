@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang"
+    id="id-2653d2bf0cd54836a1b219bd6b5271f7"
+    documentation="Toegang heeft als doel het bewaken van de toegang door te bepalen wie een gebruiker is en wat die gebruiker mag om de gebruiker toegang tot een dienst te verlenen.&#xA;&#xA;De gebruiker kan een persoon of een informatiesysteem zijn. Toegang voor informatiesystemen betreft de toegang tot services (Common Ground laag 2). Toegang voor personen betreft de toegang via interactiecomponenten (Common Ground laag 5).&#xA;&#xA;De afbeelding bij het thema Identity &amp; Accessmanagement van de NORA geeft dit goed weer."/>
