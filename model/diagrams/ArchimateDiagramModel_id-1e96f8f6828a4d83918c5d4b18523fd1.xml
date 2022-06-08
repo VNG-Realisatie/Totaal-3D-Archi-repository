@@ -351,7 +351,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-cdc85a6a27a348b3a49c9c5d01089a7b"
-      targetConnections="id-10ef9e8f2ca240f580e13d82c022c7ad id-d92767a44fe4472b8b0fb60435a4f824">
+      targetConnections="id-10ef9e8f2ca240f580e13d82c022c7ad id-d92767a44fe4472b8b0fb60435a4f824 id-71caa20c11504cd7bf332510410214db">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2e05553f19fe4accbeb531b2b13b529f"
@@ -571,5 +571,21 @@
         y="624"
         width="175"
         height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8f009aab6c204d498ca6d4118d854a9e"
+      textAlignment="1"
+      fillColor="#fefc78"
+      content="Is dit een bedrijfs/werkproces of een informatiestroom? Oorspronkelijk naam was overigens terugmeld coordinatie maar ook die is vreemd.">
+    <sourceConnections
+        id="id-71caa20c11504cd7bf332510410214db"
+        source="id-8f009aab6c204d498ca6d4118d854a9e"
+        target="id-cdc85a6a27a348b3a49c9c5d01089a7b"/>
+    <bounds
+        x="786"
+        y="132"
+        width="204"
+        height="85"/>
   </children>
 </archimate:ArchimateDiagramModel>
