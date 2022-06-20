@@ -1,0 +1,45 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOR objecten"
+    id="id-6b5486c99a1547dfa9cfd0fc15af5858">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d52f39d56855437baec59b1d8506306b"
+      textAlignment="1">
+    <bounds
+        x="48"
+        y="72"
+        width="589"
+        height="337"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-598c591e298d4894aae55b57c1182842.xml#id-598c591e298d4894aae55b57c1182842"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9eae2dc395a842a9b4efe95fc97ae0f5"
+      textAlignment="1">
+    <bounds
+        x="852"
+        y="95"
+        width="540"
+        height="230"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-97eccb7262b1486b87cf0fddd58b63bd.xml#id-97eccb7262b1486b87cf0fddd58b63bd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bf9b1972e63a4cb3b8f4feecfcce1b67"
+      textAlignment="1">
+    <bounds
+        x="744"
+        y="444"
+        width="532"
+        height="253"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-8bdb80de3b734acc9722c14ad73e4dae.xml#id-8bdb80de3b734acc9722c14ad73e4dae"/>
+  </children>
+</archimate:ArchimateDiagramModel>
