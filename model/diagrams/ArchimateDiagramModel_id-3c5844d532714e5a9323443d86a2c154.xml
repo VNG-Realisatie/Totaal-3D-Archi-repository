@@ -561,7 +561,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6eb729a136b74a75a23eb4f4d72ab8dd"
-        targetConnections="id-66c8b318e5bb45a7baee71f231b1654f id-3dece73fe4f7447e840c4d67a07f74e6">
+        targetConnections="id-3dece73fe4f7447e840c4d67a07f74e6 id-66c8b318e5bb45a7baee71f231b1654f">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ed7a0ff5520b45f38532b82257bdfd1d"
@@ -891,5 +891,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-cf909bd2dff04af59864ad78c0598d48.xml#id-cf909bd2dff04af59864ad78c0598d48"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8dcb8d7ff6a54f968f89d62eabdd4b22"
+      textAlignment="1"
+      content="De SOR is hier echt niet de goede referentie. Het voorwerk voor wat er in de SOR komt moet bij de gemeenten (en andere bronhouders) gebeuren en daar hoort transformeren, toevoegen, updaten, verwijderen, valideren, inspecteren, etc. bij.">
+    <bounds
+        x="1140"
+        y="24"
+        width="217"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -509,7 +509,7 @@
       id="id-170b1ef2132f49649ffb93fa6aeede3c"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Dit gebeurt toch bij ontsluiten? Of wordt hier idd het aanleveren door een inwinner (organisatie, apparaat, etc.) bedoelt?&#xA;">
+      content="Dit gebeurt toch bij ontsluiten? Of wordt hier idd het aanleveren door een inwinner (organisatie, apparaat, etc.) bedoelt?&#xD;&#xA;PM: ik ga uit van het laatste. Een aannemer levert data aan de gemeente bijvoorbeeld.&#xD;&#xA;">
     <sourceConnections
         id="id-da5ed2076f6343b29d6766be9ae10da2"
         source="id-170b1ef2132f49649ffb93fa6aeede3c"
@@ -517,8 +517,8 @@
     <bounds
         x="580"
         y="144"
-        width="165"
-        height="85"/>
+        width="207"
+        height="121"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -557,7 +557,7 @@
       id="id-a09d1814d97147599ff170d7d68d2640"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xA;">
+      content="Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xD;&#xA;&#xD;&#xA;PM: Conversie is een  belangrijk deel van het proces. Je kan 3D data niet inwinnen zoals hij wordt opgeslagen. De SOR maakt zich daar misschien niet druk om, maar de SOR gaat er vanuit dat de gemeenten dit al gedaan hebben&#xD;&#xA;">
     <sourceConnections
         id="id-a02873e7c7a4441c8a8da47ab28772b0"
         source="id-a09d1814d97147599ff170d7d68d2640"
@@ -569,8 +569,8 @@
     <bounds
         x="472"
         y="624"
-        width="175"
-        height="109"/>
+        width="296"
+        height="217"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"

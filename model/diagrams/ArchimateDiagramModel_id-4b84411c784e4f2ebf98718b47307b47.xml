@@ -404,4 +404,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-e431058ffb68464184911de3bd4dc2e0.xml#id-e431058ffb68464184911de3bd4dc2e0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3c7162a9f1fa46809b92b0230dc640ad"
+      textAlignment="1"
+      content="PM: Ik vind de onderverdeling mooi. Ik denk niet dat betalingen hier aan de orde zijn, en ik mis in de uitvoering de actieve taken (transformatie, inspectie, etc. ). Het lijkt hier nu allen te gaan om data ophalen en wegschrijven en er komt wel iets meer bij kijken">
+    <bounds
+        x="540"
+        y="576"
+        width="205"
+        height="97"/>
+  </children>
 </archimate:ArchimateDiagramModel>
