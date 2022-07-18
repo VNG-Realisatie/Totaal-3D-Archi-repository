@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SOR objecten (conceptueel informatiemodel)"
+    name="SOR objecten (model van begrippen)"
     id="id-6b5486c99a1547dfa9cfd0fc15af5858"
     documentation="Zie ook: https://docs.geostandaarden.nl/disgeo/hiso/">
   <children
@@ -927,7 +927,7 @@
     </sourceConnections>
     <bounds
         x="1392"
-        y="294"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -948,7 +948,7 @@
     </sourceConnections>
     <bounds
         x="1392"
-        y="360"
+        y="354"
         width="120"
         height="55"/>
     <archimateElement
@@ -969,7 +969,7 @@
     </sourceConnections>
     <bounds
         x="1392"
-        y="432"
+        y="426"
         width="120"
         height="55"/>
     <archimateElement
@@ -990,7 +990,7 @@
     </sourceConnections>
     <bounds
         x="1392"
-        y="498"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
@@ -1013,6 +1013,10 @@
       id="id-b3afed3c7a234f8f86e6482c86367bc7"
       textAlignment="1"
       content="Zijn er geen officiele (wettelijk bepaalde) definities??? &#xA;(BdD)">
+    <sourceConnections
+        id="id-df37f50b8d064815bc9881284a3a9d64"
+        source="id-b3afed3c7a234f8f86e6482c86367bc7"
+        target="id-c5d494c5b8a14e6f996f71fb2e1c6a5a"/>
     <bounds
         x="1549"
         y="429"
@@ -1101,5 +1105,17 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-010c6c621d6c46aebe3fc25d19241d27.xml#id-010c6c621d6c46aebe3fc25d19241d27"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c5d494c5b8a14e6f996f71fb2e1c6a5a"
+      targetConnections="id-df37f50b8d064815bc9881284a3a9d64"
+      textAlignment="1"
+      content="Ja:&#xA;De bestuurlijke indeling van Nederland wordt geregeld in hoofdstuk 7 van de Grondwet. Dit hoofdstuk regelt de provincies, de gemeenten, de waterschappen en de andere openbare lichamen alsmede de gemeenschappelijke regelingen tussen de openbare lichamen.&#xA;&#xA;veiligheidsregio: een openbaar lichaam als bedoeld in artikel 9;&#xA;Artikel 123 van de Grondwet regelt dat provincies en gemeenten bij wet kunnen worden opgeheven of ingesteld. In de wet ARHI worden de algemene regels voor herindeling vastgelegd. Voor elke wijziging van de indeling (splitsing, samenvoeging, en grotere grenswijziging) is in principe een aparte wet of rijksbesluit nodig. Grenscorrecties (kleinere grenswijzigingen) kunnen met een provinciaal besluit worden ingesteld.&#xA;">
+    <bounds
+        x="1728"
+        y="370"
+        width="334"
+        height="303"/>
   </children>
 </archimate:ArchimateDiagramModel>

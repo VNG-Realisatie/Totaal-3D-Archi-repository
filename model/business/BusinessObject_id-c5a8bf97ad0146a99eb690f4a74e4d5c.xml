@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bestuurlijk gebied"
-    id="id-c5a8bf97ad0146a99eb690f4a74e4d5c"/>
+    id="id-c5a8bf97ad0146a99eb690f4a74e4d5c"
+    documentation="Zie: https://geonovum.github.io/disgeo-scope/bestuurlijkegebieden/"/>
