@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Componenten overzicht T3D"
+    name="T3D Componenten overzicht"
     id="id-4b84411c784e4f2ebf98718b47307b47"
     documentation="Op basis van Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie">
   <children
@@ -425,8 +425,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-74edfad2bda642e4b5f26d371974360c"
-      targetConnections="id-f7be29805e014135bc34847977372b72"
-      fillColor="#ffd478">
+      targetConnections="id-f7be29805e014135bc34847977372b72 id-ecceda30d7704004b2ed8d4836363497"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
     <bounds
         x="215"
         y="596"
@@ -439,8 +440,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-49f284e941a140fb8b170992f40a4a22"
-      targetConnections="id-2280c093e60b455ebf759a1e87e88402"
-      fillColor="#ffd478">
+      targetConnections="id-2280c093e60b455ebf759a1e87e88402 id-ef050f7491e949d4aa937b8e72ce5368"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
     <bounds
         x="405"
         y="596"
@@ -449,5 +451,24 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-68d7f899b9e84f2c9b1f9cb6d54a11e7.xml#id-68d7f899b9e84f2c9b1f9cb6d54a11e7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b9438678d01f480d8ea62dc109ed15e7"
+      textAlignment="1"
+      content="Dit lijken logische toevoegingen gezien de huidige pilots en discussie over zowel transformatie (conversie) en logging.&#xA;(BdD)">
+    <sourceConnections
+        id="id-ecceda30d7704004b2ed8d4836363497"
+        source="id-b9438678d01f480d8ea62dc109ed15e7"
+        target="id-74edfad2bda642e4b5f26d371974360c"/>
+    <sourceConnections
+        id="id-ef050f7491e949d4aa937b8e72ce5368"
+        source="id-b9438678d01f480d8ea62dc109ed15e7"
+        target="id-49f284e941a140fb8b170992f40a4a22"/>
+    <bounds
+        x="276"
+        y="696"
+        width="191"
+        height="109"/>
   </children>
 </archimate:ArchimateDiagramModel>
