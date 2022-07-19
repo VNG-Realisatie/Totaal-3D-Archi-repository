@@ -465,4 +465,15 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-dc89432b755c4ea981ff6ac55e021fb4.xml#id-dc89432b755c4ea981ff6ac55e021fb4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-feaa9c6bd6324a599fc4f985dcfc8236"
+      textAlignment="1"
+      content="Wat is de boodschap/bedoeling van de plaat?&#xA;&#xA;Lijkt meer inrichting dan een beoogde architectuur.&#xA;(BdD)">
+    <bounds
+        x="148"
+        y="433"
+        width="185"
+        height="108"/>
+  </children>
 </archimate:ArchimateDiagramModel>

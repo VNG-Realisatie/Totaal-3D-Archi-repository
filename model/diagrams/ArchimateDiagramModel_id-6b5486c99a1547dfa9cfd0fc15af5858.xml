@@ -259,7 +259,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9eae2dc395a842a9b4efe95fc97ae0f5"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ffee00ac28db4451853ba73ec807e02e"
@@ -304,7 +305,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-01326eb1ee8442b287fc5d6b168ac48f"
-        targetConnections="id-ffee00ac28db4451853ba73ec807e02e id-68179ae356e64c5fbcfedafc73a2951c">
+        targetConnections="id-ffee00ac28db4451853ba73ec807e02e id-68179ae356e64c5fbcfedafc73a2951c"
+        fillColor="#ffd478">
       <bounds
           x="24"
           y="36"
@@ -317,7 +319,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d11e6018eb074641a5b1316b25023b61"
-        targetConnections="id-47428cb0180b4eaeb8e64b5b03d32f9a id-f2e0093bc1a14a2199a849ea2442d26f">
+        targetConnections="id-47428cb0180b4eaeb8e64b5b03d32f9a id-f2e0093bc1a14a2199a849ea2442d26f"
+        fillColor="#ffd478">
       <bounds
           x="24"
           y="108"
@@ -330,7 +333,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7b1bc277843042b88bba0130484855d9"
-        targetConnections="id-6ca5989a58c648a3903535c06e76eb45 id-3f3e1574a80645b0860005cc492a7f89">
+        targetConnections="id-6ca5989a58c648a3903535c06e76eb45 id-3f3e1574a80645b0860005cc492a7f89"
+        fillColor="#ffd478">
       <bounds
           x="24"
           y="180"
@@ -360,7 +364,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bf9b1972e63a4cb3b8f4feecfcce1b67"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3b0fe35999a745afb739fc3be440c825"
@@ -395,7 +400,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d1fcae78f1fc49268215029a41998152"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#00f900">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-049609242deb4a939c9b368c36a6bba3"
@@ -431,7 +437,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-22b8d3ed99f84b1ab6765d1884111224"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#00f900">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-54396edde2cf49e198a922e8055d0ce9"
@@ -466,7 +473,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e3106b93222e4923b5b953f6810cc17a"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ff9300">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a8bbfefe4331470ba16cedf40e25ed4d"
@@ -528,7 +536,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-456cec5e2b214bf7ae69ee500e08a611"
-        targetConnections="id-30790de003c44c15b1d27a537154ac6a"
+        targetConnections="id-30790de003c44c15b1d27a537154ac6a id-ca0dde1d1d5747a99fcad75dc53ce92e"
         fillColor="#ffd478">
       <bounds
           x="28"
@@ -546,7 +554,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-03015757ed9546ef8cd7579b841b40cd"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ff9300">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a107156ae6f74191a31a7d459bbb3f3e"
@@ -802,7 +811,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e4730583be294b6ba63cd01eae3a6308"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#75d5ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-442cfbfa5329430884d00881ca8a668c"
@@ -881,7 +891,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bc1f17d10a2640959b117ec74e017fa7"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#75d5ff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c476607525a2481b838b239b0df58f5c"
@@ -1026,6 +1037,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d48b4127ef4b454583e0d705e73af517"
+      targetConnections="id-3d25e9e20f1e4567a35d5d102dd7ef42"
       fillColor="#ffd478">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1078,6 +1090,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-38f34c02c5224b8daf27665f7c126e45"
+      targetConnections="id-8c6f56a07a204d90a2af7bb802a0e0c8"
       fillColor="#ffd478">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -1111,11 +1124,56 @@
       id="id-c5d494c5b8a14e6f996f71fb2e1c6a5a"
       targetConnections="id-df37f50b8d064815bc9881284a3a9d64"
       textAlignment="1"
-      content="Ja:&#xA;De bestuurlijke indeling van Nederland wordt geregeld in hoofdstuk 7 van de Grondwet. Dit hoofdstuk regelt de provincies, de gemeenten, de waterschappen en de andere openbare lichamen alsmede de gemeenschappelijke regelingen tussen de openbare lichamen.&#xA;&#xA;veiligheidsregio: een openbaar lichaam als bedoeld in artikel 9;&#xA;Artikel 123 van de Grondwet regelt dat provincies en gemeenten bij wet kunnen worden opgeheven of ingesteld. In de wet ARHI worden de algemene regels voor herindeling vastgelegd. Voor elke wijziging van de indeling (splitsing, samenvoeging, en grotere grenswijziging) is in principe een aparte wet of rijksbesluit nodig. Grenscorrecties (kleinere grenswijzigingen) kunnen met een provinciaal besluit worden ingesteld.&#xA;">
+      content="Ja:&#xA;De bestuurlijke indeling van Nederland wordt geregeld in hoofdstuk 7 van de Grondwet. Dit hoofdstuk regelt de provincies, de gemeenten, de waterschappen en de andere openbare lichamen alsmede de gemeenschappelijke regelingen tussen de openbare lichamen.&#xA;&#xA;veiligheidsregio: een openbaar lichaam als bedoeld in artikel 9;&#xA;Artikel 123 van de Grondwet regelt dat provincies en gemeenten bij wet kunnen worden opgeheven of ingesteld. In de wet ARHI worden de algemene regels voor herindeling vastgelegd. Voor elke wijziging van de indeling (splitsing, samenvoeging, en grotere grenswijziging) is in principe een aparte wet of rijksbesluit nodig. Grenscorrecties (kleinere grenswijzigingen) kunnen met een provinciaal besluit worden ingesteld.&#xA;&#xA;(BdD)&#xA;">
     <bounds
         x="1728"
         y="370"
         width="334"
-        height="303"/>
+        height="327"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-50b496d304fd4f60bb21c278dafd751f"
+      textAlignment="1"
+      content="Staat niet in visualisatie op website (onderliggende objecten wel maar die hebben geen definitie).&#xA;(BdD)">
+    <sourceConnections
+        id="id-3d25e9e20f1e4567a35d5d102dd7ef42"
+        source="id-50b496d304fd4f60bb21c278dafd751f"
+        target="id-d48b4127ef4b454583e0d705e73af517"/>
+    <bounds
+        x="-109"
+        y="36"
+        width="146"
+        height="115"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d3b2f2b887d840ce977a4aebb62a8da5"
+      textAlignment="1"
+      content="staat niet in visualisatie op geonovum website maar lijkt wel logisch gezien vergelijkbare objecten in andere functionele vlakken.&#xA;(BdD)">
+    <sourceConnections
+        id="id-ca0dde1d1d5747a99fcad75dc53ce92e"
+        source="id-d3b2f2b887d840ce977a4aebb62a8da5"
+        target="id-456cec5e2b214bf7ae69ee500e08a611"/>
+    <bounds
+        x="58"
+        y="828"
+        width="185"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-82f6da45fe5543b39f34be529464a132"
+      textAlignment="1"
+      content="Staat niet in visualisatie op website (onderliggende objecten wel maar die hebben geen definitie).&#xA;(BdD)">
+    <sourceConnections
+        id="id-8c6f56a07a204d90a2af7bb802a0e0c8"
+        source="id-82f6da45fe5543b39f34be529464a132"
+        target="id-38f34c02c5224b8daf27665f7c126e45"/>
+    <bounds
+        x="1380"
+        y="709"
+        width="160"
+        height="115"/>
   </children>
 </archimate:ArchimateDiagramModel>
