@@ -95,7 +95,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1e92f45c7f2348f7bbd12d1ed8b25bd5"
-      targetConnections="id-8a1d04e99f134ccf882d5adcebce8a4e id-4f5fa90120a74f048b902e0364bc9d78">
+      targetConnections="id-8a1d04e99f134ccf882d5adcebce8a4e id-4f5fa90120a74f048b902e0364bc9d78 id-873a4e3525814c43bbf0fd292f0040e0">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a037797e5a034309bf0a2aedea48bb7b"
@@ -117,7 +117,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f37d227e2dec4d22bf8f1f45bb847495"
-      targetConnections="id-b48994b745934b069e1c727adaf1a60c id-d9df8d3e614a42138b1b603ae879e367">
+      targetConnections="id-b48994b745934b069e1c727adaf1a60c id-d9df8d3e614a42138b1b603ae879e367 id-0e8aeecf66b64862be839a2611f7d8e8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8a1d04e99f134ccf882d5adcebce8a4e"
@@ -418,5 +418,25 @@
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-a011a985996d4b538bdb14289a36b4dc.xml#id-a011a985996d4b538bdb14289a36b4dc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-18ff6e4dc99d40afbfadd895e09ecf4f"
+      textAlignment="1"
+      fillColor="#fefc78"
+      content="Hoe zot het met de rol van 'dienstverlener'? Binnen SOR benoemd als verstrekker?">
+    <sourceConnections
+        id="id-0e8aeecf66b64862be839a2611f7d8e8"
+        source="id-18ff6e4dc99d40afbfadd895e09ecf4f"
+        target="id-f37d227e2dec4d22bf8f1f45bb847495"/>
+    <sourceConnections
+        id="id-873a4e3525814c43bbf0fd292f0040e0"
+        source="id-18ff6e4dc99d40afbfadd895e09ecf4f"
+        target="id-1e92f45c7f2348f7bbd12d1ed8b25bd5"/>
+    <bounds
+        x="913"
+        y="565"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
