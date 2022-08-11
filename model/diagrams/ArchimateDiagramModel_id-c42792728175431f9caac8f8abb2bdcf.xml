@@ -387,7 +387,7 @@
       id="id-03992e0f0a244f0287bc2bbf05622269"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Is dit een bedrijfs/werkproces of een informatiestroom? Oorspronkelijk naam was overigens terugmeld coordinatie maar ook die is vreemd.">
+      content="BdD: Is dit een bedrijfs/werkproces of een informatiestroom? Oorspronkelijk naam was overigens terugmeld coordinatie maar ook die is vreemd.">
     <sourceConnections
         id="id-7b5d54c4cde3418785619295fa04a458"
         source="id-03992e0f0a244f0287bc2bbf05622269"
@@ -424,7 +424,7 @@
       id="id-18ff6e4dc99d40afbfadd895e09ecf4f"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Hoe zot het met de rol van 'dienstverlener'? Binnen SOR benoemd als verstrekker?">
+      content="BdD: &#xA;Hoe zit het met de rol van 'dienstverlener'? Binnen SOR benoemd als verstrekker?">
     <sourceConnections
         id="id-0e8aeecf66b64862be839a2611f7d8e8"
         source="id-18ff6e4dc99d40afbfadd895e09ecf4f"

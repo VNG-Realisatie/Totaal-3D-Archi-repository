@@ -930,7 +930,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-2deb8bafccc2466b98b1213f6cb6e689"
       textAlignment="1"
-      content="referentie component logging ???">
+      content="BdD: referentie component logging ???">
     <bounds
         x="852"
         y="744"
@@ -941,7 +941,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-9271f72656d84dd3a10474f2dff29306"
       textAlignment="1"
-      content="referentie component transformatie ???">
+      content="BdD: referentie component transformatie ???">
     <bounds
         x="1069"
         y="744"

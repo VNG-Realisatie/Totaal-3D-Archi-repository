@@ -476,7 +476,7 @@
       id="id-170b1ef2132f49649ffb93fa6aeede3c"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Dit gebeurt toch bij ontsluiten? Of wordt hier idd het aanleveren door een inwinner (organisatie, apparaat, etc.) bedoelt?&#xA;">
+      content="BdD: Dit gebeurt toch bij ontsluiten? Of wordt hier idd het aanleveren door een inwinner (organisatie, apparaat, etc.) bedoelt?&#xA;">
     <sourceConnections
         id="id-da5ed2076f6343b29d6766be9ae10da2"
         source="id-170b1ef2132f49649ffb93fa6aeede3c"
@@ -492,7 +492,7 @@
       id="id-15fca0087fc947e9ad2509b9f3da0cec"
       textAlignment="1"
       fillColor="#fefc78"
-      content="De bronhouder beheert juist toch?&#xA;">
+      content="BdD: De bronhouder beheert juist toch?&#xA;">
     <sourceConnections
         id="id-1d8007af3e2b43b084e30fd0b6cd9e14"
         source="id-15fca0087fc947e9ad2509b9f3da0cec"
@@ -508,7 +508,7 @@
       id="id-71d8dae36cce4354a2afc73d02d85c9a"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Is de juiste rol benaming hier Inwinner?&#xA;">
+      content="BdD: Is de juiste rol benaming hier Inwinner?&#xA;">
     <sourceConnections
         id="id-f0980d1079724be0948c54380e0c0bb9"
         source="id-71d8dae36cce4354a2afc73d02d85c9a"
@@ -524,7 +524,7 @@
       id="id-a09d1814d97147599ff170d7d68d2640"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xA;">
+      content="BdD: Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xA;">
     <sourceConnections
         id="id-a02873e7c7a4441c8a8da47ab28772b0"
         source="id-a09d1814d97147599ff170d7d68d2640"
@@ -544,7 +544,7 @@
       id="id-8f009aab6c204d498ca6d4118d854a9e"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Is dit een bedrijfs/werkproces of een informatiestroom? Oorspronkelijk naam was overigens terugmeld coordinatie maar ook die is vreemd.">
+      content="BdD: Is dit een bedrijfs/werkproces of een informatiestroom? Oorspronkelijk naam was overigens terugmeld coordinatie maar ook die is vreemd.">
     <sourceConnections
         id="id-71caa20c11504cd7bf332510410214db"
         source="id-8f009aab6c204d498ca6d4118d854a9e"
