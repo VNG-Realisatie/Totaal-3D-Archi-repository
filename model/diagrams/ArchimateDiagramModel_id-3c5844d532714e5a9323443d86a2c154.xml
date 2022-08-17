@@ -948,4 +948,18 @@
         width="149"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-caf4513f3ae848b5991fc044e7d1cba0"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
+    <bounds
+        x="576"
+        y="432"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-2700a6b4454049eea7dedc3bb7279153.xml#id-2700a6b4454049eea7dedc3bb7279153"/>
+  </children>
 </archimate:ArchimateDiagramModel>
