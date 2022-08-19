@@ -1,13 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SOR objecten (model van begrippen)"
+    name="SOR objecten (model van begrippen) - vastgesteld"
     id="id-6b5486c99a1547dfa9cfd0fc15af5858"
     documentation="Zie ook: https://docs.geostandaarden.nl/disgeo/hiso/">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d52f39d56855437baec59b1d8506306b"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ffffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2104ce8e3c2447bea73de3605108d347"
@@ -102,7 +103,7 @@
         x="60"
         y="348"
         width="1273"
-        height="169"/>
+        height="181"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4121ba74a0704bee9ffe9449e0bbe0c5"
@@ -854,7 +855,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f0a775d70cb847848ec706e4b1f53bed"
-        targetConnections="id-442cfbfa5329430884d00881ca8a668c id-9b7744c01c1847a69f0db58168e181da">
+        targetConnections="id-442cfbfa5329430884d00881ca8a668c id-9b7744c01c1847a69f0db58168e181da"
+        fontColor="#ff2600"
+        fillColor="#ffffb5">
       <bounds
           x="42"
           y="38"
@@ -867,7 +870,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d512ba1cbfa24e2192d1cbf1b83dfa71"
-        targetConnections="id-1248120c727f464e835d3fbf91dfefad id-8228783f8fc3400295ccc8b8dd6eada6">
+        targetConnections="id-1248120c727f464e835d3fbf91dfefad id-8228783f8fc3400295ccc8b8dd6eada6"
+        fontColor="#ff2600"
+        fillColor="#ffffb5">
       <bounds
           x="42"
           y="108"
