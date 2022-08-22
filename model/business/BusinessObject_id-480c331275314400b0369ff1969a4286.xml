@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Boom"
-    id="id-480c331275314400b0369ff1969a4286"/>
+    id="id-480c331275314400b0369ff1969a4286"
+    documentation="Een overblijvende plant met verhoute stam en kroon."/>

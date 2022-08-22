@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kering"
-    id="id-ddcc6bd612d74977aff6c035025113af"/>
+    id="id-ddcc6bd612d74977aff6c035025113af"
+    documentation="Voorziening met een kerende functie."/>
