@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Streek"
-    id="id-dae6d3faf8374bd5acb0fd4e995ffcad"/>
+    id="id-dae6d3faf8374bd5acb0fd4e995ffcad"
+    documentation="Geografische ruimte met een culturele samenhang die vanuit de historie of in de volksmond bekend staat onder een bepaalde naam."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spoorwegknoop"
-    id="id-e22f202a98da420d9189063ed6ad0716"/>
+    id="id-e22f202a98da420d9189063ed6ad0716"
+    documentation="Spoorverkeerruimte die een begin-, eind- of keuzepunt voor de spoorgebruiker is."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Complex"
-    id="id-5de3c61f4e7f48158971cd75fded582d"/>
+    id="id-5de3c61f4e7f48158971cd75fded582d"
+    documentation="Functionele ruimte die een verzameling van één of meer gebouwen, constructies, verharding, water en begroeiing betreft die samen een eenheid vormen"/>
