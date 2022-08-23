@@ -557,7 +557,7 @@
       id="id-a09d1814d97147599ff170d7d68d2640"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xD;&#xA;&#xD;&#xA;PM: Conversie is een  belangrijk deel van het proces. Je kan 3D data niet inwinnen zoals hij wordt opgeslagen. De SOR maakt zich daar misschien niet druk om, maar de SOR gaat er vanuit dat de gemeenten dit al gedaan hebben&#xD;&#xA;">
+      content="Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xD;&#xA;&#xD;&#xA;PM: Conversie is een  belangrijk deel van het proces. Je kan 3D data niet inwinnen zoals hij wordt opgeslagen. De SOR maakt zich daar misschien niet druk om, maar de SOR gaat er vanuit dat de gemeenten dit al gedaan hebben.&#xD;&#xA;T3D is meer dan alleen de SOR. De SOR zal een afgeleide zijn van de gemeentelijke 3D registratie&#xD;&#xA;">
     <sourceConnections
         id="id-a02873e7c7a4441c8a8da47ab28772b0"
         source="id-a09d1814d97147599ff170d7d68d2640"
@@ -587,5 +587,20 @@
         y="132"
         width="204"
         height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-75a109c8878943b4b3ad37d4d9d40d75"
+      textAlignment="1"
+      alpha="180"
+      content="PM: Ik zie hier eeen aantal stappen die mij vanuit T3d niet zoveel zeggen. Bij T3D gaat het na het leveren van brondata om registreren, bewaren, valideren, converteren, verwerken en dan ontsluiten.&#xD;&#xA;&#xD;&#xA;Verrijken gaat over het toevoegen van eigen informatie aan het SOR model. Dat is hier in het geheel niet van toepassing.">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="920"
+        y="492"
+        width="185"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>
