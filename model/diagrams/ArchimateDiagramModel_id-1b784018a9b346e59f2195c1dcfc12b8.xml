@@ -992,4 +992,15 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-cf909bd2dff04af59864ad78c0598d48.xml#id-cf909bd2dff04af59864ad78c0598d48"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-d244c249c58541fba678d9c57db999d9"
+      textAlignment="1"
+      content="PM: Ook hier denk ik dat de stappen in de keten niet helemaal kloppen. Daarnaast heb ik wat vragen over de componenten.&#xD;&#xA;&#xD;&#xA;In Den Haag zijn we druk bezig met orkestratie.  Die zie ik hier niet als componente terug. Verder zie ik hier vooral passieve componenten (opslag, registratie, toegang), die feitelijk niets met de data doen. Ik denk dat het goed is om eens goed na te denken over welke componenten er allemaal nodig zijn.">
+    <bounds
+        x="48"
+        y="-60"
+        width="277"
+        height="181"/>
+  </children>
 </archimate:ArchimateDiagramModel>
