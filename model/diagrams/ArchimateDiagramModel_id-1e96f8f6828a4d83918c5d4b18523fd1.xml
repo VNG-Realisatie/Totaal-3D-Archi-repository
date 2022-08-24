@@ -73,7 +73,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3b203e24ec6e46058f129c85f4f5bb2d"
-      targetConnections="id-87346f9277c64c25b92b0b0c37d2d06e id-c49b78ba667046bfb386c9ed90580775">
+      targetConnections="id-87346f9277c64c25b92b0b0c37d2d06e id-c49b78ba667046bfb386c9ed90580775 id-6899e6b7d2a24a6892b559f333b4c94b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a5cc6a32683a4870b84321de617751f1"
@@ -554,5 +554,21 @@
         y="132"
         width="204"
         height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6ae067097e174ecb8ad93d155f165b10"
+      textAlignment="1"
+      fillColor="#fefc78"
+      content="Bewaren lijkt een te passieve benaming te zijn voor hetgeen er moet gebeuren.">
+    <sourceConnections
+        id="id-6899e6b7d2a24a6892b559f333b4c94b"
+        source="id-6ae067097e174ecb8ad93d155f165b10"
+        target="id-3b203e24ec6e46058f129c85f4f5bb2d"/>
+    <bounds
+        x="680"
+        y="528"
+        width="185"
+        height="60"/>
   </children>
 </archimate:ArchimateDiagramModel>
