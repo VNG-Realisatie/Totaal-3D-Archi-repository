@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Componenten overzicht T3D"
+    name="SOR Componenten overzicht"
     id="id-4b84411c784e4f2ebf98718b47307b47"
     documentation="Op basis van Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie">
   <children
@@ -110,6 +110,33 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-5c2ca82f862d444b91888f8a4195c070.xml#id-5c2ca82f862d444b91888f8a4195c070"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f7be29805e014135bc34847977372b72"
+        source="id-53148045834b4bd1977eb6b28f3fd88f"
+        target="id-74edfad2bda642e4b5f26d371974360c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-f39a706b0b7d4c45be56049fdc78621b.xml#id-f39a706b0b7d4c45be56049fdc78621b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2280c093e60b455ebf759a1e87e88402"
+        source="id-53148045834b4bd1977eb6b28f3fd88f"
+        target="id-49f284e941a140fb8b170992f40a4a22">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-d7dfddd5b0d2410a93c8581e2a0cdfde.xml#id-d7dfddd5b0d2410a93c8581e2a0cdfde"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6709777cf97a459cb5e5dbe82aec00b1"
+        source="id-53148045834b4bd1977eb6b28f3fd88f"
+        target="id-865d3af917cf41029bff91e95e38d173">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-9fb9ec81c59a4dc8af0b913a5891e691.xml#id-9fb9ec81c59a4dc8af0b913a5891e691"/>
+    </sourceConnections>
     <bounds
         x="215"
         y="264"
@@ -127,19 +154,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-cf909bd2dff04af59864ad78c0598d48.xml#id-cf909bd2dff04af59864ad78c0598d48"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e7949f3d2a95479f8e46cf4f5051c45e"
-        targetConnections="id-ed09299184ea46b58c8a75adeaebeb74">
-      <bounds
-          x="96"
-          y="216"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-0f44a8d89092439f9630c92401a6c463.xml#id-0f44a8d89092439f9630c92401a6c463"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -166,6 +180,19 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-80634fbf1e35409795025aef41c3781e.xml#id-80634fbf1e35409795025aef41c3781e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e7949f3d2a95479f8e46cf4f5051c45e"
+        targetConnections="id-ed09299184ea46b58c8a75adeaebeb74">
+      <bounds
+          x="96"
+          y="216"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-0f44a8d89092439f9630c92401a6c463.xml#id-0f44a8d89092439f9630c92401a6c463"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -405,14 +432,67 @@
         href="Grouping_id-e431058ffb68464184911de3bd4dc2e0.xml#id-e431058ffb68464184911de3bd4dc2e0"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3c7162a9f1fa46809b92b0230dc640ad"
-      textAlignment="1"
-      content="PM: Ik vind de onderverdeling mooi. Ik denk niet dat betalingen hier aan de orde zijn, en ik mis in de uitvoering de actieve taken (transformatie, inspectie, etc. ). Het lijkt hier nu allen te gaan om data ophalen en wegschrijven en er komt wel iets meer bij kijken">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-74edfad2bda642e4b5f26d371974360c"
+      targetConnections="id-f7be29805e014135bc34847977372b72 id-ecceda30d7704004b2ed8d4836363497"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
     <bounds
-        x="540"
-        y="576"
-        width="205"
-        height="97"/>
+        x="180"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-2700a6b4454049eea7dedc3bb7279153.xml#id-2700a6b4454049eea7dedc3bb7279153"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-49f284e941a140fb8b170992f40a4a22"
+      targetConnections="id-2280c093e60b455ebf759a1e87e88402 id-ef050f7491e949d4aa937b8e72ce5368"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
+    <bounds
+        x="312"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-68d7f899b9e84f2c9b1f9cb6d54a11e7.xml#id-68d7f899b9e84f2c9b1f9cb6d54a11e7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b9438678d01f480d8ea62dc109ed15e7"
+      textAlignment="1"
+      content="Dit lijken logische toevoegingen gezien de huidige pilots en discussie over zowel transformatie (conversie) en logging.&#xA;(BdD)">
+    <sourceConnections
+        id="id-ecceda30d7704004b2ed8d4836363497"
+        source="id-b9438678d01f480d8ea62dc109ed15e7"
+        target="id-74edfad2bda642e4b5f26d371974360c"/>
+    <sourceConnections
+        id="id-ef050f7491e949d4aa937b8e72ce5368"
+        source="id-b9438678d01f480d8ea62dc109ed15e7"
+        target="id-49f284e941a140fb8b170992f40a4a22"/>
+    <bounds
+        x="204"
+        y="708"
+        width="191"
+        height="109"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-865d3af917cf41029bff91e95e38d173"
+      targetConnections="id-6709777cf97a459cb5e5dbe82aec00b1"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
+    <bounds
+        x="444"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-3411779dbc5e4dddb26b49c8cb4c363f.xml#id-3411779dbc5e4dddb26b49c8cb4c363f"/>
   </children>
 </archimate:ArchimateDiagramModel>

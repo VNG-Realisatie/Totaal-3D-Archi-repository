@@ -18,7 +18,7 @@
           href="FlowRelationship_id-602f10260b12485f877b619fb8d601c5.xml#id-602f10260b12485f877b619fb8d601c5"/>
     </sourceConnections>
     <bounds
-        x="-48"
+        x="84"
         y="156"
         width="120"
         height="55"/>
@@ -34,13 +34,13 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6354d32ae9c54f4495cfee8c461fe319"
         source="id-518fb4985bc84b26bb1d268342141af4"
-        target="id-a40c3dd5f29f4a71b1c6a41639b67095">
+        target="id-c764061160f947a48d205e719eaceb24">
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-0b628079ba054008830149b7ffc5e2ad.xml#id-0b628079ba054008830149b7ffc5e2ad"/>
     </sourceConnections>
     <bounds
-        x="108"
+        x="264"
         y="156"
         width="120"
         height="55"/>
@@ -51,7 +51,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8ce02b3872f04c16a5f5bd459eb7b336"
-      targetConnections="id-bdfaa1eccb6c4044b6780d68afb258aa id-7cda8600281c4414bead958756edb687 id-c9379acc97b24a51a6175de36ccda74c">
+      targetConnections="id-bdfaa1eccb6c4044b6780d68afb258aa id-7cda8600281c4414bead958756edb687">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c49b78ba667046bfb386c9ed90580775"
@@ -73,7 +73,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3b203e24ec6e46058f129c85f4f5bb2d"
-      targetConnections="id-87346f9277c64c25b92b0b0c37d2d06e id-c49b78ba667046bfb386c9ed90580775">
+      targetConnections="id-87346f9277c64c25b92b0b0c37d2d06e id-c49b78ba667046bfb386c9ed90580775 id-6899e6b7d2a24a6892b559f333b4c94b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a5cc6a32683a4870b84321de617751f1"
@@ -191,52 +191,19 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a40c3dd5f29f4a71b1c6a41639b67095"
-      targetConnections="id-da4b9ead50454f19b2f9040728b29b1d id-2e05553f19fe4accbeb531b2b13b529f id-6354d32ae9c54f4495cfee8c461fe319">
+      targetConnections="id-da4b9ead50454f19b2f9040728b29b1d id-2e05553f19fe4accbeb531b2b13b529f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3d9403c5d0e344c7b6b72428c4ddf476"
         source="id-a40c3dd5f29f4a71b1c6a41639b67095"
         target="id-ae3a458bb6224a089c2ba2da8709b33b">
-      <bendpoints
-          startX="-31"
-          startY="81"
-          endX="233"
-          endY="81"/>
-      <bendpoints
-          startX="-271"
-          startY="81"
-          endX="-7"
-          endY="81"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-3a79b178029146db8d008a525882a901.xml#id-3a79b178029146db8d008a525882a901"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-61fefb5ca79a404f924ffe6771ea6eda"
-        source="id-a40c3dd5f29f4a71b1c6a41639b67095"
-        target="id-c764061160f947a48d205e719eaceb24">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-2dd48366524443ba819d62eda98fed4c.xml#id-2dd48366524443ba819d62eda98fed4c"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c9379acc97b24a51a6175de36ccda74c"
-        source="id-a40c3dd5f29f4a71b1c6a41639b67095"
-        target="id-8ce02b3872f04c16a5f5bd459eb7b336">
-      <bendpoints
-          startX="-7"
-          startY="261"
-          endX="-263"
-          endY="-15"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-799ce75a37bd4574aca6ad665de65bfc.xml#id-799ce75a37bd4574aca6ad665de65bfc"/>
-    </sourceConnections>
     <bounds
-        x="271"
-        y="156"
+        x="84"
+        y="264"
         width="120"
         height="55"/>
     <archimateElement
@@ -357,11 +324,6 @@
         id="id-2e05553f19fe4accbeb531b2b13b529f"
         source="id-cdc85a6a27a348b3a49c9c5d01089a7b"
         target="id-a40c3dd5f29f4a71b1c6a41639b67095">
-      <bendpoints
-          startX="-516"
-          startY="-3"
-          endX="41"
-          endY="93"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-00ef559fc259456a86633cc9c0260f49.xml#id-00ef559fc259456a86633cc9c0260f49"/>
@@ -378,7 +340,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c764061160f947a48d205e719eaceb24"
-      targetConnections="id-b0901ad00c5e4a41928854c1f57c6fa9 id-61fefb5ca79a404f924ffe6771ea6eda id-da5ed2076f6343b29d6766be9ae10da2"
+      targetConnections="id-b0901ad00c5e4a41928854c1f57c6fa9 id-da5ed2076f6343b29d6766be9ae10da2 id-6354d32ae9c54f4495cfee8c461fe319"
       fillColor="#ffd478">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -473,6 +435,11 @@
         id="id-da4b9ead50454f19b2f9040728b29b1d"
         source="id-4456ea5569b84567bff6cd1e1f9c878a"
         target="id-a40c3dd5f29f4a71b1c6a41639b67095">
+      <bendpoints
+          startX="-198"
+          startY="213"
+          endX="-84"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-61cda22b20b54eb3ad7f82c5e326945d.xml#id-61cda22b20b54eb3ad7f82c5e326945d"/>
@@ -509,7 +476,7 @@
       id="id-170b1ef2132f49649ffb93fa6aeede3c"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Dit gebeurt toch bij ontsluiten? Of wordt hier idd het aanleveren door een inwinner (organisatie, apparaat, etc.) bedoelt?&#xD;&#xA;PM: ik ga uit van het laatste. Een aannemer levert data aan de gemeente bijvoorbeeld.&#xD;&#xA;">
+      content="BdD: Dit gebeurt toch bij ontsluiten? Of wordt hier idd het aanleveren door een inwinner (organisatie, apparaat, etc.) bedoelt?&#xA;">
     <sourceConnections
         id="id-da5ed2076f6343b29d6766be9ae10da2"
         source="id-170b1ef2132f49649ffb93fa6aeede3c"
@@ -517,15 +484,15 @@
     <bounds
         x="580"
         y="144"
-        width="207"
-        height="121"/>
+        width="165"
+        height="85"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-15fca0087fc947e9ad2509b9f3da0cec"
       textAlignment="1"
       fillColor="#fefc78"
-      content="De bronhouder beheert juist toch?&#xA;">
+      content="BdD: De bronhouder beheert juist toch?&#xA;">
     <sourceConnections
         id="id-1d8007af3e2b43b084e30fd0b6cd9e14"
         source="id-15fca0087fc947e9ad2509b9f3da0cec"
@@ -541,7 +508,7 @@
       id="id-71d8dae36cce4354a2afc73d02d85c9a"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Is de juiste rol benaming hier Inwinner?&#xA;">
+      content="BdD: Is de juiste rol benaming hier Inwinner?&#xA;">
     <sourceConnections
         id="id-f0980d1079724be0948c54380e0c0bb9"
         source="id-71d8dae36cce4354a2afc73d02d85c9a"
@@ -557,7 +524,7 @@
       id="id-a09d1814d97147599ff170d7d68d2640"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xD;&#xA;&#xD;&#xA;PM: Conversie is een  belangrijk deel van het proces. Je kan 3D data niet inwinnen zoals hij wordt opgeslagen. De SOR maakt zich daar misschien niet druk om, maar de SOR gaat er vanuit dat de gemeenten dit al gedaan hebben.&#xD;&#xA;T3D is meer dan alleen de SOR. De SOR zal een afgeleide zijn van de gemeentelijke 3D registratie&#xD;&#xA;">
+      content="BdD: Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xA;">
     <sourceConnections
         id="id-a02873e7c7a4441c8a8da47ab28772b0"
         source="id-a09d1814d97147599ff170d7d68d2640"
@@ -569,15 +536,15 @@
     <bounds
         x="472"
         y="624"
-        width="296"
-        height="217"/>
+        width="175"
+        height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-8f009aab6c204d498ca6d4118d854a9e"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Is dit een bedrijfs/werkproces of een informatiestroom? Oorspronkelijk naam was overigens terugmeld coordinatie maar ook die is vreemd.">
+      content="BdD: Is dit een bedrijfs/werkproces of een informatiestroom? Oorspronkelijk naam was overigens terugmeld coordinatie maar ook die is vreemd.">
     <sourceConnections
         id="id-71caa20c11504cd7bf332510410214db"
         source="id-8f009aab6c204d498ca6d4118d854a9e"
@@ -590,17 +557,18 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-75a109c8878943b4b3ad37d4d9d40d75"
+      id="id-6ae067097e174ecb8ad93d155f165b10"
       textAlignment="1"
-      alpha="180"
-      content="PM: Ik zie hier eeen aantal stappen die mij vanuit T3d niet zoveel zeggen. Bij T3D gaat het na het leveren van brondata om registreren, bewaren, valideren, converteren, verwerken en dan ontsluiten.&#xD;&#xA;&#xD;&#xA;Verrijken gaat over het toevoegen van eigen informatie aan het SOR model. Dat is hier in het geheel niet van toepassing.">
-    <features
-        name="gradient"
-        value="0"/>
+      fillColor="#fefc78"
+      content="Bewaren lijkt een te passieve benaming te zijn voor hetgeen er moet gebeuren.">
+    <sourceConnections
+        id="id-6899e6b7d2a24a6892b559f333b4c94b"
+        source="id-6ae067097e174ecb8ad93d155f165b10"
+        target="id-3b203e24ec6e46058f129c85f4f5bb2d"/>
     <bounds
-        x="920"
-        y="492"
+        x="680"
+        y="528"
         width="185"
-        height="121"/>
+        height="60"/>
   </children>
 </archimate:ArchimateDiagramModel>
