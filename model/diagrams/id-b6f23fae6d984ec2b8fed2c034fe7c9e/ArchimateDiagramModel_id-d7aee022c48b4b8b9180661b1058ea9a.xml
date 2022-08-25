@@ -55,7 +55,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2e69a9aa82b64710868ba56a4899c1e3"
-      targetConnections="id-d1172381dfaa48c086e5fa67803c0e59 id-bd5d645602604e6bb1b70c2e59bcaf84">
+      targetConnections="id-bd5d645602604e6bb1b70c2e59bcaf84 id-d1172381dfaa48c086e5fa67803c0e59">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e2abee4419534b52ae6b9143ca0de092"
@@ -508,20 +508,6 @@
       targetConnections="id-adb2f45aca8c43dca481ac4e093584e2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d1172381dfaa48c086e5fa67803c0e59"
-        source="id-94f3d79c89b64e54a9262d4d178b9c98"
-        target="id-2e69a9aa82b64710868ba56a4899c1e3">
-      <bendpoints
-          startX="24"
-          startY="261"
-          endX="-127"
-          endY="-15"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-3c65993e77304b64b0bc1674ce0ce280.xml#id-3c65993e77304b64b0bc1674ce0ce280"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-73139f4186834910a834ba8f75453d86"
         source="id-94f3d79c89b64e54a9262d4d178b9c98"
         target="id-7bfce64f6b7440f0916209e8c506b063">
@@ -533,6 +519,20 @@
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-7590d7ec9f864d3c8338678ea0c31e48.xml#id-7590d7ec9f864d3c8338678ea0c31e48"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d1172381dfaa48c086e5fa67803c0e59"
+        source="id-94f3d79c89b64e54a9262d4d178b9c98"
+        target="id-2e69a9aa82b64710868ba56a4899c1e3">
+      <bendpoints
+          startX="24"
+          startY="261"
+          endX="-127"
+          endY="-15"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-3c65993e77304b64b0bc1674ce0ce280.xml#id-3c65993e77304b64b0bc1674ce0ce280"/>
     </sourceConnections>
     <bounds
         x="408"

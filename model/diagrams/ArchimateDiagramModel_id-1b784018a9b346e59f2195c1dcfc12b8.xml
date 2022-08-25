@@ -178,15 +178,6 @@
       fillColor="#ffd478">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bf1d39b3e5744f42bc131ebc5642f399"
-        source="id-41bee8e6164c4f58a09beb7b03191008"
-        target="id-1e21804a5d45406fb0e439e0b0f161ff">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-3c65993e77304b64b0bc1674ce0ce280.xml#id-3c65993e77304b64b0bc1674ce0ce280"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7fde667f40a94a1ba82a3324c05ec04f"
         source="id-41bee8e6164c4f58a09beb7b03191008"
         target="id-1e21804a5d45406fb0e439e0b0f161ff">
@@ -201,6 +192,15 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8253fa49b35e40fbb66761bb1a910306.xml#id-8253fa49b35e40fbb66761bb1a910306"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bf1d39b3e5744f42bc131ebc5642f399"
+        source="id-41bee8e6164c4f58a09beb7b03191008"
+        target="id-1e21804a5d45406fb0e439e0b0f161ff">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-3c65993e77304b64b0bc1674ce0ce280.xml#id-3c65993e77304b64b0bc1674ce0ce280"/>
     </sourceConnections>
     <bounds
         x="600"
@@ -603,7 +603,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1e21804a5d45406fb0e439e0b0f161ff"
-        targetConnections="id-bf1d39b3e5744f42bc131ebc5642f399 id-a4557e45eaae4be18aac075cb7f542c3 id-7fde667f40a94a1ba82a3324c05ec04f">
+        targetConnections="id-a4557e45eaae4be18aac075cb7f542c3 id-7fde667f40a94a1ba82a3324c05ec04f id-bf1d39b3e5744f42bc131ebc5642f399">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-db22c8dcf084470cb6b305cad4af7ff0"
