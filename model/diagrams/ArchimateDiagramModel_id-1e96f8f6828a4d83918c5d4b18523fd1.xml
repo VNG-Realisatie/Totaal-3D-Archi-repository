@@ -39,6 +39,10 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-0b628079ba054008830149b7ffc5e2ad.xml#id-0b628079ba054008830149b7ffc5e2ad"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-b6eeb512c69f4ce9a37d3bab9b0ced03"
+        source="id-518fb4985bc84b26bb1d268342141af4"
+        target="id-9117de4d422f479bbb39047d0c60b28b"/>
     <bounds
         x="264"
         y="156"
@@ -61,6 +65,10 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-d5282f26fff04293a03c07346572ad44.xml#id-d5282f26fff04293a03c07346572ad44"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-e3b51ce9ea7644cb8aa061ec9d6951d5"
+        source="id-8ce02b3872f04c16a5f5bd459eb7b336"
+        target="id-33fc2c4a77f942c4ad402d827b13cbd4"/>
     <bounds
         x="527"
         y="432"
@@ -131,6 +139,10 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-5fa049a7d3804bd5bd5278c0ef5cf082.xml#id-5fa049a7d3804bd5bd5278c0ef5cf082"/>
     </sourceConnections>
+    <sourceConnections
+        id="id-9b3b8544bb8648b7bd8cc1251a0cb4ef"
+        source="id-e5103d8d397244d78483340c6fe48d26"
+        target="id-5584d40e77984d8db94271a6b9993710"/>
     <bounds
         x="864"
         y="432"
@@ -307,8 +319,8 @@
       targetConnections="id-42109a9b0e344cc8852227fabc5541f4 id-1a08db2aa158422e9992e2d7821c6c1b"
       fillColor="#ffd478">
     <bounds
-        x="289"
-        y="696"
+        x="96"
+        y="684"
         width="120"
         height="55"/>
     <archimateElement
@@ -409,8 +421,8 @@
           href="AssignmentRelationship_id-cd341a5fc6e34a1bb1af90f83101b044.xml#id-cd341a5fc6e34a1bb1af90f83101b044"/>
     </sourceConnections>
     <bounds
-        x="289"
-        y="600"
+        x="96"
+        y="588"
         width="120"
         height="55"/>
     <archimateElement
@@ -524,7 +536,7 @@
       id="id-a09d1814d97147599ff170d7d68d2640"
       textAlignment="1"
       fillColor="#fefc78"
-      content="BdD: Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xA;">
+      content="BdD: Komt niet terug in Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie. Waarom wel opnemen?&#xD;&#xA;&#xD;&#xA;PM; Converteren is vermoedelijk, samen met valideren, onderdeel van samenstellen.">
     <sourceConnections
         id="id-a02873e7c7a4441c8a8da47ab28772b0"
         source="id-a09d1814d97147599ff170d7d68d2640"
@@ -534,10 +546,10 @@
         source="id-a09d1814d97147599ff170d7d68d2640"
         target="id-e2d0d51b2bc74044b0d84463b788589c"/>
     <bounds
-        x="472"
-        y="624"
-        width="175"
-        height="109"/>
+        x="279"
+        y="612"
+        width="202"
+        height="157"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -560,15 +572,51 @@
       id="id-6ae067097e174ecb8ad93d155f165b10"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Bewaren lijkt een te passieve benaming te zijn voor hetgeen er moet gebeuren.">
+      content="Bewaren lijkt een te passieve benaming te zijn voor hetgeen er moet gebeuren.&#xD;&#xA;PM: Beheren lijkt me beter, maar dat lijkt me een taak in het gehele proces, en niet een stap in de keten">
     <sourceConnections
         id="id-6899e6b7d2a24a6892b559f333b4c94b"
         source="id-6ae067097e174ecb8ad93d155f165b10"
         target="id-3b203e24ec6e46058f129c85f4f5bb2d"/>
     <bounds
-        x="680"
-        y="528"
-        width="185"
-        height="60"/>
+        x="672"
+        y="504"
+        width="209"
+        height="97"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-9117de4d422f479bbb39047d0c60b28b"
+      targetConnections="id-b6eeb512c69f4ce9a37d3bab9b0ced03"
+      textAlignment="1"
+      content="PM: Ik vraag me af of de volgorde hier helemaal klopt. Als je samenstellen ziet als het omzetten van een BIM of LIDAR naar een CityGML, dan gebeurt dat nadat de data is aangeleverd vanuit het inwinnen.&#xD;&#xA;Na het samenstellen wordt de data inderdaad doorgeleverd naar het registreren (met de inspectie als tussenstap), maar er zit ook een leverstap voor het samenstellen ">
+    <bounds
+        x="192"
+        y="336"
+        width="241"
+        height="181"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-33fc2c4a77f942c4ad402d827b13cbd4"
+      targetConnections="id-e3b51ce9ea7644cb8aa061ec9d6951d5"
+      textAlignment="1"
+      content="Registreren, zoals hier ingetekend is een complexe taak. Het gaat om verschildetectie, verwijderen, invoegen, wijzigen. Deels automatisch, maar zeker ook deels handmatig.&#xD;&#xA;&#xD;&#xA;In T3D heette dat tot nu toe verwerken, wat een wat actievere taak is. Registreren vind ik een benaming die de lading niet dekt">
+    <bounds
+        x="540"
+        y="612"
+        width="265"
+        height="157"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-5584d40e77984d8db94271a6b9993710"
+      targetConnections="id-9b3b8544bb8648b7bd8cc1251a0cb4ef"
+      textAlignment="1"
+      content="Verrijken is in T3D niet echt in beeld. Bovendien niet op dit moment in het proces. Gemeenten kunnen inderdaad het SOR model verrijken met eigen informatie, maar dit zal al bij het samenstellen en registreren gebeuren en niet achteraf. Ik weet niet of dit als aparte stap benoemd moet worden">
+    <bounds
+        x="924"
+        y="540"
+        width="205"
+        height="181"/>
   </children>
 </archimate:ArchimateDiagramModel>
