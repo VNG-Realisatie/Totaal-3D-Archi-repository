@@ -465,7 +465,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b9438678d01f480d8ea62dc109ed15e7"
       textAlignment="1"
-      content="Dit lijken logische toevoegingen gezien de huidige pilots en discussie over zowel transformatie (conversie) en logging.&#xA;(BdD)">
+      content="Dit lijken logische toevoegingen gezien de huidige pilots en discussie over zowel transformatie (conversie) en logging.&#xD;&#xA;(BdD)&#xD;&#xA;">
     <sourceConnections
         id="id-ecceda30d7704004b2ed8d4836363497"
         source="id-b9438678d01f480d8ea62dc109ed15e7"
@@ -494,5 +494,16 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-3411779dbc5e4dddb26b49c8cb4c363f.xml#id-3411779dbc5e4dddb26b49c8cb4c363f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1fcf9bb212534ea2afd46848f3d114a2"
+      textAlignment="1"
+      content="PM: Met de drie toevoegingen is de set wel completer. Ik zit nog een beetje te zoeken naar componenten die de validatie van bestanden ondersteunen. Ook de verwerking van gegevens (verschildetectie, wegschrijven, etc) kan ik nog niet helemaal uitvoeren met deze componenten. Nu is dit laatste wellicht niet als generieke component nodig, maar validatie zie ik op een aantal plaatsen wel terugkomen,">
+    <bounds
+        x="720"
+        y="654"
+        width="301"
+        height="151"/>
   </children>
 </archimate:ArchimateDiagramModel>
