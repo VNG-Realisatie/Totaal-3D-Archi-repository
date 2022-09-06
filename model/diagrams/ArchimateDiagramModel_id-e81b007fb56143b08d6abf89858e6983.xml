@@ -195,7 +195,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-023c799d1cba48a0bc5628cd10d9fc46"
-      targetConnections="id-4683c3ac1d8645c78b30e854c3325f16">
+      targetConnections="id-4683c3ac1d8645c78b30e854c3325f16 id-db76e74da6d34e5883b4ad26c99cb8b9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-68becef253de47a59994c517087fb663"
@@ -383,7 +383,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-25d376c444e647c1a8380fd8febdbfdc"
-      targetConnections="id-3232f617d814447ebd5f3a9dee51f480">
+      targetConnections="id-3232f617d814447ebd5f3a9dee51f480 id-810444b27bd545deb63bf03dee70bc7b id-f47762548245430da238efd5d85a421c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c0e410698b3d421ab5a4b8ba8eef5b44"
@@ -409,7 +409,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c341e92121974948b5ee411068f9798b"
-      targetConnections="id-05850ce74c1b4b05a43b0225e095488b">
+      targetConnections="id-05850ce74c1b4b05a43b0225e095488b id-34fcfebffc11433b82965dba0c57d515">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-81be722b665c41e0a8b6a2d1045ce387"
@@ -475,5 +475,54 @@
         y="433"
         width="185"
         height="108"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c4edf0d8c2194fc796fe58191cf84785"
+      textAlignment="1"
+      content="Klinkt eerder als een applicatie functie of -proces.&#xA;&#xA;(BdD)">
+    <sourceConnections
+        id="id-34fcfebffc11433b82965dba0c57d515"
+        source="id-c4edf0d8c2194fc796fe58191cf84785"
+        target="id-c341e92121974948b5ee411068f9798b"/>
+    <bounds
+        x="1056"
+        y="389"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-cdacbddb6bde40ac8573ead31d79a909"
+      textAlignment="1"
+      content="In metamodel stel ik voor om applicatieservice te gebruiken voor ontsluiting naar business laag (service als GUI) en koppelvlak voor koppeling tussen systemen op informatielaag (API).&#xA;&#xA;Verder geeft de richting van de flow relatie al aan wat in en wat uit is.&#xA;&#xA;(BdD)">
+    <sourceConnections
+        id="id-db76e74da6d34e5883b4ad26c99cb8b9"
+        source="id-cdacbddb6bde40ac8573ead31d79a909"
+        target="id-023c799d1cba48a0bc5628cd10d9fc46"/>
+    <sourceConnections
+        id="id-810444b27bd545deb63bf03dee70bc7b"
+        source="id-cdacbddb6bde40ac8573ead31d79a909"
+        target="id-25d376c444e647c1a8380fd8febdbfdc"/>
+    <bounds
+        x="804"
+        y="461"
+        width="231"
+        height="176"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b31f822173344ac089cc5ca4725e9129"
+      textAlignment="1"
+      content="Wat voor type API?&#xA;&#xA;(BdD)&#xA;">
+    <sourceConnections
+        id="id-f47762548245430da238efd5d85a421c"
+        source="id-b31f822173344ac089cc5ca4725e9129"
+        target="id-25d376c444e647c1a8380fd8febdbfdc"/>
+    <bounds
+        x="1228"
+        y="283"
+        width="129"
+        height="66"/>
   </children>
 </archimate:ArchimateDiagramModel>
