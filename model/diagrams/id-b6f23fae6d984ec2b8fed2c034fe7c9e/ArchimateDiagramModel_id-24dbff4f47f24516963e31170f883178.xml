@@ -402,7 +402,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-1ce50c497ccc4e289136e47f683a5660"
       textAlignment="1"
-      content="@Peer: Het lijkt mij goed om in het document veld van deze objecten ook een beschrijving op te nemen wat jij hieronder verstaat. Dit als start voor de discussie.&#xA;&#xA;Daarnaast vraag ik mij af of deze stappen thuishoren bij de Inwinner (als vervanging en/of specialisatie van de stap opschonen&#xA;&#xA;(BdD)">
+      content="@Peer: Het lijkt mij goed om in het document veld van deze objecten ook een beschrijving op te nemen wat jij hieronder verstaat. Dit als start voor de discussie.&#xA;&#xA;Daarnaast vraag ik mij af of deze stappen thuishoren bij de Inwinner (als vervanging en/of specialisatie van de stap opschonen)&#xA;&#xA;(BdD)">
     <sourceConnections
         id="id-b7de03093fbf4ac28df9adbd582cb42d"
         source="id-1ce50c497ccc4e289136e47f683a5660"
