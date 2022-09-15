@@ -1,4 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Onderzoeken"
-    id="id-99c81ca4c07940d69d5fd3a7951259cf"/>
+    name="Samenstellen"
+    id="id-99c81ca4c07940d69d5fd3a7951259cf"
+    documentation="Dit is de functie om data aan te kunnen leveren die verwerkt kan worden in de 3D objectregistratie. AFhankelijk van de input kunnen hier bepaalde componenten worden gebruikt"/>
