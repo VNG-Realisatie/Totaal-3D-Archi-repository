@@ -421,4 +421,15 @@
         width="421"
         height="128"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-0016ac87d2a748be97cce617bb77e4f0"
+      textAlignment="1"
+      content="Opschonen naar rechts verplaatsen, en een nieuwe opschonen maken voor het opschonen van data">
+    <bounds
+        x="282"
+        y="272"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
