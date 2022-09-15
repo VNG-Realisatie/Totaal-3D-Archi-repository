@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontvangen brondata"
+    id="id-d4378b2ed8234ddb85d6bbb98fa08c77"
+    documentation="Het in ontvangst nemen van aangeleverde data. Dit kan een handmatige actie zijn (ophalen van een ZIP bestand, bestanden op de juiste plek plaatsen, etc. ), of een geautomatiseerd proces via API's. "/>

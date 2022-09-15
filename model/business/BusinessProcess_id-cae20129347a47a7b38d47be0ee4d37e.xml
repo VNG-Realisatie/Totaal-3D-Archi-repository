@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewerken ruwe data"
+    id="id-cae20129347a47a7b38d47be0ee4d37e"
+    documentation="Het bewerken van ingewonnen gegevens tot een formaat wat verder in het inwin proces bruikbaar is (dus opschonen van een Lidar bestand, of opwerken van een BIM bestand). Deze stap kan alleen uitgevoerd worden als vanuit de 3D objectregistratie duidelijke leveringsspecificaties aanwezig zijn."/>

@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a9fc8351913d432d8b943c979caecaa7"
-      targetConnections="id-7da9875e66cf492eb6c5e298906954f9 id-e01758adf9e54644a5d3739664920ecf id-298de93eb6f9407b93bbb5815a8f7cff">
+      targetConnections="id-e01758adf9e54644a5d3739664920ecf id-298de93eb6f9407b93bbb5815a8f7cff id-7da9875e66cf492eb6c5e298906954f9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f830ea8505194aadb7151f12e628c537"
@@ -330,15 +330,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-7da9875e66cf492eb6c5e298906954f9"
-        source="id-aa3b6d30b13749fa8f42fb2473eed8b4"
-        target="id-a9fc8351913d432d8b943c979caecaa7">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-738cfaa7f70c4e5d931a58f0acb5e9ee.xml#id-738cfaa7f70c4e5d931a58f0acb5e9ee"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-df323c1e684746fdabf3f758f51d6ec4"
         source="id-aa3b6d30b13749fa8f42fb2473eed8b4"
         target="id-f9cefe3103a64e29a2e9b84dfeb737f3">
@@ -372,6 +363,15 @@
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-2d9fe7dba844437c95a3aa6cd417aca0.xml#id-2d9fe7dba844437c95a3aa6cd417aca0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7da9875e66cf492eb6c5e298906954f9"
+        source="id-aa3b6d30b13749fa8f42fb2473eed8b4"
+        target="id-a9fc8351913d432d8b943c979caecaa7">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-738cfaa7f70c4e5d931a58f0acb5e9ee.xml#id-738cfaa7f70c4e5d931a58f0acb5e9ee"/>
     </sourceConnections>
     <bounds
         x="198"
