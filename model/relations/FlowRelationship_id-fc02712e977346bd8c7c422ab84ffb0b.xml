@@ -4,8 +4,8 @@
     name="ingewonnen data"
     id="id-fc02712e977346bd8c7c422ab84ffb0b">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-fe8a5daee0574792b295b05e5ed167bd.xml#id-fe8a5daee0574792b295b05e5ed167bd"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-d9220a98888d44e6bda5ce6a69c785b8.xml#id-d9220a98888d44e6bda5ce6a69c785b8"/>
   <target
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-dd493f20a393450a9d0091610dc94c90.xml#id-dd493f20a393450a9d0091610dc94c90"/>
