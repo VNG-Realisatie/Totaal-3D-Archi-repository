@@ -868,4 +868,15 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-6d7d570854504085951672defb0cc588.xml#id-6d7d570854504085951672defb0cc588"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-00183e417d4b4507a4d35557b9421347"
+      textAlignment="1"
+      content="- Wat is de beooogde boodschap van deze view?&#xA;- wie heeft deze opgesteld?&#xA;- representatie als object voor formaat is niet juist -> hiervoor requirement of constraint gebruiken uit motivation&#xA;">
+    <bounds
+        x="288"
+        y="606"
+        width="373"
+        height="127"/>
+  </children>
 </archimate:ArchimateDiagramModel>
