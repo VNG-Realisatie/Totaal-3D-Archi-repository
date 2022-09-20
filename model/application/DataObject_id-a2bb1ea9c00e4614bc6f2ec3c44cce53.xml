@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="metadata ingewonnen data"
-    id="id-a2bb1ea9c00e4614bc6f2ec3c44cce53"/>
+    id="id-a2bb1ea9c00e4614bc6f2ec3c44cce53"
+    documentation="Naast de ingewonnen data worden er ook gegevesn opgeslagen die beschrijvend zijn (inwindatum, inwinner, reden inwinning, etc.). Deze gegevens worden centraal vastgelegd."/>

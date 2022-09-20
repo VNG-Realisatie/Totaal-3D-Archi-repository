@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inwin database"
-    id="id-f5c2e2cf874e4d7da968b785c0aafe11"/>
+    id="id-f5c2e2cf874e4d7da968b785c0aafe11"
+    documentation="Centrale opslag voor ingewonnen data. Nu nog een fictief object"/>
