@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ae3a458bb6224a089c2ba2da8709b33b"
-      targetConnections="id-3d9403c5d0e344c7b6b72428c4ddf476 id-e0bd4394c24940c982320af8507512d9">
+      targetConnections="id-e0bd4394c24940c982320af8507512d9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-138db0c5b4e24721943e77717b91650b"
@@ -18,7 +18,7 @@
           href="FlowRelationship_id-602f10260b12485f877b619fb8d601c5.xml#id-602f10260b12485f877b619fb8d601c5"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="23"
         y="156"
         width="120"
         height="55"/>
@@ -29,7 +29,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-518fb4985bc84b26bb1d268342141af4"
-      targetConnections="id-d6216d5d21af45f390fce452c4846673 id-138db0c5b4e24721943e77717b91650b">
+      targetConnections="id-d6216d5d21af45f390fce452c4846673 id-138db0c5b4e24721943e77717b91650b id-3d9403c5d0e344c7b6b72428c4ddf476">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6354d32ae9c54f4495cfee8c461fe319"
@@ -129,7 +129,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e5103d8d397244d78483340c6fe48d26"
-      targetConnections="id-e431940632bc4a2a8b0f777fb26f299a id-a5cc6a32683a4870b84321de617751f1">
+      targetConnections="id-e431940632bc4a2a8b0f777fb26f299a id-a5cc6a32683a4870b84321de617751f1 id-943a122b8c574db7a2d64b2f62604755">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ff31fa50c46a4f4183d09e18c9a88953"
@@ -162,8 +162,9 @@
         source="id-067e0678040c421aa2332b1f35cd72cd"
         target="id-cdc85a6a27a348b3a49c9c5d01089a7b">
       <bendpoints
+          startX="-12"
           startY="105"
-          endX="635"
+          endX="865"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
@@ -208,13 +209,13 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3d9403c5d0e344c7b6b72428c4ddf476"
         source="id-a40c3dd5f29f4a71b1c6a41639b67095"
-        target="id-ae3a458bb6224a089c2ba2da8709b33b">
+        target="id-518fb4985bc84b26bb1d268342141af4">
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-3a79b178029146db8d008a525882a901.xml#id-3a79b178029146db8d008a525882a901"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="264"
         y="264"
         width="120"
         height="55"/>
@@ -340,8 +341,32 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-00ef559fc259456a86633cc9c0260f49.xml#id-00ef559fc259456a86633cc9c0260f49"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-943a122b8c574db7a2d64b2f62604755"
+        source="id-cdc85a6a27a348b3a49c9c5d01089a7b"
+        target="id-e5103d8d397244d78483340c6fe48d26">
+      <bendpoints
+          startX="-167"
+          startY="21"
+          endX="-504"
+          endY="-159"/>
+      <bendpoints
+          startX="-167"
+          startY="225"
+          endX="-504"
+          endY="45"/>
+      <bendpoints
+          startX="325"
+          startY="225"
+          endX="-12"
+          endY="45"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-b9c7488061ee4410aafc40f1c5f6e830.xml#id-b9c7488061ee4410aafc40f1c5f6e830"/>
+    </sourceConnections>
     <bounds
-        x="828"
+        x="527"
         y="252"
         width="120"
         height="55"/>
@@ -448,9 +473,9 @@
         source="id-4456ea5569b84567bff6cd1e1f9c878a"
         target="id-a40c3dd5f29f4a71b1c6a41639b67095">
       <bendpoints
-          startX="-198"
+          startX="-78"
           startY="213"
-          endX="-84"
+          endX="-144"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
@@ -578,8 +603,8 @@
         source="id-6ae067097e174ecb8ad93d155f165b10"
         target="id-3b203e24ec6e46058f129c85f4f5bb2d"/>
     <bounds
-        x="672"
-        y="504"
+        x="646"
+        y="528"
         width="209"
         height="97"/>
   </children>
@@ -590,7 +615,7 @@
       textAlignment="1"
       content="PM: Ik vraag me af of de volgorde hier helemaal klopt. Als je samenstellen ziet als het omzetten van een BIM of LIDAR naar een CityGML, dan gebeurt dat nadat de data is aangeleverd vanuit het inwinnen.&#xD;&#xA;Na het samenstellen wordt de data inderdaad doorgeleverd naar het registreren (met de inspectie als tussenstap), maar er zit ook een leverstap voor het samenstellen ">
     <bounds
-        x="192"
+        x="-48"
         y="336"
         width="241"
         height="181"/>
@@ -602,8 +627,8 @@
       textAlignment="1"
       content="Registreren, zoals hier ingetekend is een complexe taak. Het gaat om verschildetectie, verwijderen, invoegen, wijzigen. Deels automatisch, maar zeker ook deels handmatig.&#xD;&#xA;&#xD;&#xA;In T3D heette dat tot nu toe verwerken, wat een wat actievere taak is. Registreren vind ik een benaming die de lading niet dekt">
     <bounds
-        x="540"
-        y="612"
+        x="530"
+        y="696"
         width="265"
         height="157"/>
   </children>
@@ -614,8 +639,8 @@
       textAlignment="1"
       content="Verrijken is in T3D niet echt in beeld. Bovendien niet op dit moment in het proces. Gemeenten kunnen inderdaad het SOR model verrijken met eigen informatie, maar dit zal al bij het samenstellen en registreren gebeuren en niet achteraf. Ik weet niet of dit als aparte stap benoemd moet worden">
     <bounds
-        x="924"
-        y="540"
+        x="912"
+        y="696"
         width="205"
         height="181"/>
   </children>
