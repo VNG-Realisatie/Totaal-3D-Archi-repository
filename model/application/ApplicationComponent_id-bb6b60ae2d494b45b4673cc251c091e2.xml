@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Workflow management"
-    id="id-bb6b60ae2d494b45b4673cc251c091e2"/>
+    name="Workflow beheer"
+    id="id-bb6b60ae2d494b45b4673cc251c091e2"
+    documentation="De component workflow beheer zorgt voor de mogelijkheid om in bepaalde volgorde van stappen gegevens te bewerken (transformeren, registreren, valideren, etc.)."/>

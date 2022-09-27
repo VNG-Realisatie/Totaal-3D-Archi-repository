@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ingewonnen data / metadata / procesdata"
+    name="ingewonnen data"
     id="id-20f2006886344e5a9267ed0e1de398fe">
   <source
       xsi:type="archimate:ApplicationComponent"

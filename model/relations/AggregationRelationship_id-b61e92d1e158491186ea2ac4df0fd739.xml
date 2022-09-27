@@ -1,12 +1,11 @@
-<archimate:FlowRelationship
+<archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="procesdata"
-    id="id-8ec2309a7e874a4ba6d7684d97ca026f">
+    id="id-b61e92d1e158491186ea2ac4df0fd739">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-d7f2806a897b48fcb8a2957b6241a6f8.xml#id-d7f2806a897b48fcb8a2957b6241a6f8"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-bd85e79b444941c18851d73a71814162.xml#id-bd85e79b444941c18851d73a71814162"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-fe8a5daee0574792b295b05e5ed167bd.xml#id-fe8a5daee0574792b295b05e5ed167bd"/>
-</archimate:FlowRelationship>
+</archimate:AggregationRelationship>

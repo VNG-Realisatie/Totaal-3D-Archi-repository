@@ -139,15 +139,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-674f64056da94087b5fec1db0d65a834"
-        source="id-53148045834b4bd1977eb6b28f3fd88f"
-        target="id-94655273a18d401f8b1500ae7f09367d">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-6889f7fd28c2466a970e46530311d8fd.xml#id-6889f7fd28c2466a970e46530311d8fd"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-fd19f51c1f69400abd2aad81172e99c8"
         source="id-53148045834b4bd1977eb6b28f3fd88f"
         target="id-ba5e40be0a434e3fbd59ad0950539d84">
@@ -163,6 +154,15 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-fb71e29f9c434c4ab5b852635c31420c.xml#id-fb71e29f9c434c4ab5b852635c31420c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-674f64056da94087b5fec1db0d65a834"
+        source="id-53148045834b4bd1977eb6b28f3fd88f"
+        target="id-94655273a18d401f8b1500ae7f09367d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-6889f7fd28c2466a970e46530311d8fd.xml#id-6889f7fd28c2466a970e46530311d8fd"/>
     </sourceConnections>
     <bounds
         x="215"
@@ -465,7 +465,7 @@
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
-        x="180"
+        x="228"
         y="600"
         width="120"
         height="55"/>
@@ -480,7 +480,7 @@
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
-        x="312"
+        x="360"
         y="600"
         width="120"
         height="55"/>
@@ -495,7 +495,7 @@
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
-        x="444"
+        x="492"
         y="600"
         width="120"
         height="55"/>
@@ -510,7 +510,7 @@
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
-        x="36"
+        x="85"
         y="600"
         width="120"
         height="55"/>
@@ -525,8 +525,8 @@
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
-        x="68"
-        y="683"
+        x="85"
+        y="684"
         width="120"
         height="55"/>
     <archimateElement
@@ -540,7 +540,7 @@
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
-        x="600"
+        x="624"
         y="600"
         width="120"
         height="55"/>

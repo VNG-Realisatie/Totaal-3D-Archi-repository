@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Transformatie"
-    id="id-3048b394edaf48a2b90270d8bcec0329"
-    documentation="Bronbestanden rechtstreeks verwerken in een 3D object registratie is niet mogelijk. Eerst moeten bronbestanden worden omgezet naar een algemeen formaat, voorlopig CityGML.  Hiervoor zijn componenten beschikbaar die die omzetting doen, beschikbaar via een API. "/>
