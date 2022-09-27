@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ae3a458bb6224a089c2ba2da8709b33b"
-      targetConnections="id-e0bd4394c24940c982320af8507512d9">
+      targetConnections="id-e0bd4394c24940c982320af8507512d9 id-cba0183c9612493a8d12e04d81996db8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-138db0c5b4e24721943e77717b91650b"
@@ -154,6 +154,25 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a40c3dd5f29f4a71b1c6a41639b67095"
       targetConnections="id-da4b9ead50454f19b2f9040728b29b1d id-d92767a44fe4472b8b0fb60435a4f824">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-cba0183c9612493a8d12e04d81996db8"
+        source="id-a40c3dd5f29f4a71b1c6a41639b67095"
+        target="id-ae3a458bb6224a089c2ba2da8709b33b">
+      <bendpoints
+          startX="-348"
+          startY="-3"
+          endX="-109"
+          endY="-222"/>
+      <bendpoints
+          startX="-348"
+          startY="201"
+          endX="-109"
+          endY="-18"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-8b47859ebb1c4d39bc65b92d7fa7370d.xml#id-8b47859ebb1c4d39bc65b92d7fa7370d"/>
+    </sourceConnections>
     <bounds
         x="252"
         y="-72"
