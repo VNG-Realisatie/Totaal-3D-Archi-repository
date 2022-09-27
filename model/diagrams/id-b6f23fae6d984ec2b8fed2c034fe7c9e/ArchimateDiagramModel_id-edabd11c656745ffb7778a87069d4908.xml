@@ -631,7 +631,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-005070888ca04363b2d1faade54db419"
-        targetConnections="id-6b021eb6cf6d4a9f8f99b4a2d627e041">
+        targetConnections="id-6b021eb6cf6d4a9f8f99b4a2d627e041"
+        fillColor="#3cffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-983ac1d22ea34d5ebebbcfc93cbdbe16"
@@ -658,7 +659,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-0ebdb33504684ae48f8956c7616ea136"
-          targetConnections="id-e3a8580e6d654405a9aefa332c62d91b id-f3d072dd09844b5eb6ffb84b2422c4da">
+          targetConnections="id-e3a8580e6d654405a9aefa332c62d91b id-f3d072dd09844b5eb6ffb84b2422c4da"
+          fillColor="#3cffff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-060e9dffedb540c7a91d530379cb11a4"
@@ -728,7 +730,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b1626e0ab880470a9e6f0b1b8fe14f05"
-        targetConnections="id-06ee9daf0da84aada993b1771435d2d9">
+        targetConnections="id-06ee9daf0da84aada993b1771435d2d9"
+        fillColor="#3cffff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-8ce6fd0cdfa74c94b1341dcd900bcab4"
@@ -746,7 +749,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-f7d121a194264de9a4c0089d64047e8c"
-          targetConnections="id-8ce6fd0cdfa74c94b1341dcd900bcab4 id-6028171fc26a4f828fdad240b060372b">
+          targetConnections="id-8ce6fd0cdfa74c94b1341dcd900bcab4 id-6028171fc26a4f828fdad240b060372b"
+          fillColor="#3cffff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-baf7134990084f2da0943d99c9b48479"
@@ -917,7 +921,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3abae0ca41cc487ba12c7521f06d79e9"
-        targetConnections="id-7e47d820062d4aaa94954b2282f5a5bf id-983ac1d22ea34d5ebebbcfc93cbdbe16 id-d8463d61d9d94d188e59929d784d9d04">
+        targetConnections="id-7e47d820062d4aaa94954b2282f5a5bf id-983ac1d22ea34d5ebebbcfc93cbdbe16 id-d8463d61d9d94d188e59929d784d9d04"
+        fillColor="#3cffff">
       <bounds
           x="1296"
           y="38"
