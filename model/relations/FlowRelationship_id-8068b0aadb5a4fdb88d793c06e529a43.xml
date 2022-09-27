@@ -1,12 +1,11 @@
-<archimate:AssociationRelationship
+<archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="synoniem?"
-    id="id-8253fa49b35e40fbb66761bb1a910306">
+    id="id-8068b0aadb5a4fdb88d793c06e529a43">
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-c9c4aaa226394cd0af323ea6e0a2b4a1.xml#id-c9c4aaa226394cd0af323ea6e0a2b4a1"/>
   <target
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_id-4cfc8df5969d4c15bca7433d3bf32eec.xml#id-4cfc8df5969d4c15bca7433d3bf32eec"/>
-</archimate:AssociationRelationship>
+      href="BusinessProcess_id-276cffe810a940e69b94cfd70613bfb3.xml#id-276cffe810a940e69b94cfd70613bfb3"/>
+</archimate:FlowRelationship>

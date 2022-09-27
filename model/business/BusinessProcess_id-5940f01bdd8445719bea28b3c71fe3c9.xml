@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheer procesregistratie"
     id="id-5940f01bdd8445719bea28b3c71fe3c9"
-    documentation="Dit betreft het beheer van gegevens in het kader van een intern of ketenproces"/>
+    documentation="Dit betreft het beheer van gegevens in het kader van een intern of ketenproces. Let wel: het archief proces is ook een aparte instantie van een procesregistratie."/>
