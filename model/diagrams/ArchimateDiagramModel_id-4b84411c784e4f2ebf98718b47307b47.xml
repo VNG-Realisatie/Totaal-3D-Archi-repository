@@ -137,6 +137,33 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-9fb9ec81c59a4dc8af0b913a5891e691.xml#id-9fb9ec81c59a4dc8af0b913a5891e691"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-674f64056da94087b5fec1db0d65a834"
+        source="id-53148045834b4bd1977eb6b28f3fd88f"
+        target="id-94655273a18d401f8b1500ae7f09367d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-6889f7fd28c2466a970e46530311d8fd.xml#id-6889f7fd28c2466a970e46530311d8fd"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fd19f51c1f69400abd2aad81172e99c8"
+        source="id-53148045834b4bd1977eb6b28f3fd88f"
+        target="id-ba5e40be0a434e3fbd59ad0950539d84">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-ffad6e83e4da4384b16ac7a2347c7e4d.xml#id-ffad6e83e4da4384b16ac7a2347c7e4d"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6b38f0a126d04974ba2d4f01ec998787"
+        source="id-53148045834b4bd1977eb6b28f3fd88f"
+        target="id-51ee41d83d684d8f9534b1115557f869">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-fb71e29f9c434c4ab5b852635c31420c.xml#id-fb71e29f9c434c4ab5b852635c31420c"/>
+    </sourceConnections>
     <bounds
         x="215"
         y="264"
@@ -434,7 +461,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-74edfad2bda642e4b5f26d371974360c"
-      targetConnections="id-f7be29805e014135bc34847977372b72 id-ecceda30d7704004b2ed8d4836363497"
+      targetConnections="id-f7be29805e014135bc34847977372b72"
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
@@ -449,7 +476,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-49f284e941a140fb8b170992f40a4a22"
-      targetConnections="id-2280c093e60b455ebf759a1e87e88402 id-ef050f7491e949d4aa937b8e72ce5368"
+      targetConnections="id-2280c093e60b455ebf759a1e87e88402"
       fontColor="#ff2600"
       fillColor="#b5ffff">
     <bounds
@@ -460,25 +487,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-68d7f899b9e84f2c9b1f9cb6d54a11e7.xml#id-68d7f899b9e84f2c9b1f9cb6d54a11e7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-b9438678d01f480d8ea62dc109ed15e7"
-      textAlignment="1"
-      content="Dit lijken logische toevoegingen gezien de huidige pilots en discussie over zowel transformatie (conversie) en logging.&#xD;&#xA;(BdD)&#xD;&#xA;">
-    <sourceConnections
-        id="id-ecceda30d7704004b2ed8d4836363497"
-        source="id-b9438678d01f480d8ea62dc109ed15e7"
-        target="id-74edfad2bda642e4b5f26d371974360c"/>
-    <sourceConnections
-        id="id-ef050f7491e949d4aa937b8e72ce5368"
-        source="id-b9438678d01f480d8ea62dc109ed15e7"
-        target="id-49f284e941a140fb8b170992f40a4a22"/>
-    <bounds
-        x="204"
-        y="708"
-        width="191"
-        height="109"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -496,14 +504,48 @@
         href="ApplicationComponent_id-3411779dbc5e4dddb26b49c8cb4c363f.xml#id-3411779dbc5e4dddb26b49c8cb4c363f"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-1fcf9bb212534ea2afd46848f3d114a2"
-      textAlignment="1"
-      content="PM: Met de drie toevoegingen is de set wel completer. Ik zit nog een beetje te zoeken naar componenten die de validatie van bestanden ondersteunen. Ook de verwerking van gegevens (verschildetectie, wegschrijven, etc) kan ik nog niet helemaal uitvoeren met deze componenten. Nu is dit laatste wellicht niet als generieke component nodig, maar validatie zie ik op een aantal plaatsen wel terugkomen,">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-94655273a18d401f8b1500ae7f09367d"
+      targetConnections="id-674f64056da94087b5fec1db0d65a834"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
     <bounds
-        x="720"
-        y="654"
-        width="301"
-        height="151"/>
+        x="36"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-bb6b60ae2d494b45b4673cc251c091e2.xml#id-bb6b60ae2d494b45b4673cc251c091e2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ba5e40be0a434e3fbd59ad0950539d84"
+      targetConnections="id-fd19f51c1f69400abd2aad81172e99c8"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
+    <bounds
+        x="68"
+        y="683"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-d81efd2288d54e0b967af027457aa3c1.xml#id-d81efd2288d54e0b967af027457aa3c1"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-51ee41d83d684d8f9534b1115557f869"
+      targetConnections="id-6b38f0a126d04974ba2d4f01ec998787"
+      fontColor="#ff2600"
+      fillColor="#b5ffff">
+    <bounds
+        x="600"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-609df3ac4699433689122927b3e5e5e1.xml#id-609df3ac4699433689122927b3e5e5e1"/>
   </children>
 </archimate:ArchimateDiagramModel>

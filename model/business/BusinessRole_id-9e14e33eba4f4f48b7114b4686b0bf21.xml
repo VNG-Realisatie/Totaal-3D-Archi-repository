@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bronhouder"
+    id="id-9e14e33eba4f4f48b7114b4686b0bf21"
+    documentation="Een bronhouder is verantwoordelijk voor het inwinnen en bijhouden van de authentieke en niet-authentieke gegevens in een basisregistratie en voor het borgen van de kwaliteit van die gegevens (onder meer naar aanleiding van ontvangen terugmeldingen). Een basisregistratie heeft één of meer bronhouders."/>

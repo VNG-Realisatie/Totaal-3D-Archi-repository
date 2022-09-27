@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accorderen levering"
+    id="id-d3a5f85734fb489589e93168555b8297"
+    documentation="Deze zeggenschap bepaalt welke partij toestemming moet geven voordat bepaalde gegevens in de keten mogen worden geleverd.&#xA;&#xA;(De term &quot;uitwisseling&quot; vervangen door levering. Er is wel sprake van vraag en antwoord maar gegeven stroomt uiteindelijk van A naar B.)"/>
