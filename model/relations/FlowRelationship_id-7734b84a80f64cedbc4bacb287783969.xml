@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levering gegevens"
+    id="id-7734b84a80f64cedbc4bacb287783969">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5940f01bdd8445719bea28b3c71fe3c9.xml#id-5940f01bdd8445719bea28b3c71fe3c9"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-09643cadb18b467da43dafc022e9cf02.xml#id-09643cadb18b467da43dafc022e9cf02"/>
+</archimate:FlowRelationship>

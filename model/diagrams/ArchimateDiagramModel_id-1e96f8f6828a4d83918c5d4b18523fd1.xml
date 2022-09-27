@@ -420,7 +420,7 @@
       textAlignment="1"
       content="PM: Ik vraag me af of de volgorde hier helemaal klopt. Als je samenstellen ziet als het omzetten van een BIM of LIDAR naar een CityGML, dan gebeurt dat nadat de data is aangeleverd vanuit het inwinnen.&#xD;&#xA;Na het samenstellen wordt de data inderdaad doorgeleverd naar het registreren (met de inspectie als tussenstap), maar er zit ook een leverstap voor het samenstellen ">
     <bounds
-        x="-48"
+        x="83"
         y="336"
         width="241"
         height="193"/>
