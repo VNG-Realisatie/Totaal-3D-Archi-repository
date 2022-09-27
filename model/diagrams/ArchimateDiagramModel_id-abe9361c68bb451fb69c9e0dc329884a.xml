@@ -588,7 +588,7 @@
         id="id-8b82152c56504011ba59fdb403ae0a8e"
         targetConnections="id-cc67f4a4fec44b258dbb3fb58e9b08b3">
       <bounds
-          x="984"
+          x="1008"
           y="48"
           width="120"
           height="55"/>
@@ -631,7 +631,7 @@
         fontColor="#ff2600"
         fillColor="#b5ffff">
       <bounds
-          x="1164"
+          x="1188"
           y="48"
           width="120"
           height="55"/>
