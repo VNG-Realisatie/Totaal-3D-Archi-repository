@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="levering gegevens"
+    name="levering (bron)gegevens"
     id="id-40c3ee2cf41940628b0a3ff54449f480">
   <source
       xsi:type="archimate:BusinessProcess"
