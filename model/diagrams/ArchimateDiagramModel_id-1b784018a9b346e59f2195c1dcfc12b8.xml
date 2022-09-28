@@ -1000,7 +1000,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6c2d2a33a6da4b34b60ad7bd31c2bfef"
-      targetConnections="id-eb8171bb613b45658fa05a5fc376e7c9">
+      targetConnections="id-eb8171bb613b45658fa05a5fc376e7c9"
+      fillColor="#ffff64">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-536d1b4760d64964a1129f7741226ba3"

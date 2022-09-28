@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verwerken"
+    name="Registreren"
     id="id-276cffe810a940e69b94cfd70613bfb3"
-    documentation="Het valideren en vastleggen van objectgegevens in de 3D object registratie"/>
+    documentation="Het valideren en vastleggen van objectgegevens in de (3D) object registratie"/>
