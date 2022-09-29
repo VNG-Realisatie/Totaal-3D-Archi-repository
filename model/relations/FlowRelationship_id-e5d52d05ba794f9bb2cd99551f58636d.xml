@@ -1,11 +1,12 @@
-<archimate:CompositionRelationship
+<archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-6c975ad90ab14800bb2a0a0498f0f458">
+    name="ingewonnen data"
+    id="id-e5d52d05ba794f9bb2cd99551f58636d">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-fe8a5daee0574792b295b05e5ed167bd.xml#id-fe8a5daee0574792b295b05e5ed167bd"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-105b60fcc789422ca1f8d8dacd56f08b.xml#id-105b60fcc789422ca1f8d8dacd56f08b"/>
-</archimate:CompositionRelationship>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f64cda9289a54a66800fdf31315d760d.xml#id-f64cda9289a54a66800fdf31315d760d"/>
+</archimate:FlowRelationship>
