@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="T3D Ketenproces Den Haag"
     id="id-24dbff4f47f24516963e31170f883178"
-    documentation="Op basis van Architectuurbeschrijving Voorzieningen Samenhangende Objecten registratie">
+    documentation="Dit proces is een uitwerking van het T3D Ketenproces (beheer kernregistratie). Het eerste deel van dat proces (van ruwe data naar in de kernregistratie te verwerken data) is hier wat verder uitgewerkt.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3260114a6d864ef5856709ef882e48ef"
