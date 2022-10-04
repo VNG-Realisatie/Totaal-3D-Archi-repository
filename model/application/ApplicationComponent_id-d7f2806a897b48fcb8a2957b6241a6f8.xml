@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DgDialog"
-    id="id-d7f2806a897b48fcb8a2957b6241a6f8"
-    documentation="Net als de 2D basisregistraties gaat ook de 3D registratie beheerd worden in een tool. Deze tool moet opties bieden om CityGML in te laden, maar ook om handmatig wijzigingen door te voeren (en op termijn wellicht ook om andere bestanden in te lezen en uit te leveren). In T3D is hier beperkt aan toe gekomen.  Voorlopig is hier DgDialog ingetekend, maar hiermee zijn de testen nog lang niet klaar."/>

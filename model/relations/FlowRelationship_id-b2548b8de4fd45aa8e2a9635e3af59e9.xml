@@ -1,11 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="procesdata"
-    id="id-8ec2309a7e874a4ba6d7684d97ca026f">
+    name="getransformeerde data"
+    id="id-b2548b8de4fd45aa8e2a9635e3af59e9">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-fa817b40c7874912a4f6fc6daee19553.xml#id-fa817b40c7874912a4f6fc6daee19553"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-f64cda9289a54a66800fdf31315d760d.xml#id-f64cda9289a54a66800fdf31315d760d"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-fe8a5daee0574792b295b05e5ed167bd.xml#id-fe8a5daee0574792b295b05e5ed167bd"/>
