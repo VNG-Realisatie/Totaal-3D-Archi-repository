@@ -1040,4 +1040,7 @@
         width="185"
         height="80"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>

@@ -474,4 +474,7 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-8a6c18b154794778b4545108e2011b9d.xml#id-8a6c18b154794778b4545108e2011b9d"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>

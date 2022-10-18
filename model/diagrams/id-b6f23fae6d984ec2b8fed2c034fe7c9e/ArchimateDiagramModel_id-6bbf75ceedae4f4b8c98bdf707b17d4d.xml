@@ -225,4 +225,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-7c51974988be49a48c1a33a88eb31201.xml#id-7c51974988be49a48c1a33a88eb31201"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>

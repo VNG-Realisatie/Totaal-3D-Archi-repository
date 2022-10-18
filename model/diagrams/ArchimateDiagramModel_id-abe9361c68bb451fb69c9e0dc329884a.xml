@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SOR componenten in relatie tot Commong Ground lagen"
+    name="SOR componenten in relatie tot Common Ground lagen"
     id="id-abe9361c68bb451fb69c9e0dc329884a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
