@@ -1913,4 +1913,7 @@
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-82a7df2759e34e86a13a62592d37d556.xml#id-82a7df2759e34e86a13a62592d37d556"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>
