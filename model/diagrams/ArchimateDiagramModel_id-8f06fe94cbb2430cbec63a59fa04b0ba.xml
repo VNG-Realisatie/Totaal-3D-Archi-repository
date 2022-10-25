@@ -312,4 +312,7 @@
         xsi:type="archimate:Constraint"
         href="Constraint_id-ec064d1de96f4611a43128d20a97315a.xml#id-ec064d1de96f4611a43128d20a97315a"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>

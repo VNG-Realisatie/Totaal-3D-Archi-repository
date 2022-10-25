@@ -1386,4 +1386,7 @@
         xsi:type="archimate:Artifact"
         href="Artifact_id-edcb439f8b364e668b4a366a7f94bc0b.xml#id-edcb439f8b364e668b4a366a7f94bc0b"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>
