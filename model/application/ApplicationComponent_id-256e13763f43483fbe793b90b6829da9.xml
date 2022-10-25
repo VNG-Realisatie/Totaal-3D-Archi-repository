@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure WFM"
-    id="id-256e13763f43483fbe793b90b6829da9"/>
+    id="id-256e13763f43483fbe793b90b6829da9"
+    documentation="Workflow management binnen ADF. Hier als apart element benoemd omdat het de interface naar andere componenten is."/>
