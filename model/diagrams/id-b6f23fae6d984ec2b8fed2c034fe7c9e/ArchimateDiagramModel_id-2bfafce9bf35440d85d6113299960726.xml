@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AMS Use Case aanvraagproces vergunning"
     id="id-2bfafce9bf35440d85d6113299960726"
-    documentation="Amsterdam heeft de use case &quot;gebruiken&quot; uitgewerkt in het hergebruik van de 3D registratie in het proces &quot;aanvraag voor vergunning&quot;.&#xD;&#xA;Daarvoor is een intake portaal gerealiseerd waarin een initiatief nemer de aanvraag kan doen voor de realisatie van een &quot;object&quot;.&#xD;&#xA;In dit specifieke geval is er uitgegaan van een uitbouw / uitbreiding van een bestaand BAG-Object.">
+    documentation="Amsterdam heeft de use case &quot;gebruiken&quot; uitgewerkt in het hergebruik van de 3D registratie in het proces &quot;aanvraag voor vergunning&quot;.&#xD;&#xA;Daarvoor is een aanvraag portaal gerealiseerd waarin een initiatief nemer de aanvraag kan doen voor de realisatie van een &quot;object&quot;.&#xD;&#xA;In dit specifieke geval is er uitgegaan van een uitbouw / uitbreiding van een bestaand BAG-Object.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3694a4f72adf41d0aa3fcac3a2bf8a65"
