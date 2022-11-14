@@ -109,7 +109,7 @@
     <bounds
         x="60"
         y="672"
-        width="2185"
+        width="2389"
         height="192"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -346,7 +346,7 @@
     <bounds
         x="60"
         y="360"
-        width="2185"
+        width="2389"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -404,7 +404,7 @@
     <bounds
         x="60"
         y="204"
-        width="2185"
+        width="2389"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -643,7 +643,7 @@
     <bounds
         x="60"
         y="48"
-        width="2185"
+        width="2389"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -723,7 +723,7 @@
     <bounds
         x="60"
         y="516"
-        width="2185"
+        width="2389"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
