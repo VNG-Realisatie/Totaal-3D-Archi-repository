@@ -1657,44 +1657,6 @@
         href="Grouping_id-927b3912a6104783af492ee0d81928ad.xml#id-927b3912a6104783af492ee0d81928ad"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9ae1603f8aed4fa2a894ec85a19cd1b8"
-      textAlignment="1"
-      content="Ik mis Politieregio, Omgevingsdienst (BdD)&#xA;">
-    <bounds
-        x="1356"
-        y="462"
-        width="133"
-        height="61"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-201155616f24407d911dbff12764c386"
-      textAlignment="1"
-      content="Zijn er geen officiele (wettelijk bepaalde) definities??? &#xA;(BdD)">
-    <sourceConnections
-        id="id-6d8ce65d5f1141a0acaa6dc9950accd8"
-        source="id-201155616f24407d911dbff12764c386"
-        target="id-a365d10625d2447b90eabb5121ff6f29"/>
-    <bounds
-        x="1560"
-        y="462"
-        width="132"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-a365d10625d2447b90eabb5121ff6f29"
-      targetConnections="id-6d8ce65d5f1141a0acaa6dc9950accd8"
-      textAlignment="1"
-      content="Ja:&#xA;De bestuurlijke indeling van Nederland wordt geregeld in hoofdstuk 7 van de Grondwet. Dit hoofdstuk regelt de provincies, de gemeenten, de waterschappen en de andere openbare lichamen alsmede de gemeenschappelijke regelingen tussen de openbare lichamen.&#xA;&#xA;(BdD)&#xA;">
-    <bounds
-        x="1368"
-        y="564"
-        width="334"
-        height="159"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a2e008fe478448e0a1fd2e30a4299d26"
       textAlignment="1"
