@@ -859,4 +859,7 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-fdcbb2eadb734313867b8bb5e23b0eb2.xml#id-fdcbb2eadb734313867b8bb5e23b0eb2"/>
   </children>
+  <properties
+      key="Publiceren"
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>
