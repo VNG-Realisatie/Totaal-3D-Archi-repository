@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ae3a458bb6224a089c2ba2da8709b33b"
-      targetConnections="id-e0bd4394c24940c982320af8507512d9 id-cba0183c9612493a8d12e04d81996db8">
+      targetConnections="id-e0bd4394c24940c982320af8507512d9 id-cba0183c9612493a8d12e04d81996db8 id-ea5278410d274a45bccb3d22dce9e891">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-138db0c5b4e24721943e77717b91650b"
@@ -83,10 +83,6 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-5fa049a7d3804bd5bd5278c0ef5cf082.xml#id-5fa049a7d3804bd5bd5278c0ef5cf082"/>
     </sourceConnections>
-    <sourceConnections
-        id="id-9b3b8544bb8648b7bd8cc1251a0cb4ef"
-        source="id-e5103d8d397244d78483340c6fe48d26"
-        target="id-5584d40e77984d8db94271a6b9993710"/>
     <bounds
         x="948"
         y="147"
@@ -128,10 +124,10 @@
         source="id-6d7150aa9d674023900e43c00eb4a027"
         target="id-067e0678040c421aa2332b1f35cd72cd">
       <bendpoints
-          startX="168"
+          startX="162"
           startY="-6"
           endX="156"
-          endY="249"/>
+          endY="213"/>
       <bendpoints
           startX="162"
           startY="-222"
@@ -140,6 +136,44 @@
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-0de77c66250b4c1f975a6b62a791068a.xml#id-0de77c66250b4c1f975a6b62a791068a"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ea5278410d274a45bccb3d22dce9e891"
+        source="id-6d7150aa9d674023900e43c00eb4a027"
+        target="id-ae3a458bb6224a089c2ba2da8709b33b">
+      <bendpoints
+          startX="162"
+          startY="6"
+          endX="1475"
+          endY="6"/>
+      <bendpoints
+          startX="162"
+          startY="66"
+          endX="1475"
+          endY="66"/>
+      <bendpoints
+          startX="-1422"
+          startY="66"
+          endX="-109"
+          endY="66"/>
+      <bendpoints
+          startX="-1422"
+          startY="6"
+          endX="-109"
+          endY="6"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-07e984702b7849e69b7e2f039e839d6d.xml#id-07e984702b7849e69b7e2f039e839d6d"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-865bdf570db347c1833c0291a18b09f7"
+        source="id-6d7150aa9d674023900e43c00eb4a027"
+        target="id-c985aff847a84d059ef5fc5e64b35078">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-7795a9cca60a4627b6de4bbd3d9aaf30.xml#id-7795a9cca60a4627b6de4bbd3d9aaf30"/>
     </sourceConnections>
     <bounds
         x="1320"
@@ -234,18 +268,18 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-cae9edf7ab3b4b1da1b4433b57cdef0a"
       textAlignment="1"
-      content="Vastleggen">
+      content="inwinning">
     <bounds
         x="420"
         y="12"
-        width="85"
+        width="96"
         height="25"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-38d17eb42c304c78907ea071432e7824"
       textAlignment="1"
-      content="Presenteren&#xD;&#xA;">
+      content="Gebruik&#xD;&#xA;">
     <bounds
         x="1392"
         y="12"
@@ -256,10 +290,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-7e1e5a12308740f3912600c767667d44"
       textAlignment="1"
-      content="Beheren&#xD;&#xA;">
+      content="Beheer&#xD;&#xA;">
     <bounds
-        x="1031"
-        y="18"
+        x="1175"
+        y="12"
         width="85"
         height="25"/>
   </children>
@@ -267,7 +301,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c764061160f947a48d205e719eaceb24"
       targetConnections="id-b0901ad00c5e4a41928854c1f57c6fa9 id-6354d32ae9c54f4495cfee8c461fe319"
-      fillColor="#ffff64">
+      fillColor="#ffffb5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8189a3e7e8eb4dfcaf995e0e3f618d77"
@@ -365,22 +399,10 @@
         href="BusinessRole_id-f9dd85b1e2cf46ca97ad132faec8f54c.xml#id-f9dd85b1e2cf46ca97ad132faec8f54c"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-5584d40e77984d8db94271a6b9993710"
-      targetConnections="id-9b3b8544bb8648b7bd8cc1251a0cb4ef"
-      textAlignment="1"
-      content="Verrijken is in T3D niet echt in beeld. Bovendien niet op dit moment in het proces. Gemeenten kunnen inderdaad het SOR model verrijken met eigen informatie, maar dit zal al bij het samenstellen en registreren gebeuren en niet achteraf. Ik weet niet of dit als aparte stap benoemd moet worden">
-    <bounds
-        x="911"
-        y="276"
-        width="205"
-        height="181"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-002bd2c1fcc444febac963b9da8a669e"
       targetConnections="id-138db0c5b4e24721943e77717b91650b id-8638ad493ba0429a95abafeb9a67343a"
-      fillColor="#ffff64">
+      fillColor="#ffffb5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6354d32ae9c54f4495cfee8c461fe319"
@@ -403,7 +425,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-64d87c7565744bbfb57102168fb7ffea"
       targetConnections="id-8189a3e7e8eb4dfcaf995e0e3f618d77 id-f88ba7b84fc2493f844dbd0754790820"
-      fillColor="#ffff64">
+      fillColor="#ffffb5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-42022910d3b94f4dadfaa246c026dadd"
@@ -421,6 +443,19 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-276cffe810a940e69b94cfd70613bfb3.xml#id-276cffe810a940e69b94cfd70613bfb3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c985aff847a84d059ef5fc5e64b35078"
+      targetConnections="id-865bdf570db347c1833c0291a18b09f7">
+    <bounds
+        x="1584"
+        y="147"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-2a235294cd914a599b65175f625e898b.xml#id-2a235294cd914a599b65175f625e898b"/>
   </children>
   <properties
       key="Publiceren"
