@@ -323,15 +323,6 @@
       fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-fe551430b4944e65b5129a7de441ce21"
-        source="id-8b6e55512e4b48a5b72d61e6de302f43"
-        target="id-c47345b6a7844d54b8cc877f7df2c7cb">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-0f10f163e018434f85ce6b0a63b0ece9.xml#id-0f10f163e018434f85ce6b0a63b0ece9"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2e28436cc4e04aef8bdf1941a1111cce"
         source="id-8b6e55512e4b48a5b72d61e6de302f43"
         target="id-4eb476e5f83847468c51c999f12047a7">
@@ -1859,21 +1850,6 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-796c33960e4a4ff69cbec0bab9142fa9.xml#id-796c33960e4a4ff69cbec0bab9142fa9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c47345b6a7844d54b8cc877f7df2c7cb"
-      targetConnections="id-fe551430b4944e65b5129a7de441ce21"
-      fontColor="#ff2600"
-      fillColor="#ffffb5">
-    <bounds
-        x="-96"
-        y="180"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-82a7df2759e34e86a13a62592d37d556.xml#id-82a7df2759e34e86a13a62592d37d556"/>
   </children>
   <properties
       key="Publiceren"
