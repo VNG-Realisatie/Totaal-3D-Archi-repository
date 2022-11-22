@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spoorverbinding"
-    id="id-34d5b16740154376b89c56827edc8a0b"/>
+    id="id-34d5b16740154376b89c56827edc8a0b"
+    documentation="Spoorverkeerruimte die de verkeerskundige inrichting van een spoor tussen twee knopen betreft."/>

@@ -242,6 +242,15 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3d4f66c3d7294b8eab51aa7c2f77234e"
         targetConnections="id-b14b46a618664095961546edd033d668 id-4b977f2b7bcd41698be215110d0dcb39">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-ca8d799681fe4affb74d39173c9e68b3"
+          source="id-3d4f66c3d7294b8eab51aa7c2f77234e"
+          target="id-0ae0fd4b11ed42fba192423ab6b5dbc7">
+        <archimateRelationship
+            xsi:type="archimate:InfluenceRelationship"
+            href="InfluenceRelationship_id-f189ec2f06ce4a54b977a0f5809bb6de.xml#id-f189ec2f06ce4a54b977a0f5809bb6de"/>
+      </sourceConnections>
       <bounds
           x="840"
           y="156"
@@ -990,6 +999,19 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-d9ad8f608e184e1587084d0425036a50.xml#id-d9ad8f608e184e1587084d0425036a50"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0ae0fd4b11ed42fba192423ab6b5dbc7"
+      targetConnections="id-ca8d799681fe4affb74d39173c9e68b3">
+    <bounds
+        x="672"
+        y="948"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-cef16676b1d34712a8bb1191e19625da.xml#id-cef16676b1d34712a8bb1191e19625da"/>
   </children>
   <properties
       key="Publiceren"
