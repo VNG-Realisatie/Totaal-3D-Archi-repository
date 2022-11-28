@@ -1,5 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ontvangen brondata"
-    id="id-4bf8fc04411f4977896c67a382a269c2"
-    documentation="In dit proces wordt uit veel mogelijke bronnen data ontvangen en op de juiste manier geregistreerd (soms opslaan, soms refereren). Ook wordt metadata en proces data toegevoegd. Resultaat van deze functie is 1 of meerdere bestanden die verder in de procedure verwerkt kunnen worden tot 3D object registraties."/>
