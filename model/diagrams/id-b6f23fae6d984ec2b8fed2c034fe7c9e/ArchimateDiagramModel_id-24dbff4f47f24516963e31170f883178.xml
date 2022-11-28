@@ -19,7 +19,7 @@
     </sourceConnections>
     <bounds
         x="750"
-        y="318"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
@@ -79,11 +79,6 @@
         id="id-1b718d1221194928876cd15d71cf6ef0"
         source="id-d35f6ae01b0b456f8058d9b6a9e63159"
         target="id-ef9fb7f76e4f49579989c1022b6e99d2">
-      <bendpoints
-          startX="31"
-          startY="142"
-          endX="-132"
-          endY="-14"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-f2a95d6e94f44e5db98d27564ef54667.xml#id-f2a95d6e94f44e5db98d27564ef54667"/>
@@ -102,8 +97,8 @@
       id="id-ef9fb7f76e4f49579989c1022b6e99d2"
       targetConnections="id-1b718d1221194928876cd15d71cf6ef0 id-f1300d69f8b4456d8bedaf412945fb88">
     <bounds
-        x="1608"
-        y="312"
+        x="1620"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
@@ -150,28 +145,6 @@
         href="BusinessRole_id-b0e3d48076ef42d0a54450799f38d429.xml#id-b0e3d48076ef42d0a54450799f38d429"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-5787256754bf4dcfa6d261a2cbdfa1d2"
-      textAlignment="1"
-      content="Vastleggen">
-    <bounds
-        x="119"
-        y="9"
-        width="85"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-8d33170966874e20a6637b23372f5ba9"
-      textAlignment="1"
-      content="Gebruiken">
-    <bounds
-        x="1625"
-        y="165"
-        width="85"
-        height="25"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-900cc3994fc94c55935e5563995c489b"
       targetConnections="id-1de8909237204bf48e9c11f460b8be98 id-42105609fdfc402a89fa0fcf2bd3e8a6"
@@ -181,11 +154,6 @@
         id="id-f974b8f4e2fc4f77b65bd50ee421404c"
         source="id-900cc3994fc94c55935e5563995c489b"
         target="id-a2c7124751454b86bc58515a6cb7db86">
-      <bendpoints
-          startX="48"
-          startY="142"
-          endX="-124"
-          endY="-20"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-ab9f28eb5947403d8e08b54dbdaff129.xml#id-ab9f28eb5947403d8e08b54dbdaff129"/>
@@ -212,8 +180,8 @@
           href="AssignmentRelationship_id-e2da04762c4e479ea551a8d22a86471f.xml#id-e2da04762c4e479ea551a8d22a86471f"/>
     </sourceConnections>
     <bounds
-        x="1608"
-        y="204"
+        x="1620"
+        y="48"
         width="120"
         height="55"/>
     <archimateElement
@@ -300,7 +268,7 @@
     </sourceConnections>
     <bounds
         x="456"
-        y="210"
+        y="48"
         width="564"
         height="55"/>
     <archimateElement
@@ -322,7 +290,7 @@
     </sourceConnections>
     <bounds
         x="600"
-        y="318"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
@@ -338,45 +306,18 @@
         id="id-5c6141c2c73d41318e01bd7439a15e9e"
         source="id-0810948a5e644aac9ad8bc37ab8ada69"
         target="id-f7f2011c4d144aa09cb0527797560f41">
-      <bendpoints
-          startX="144"
-          startY="-20"
-          endX="-60"
-          endY="142"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-8fd4ccc5b281485eade7b3017aba51e4.xml#id-8fd4ccc5b281485eade7b3017aba51e4"/>
     </sourceConnections>
     <bounds
         x="900"
-        y="318"
+        y="156"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-43e9bb1cd2984972aff26cecef26a706.xml#id-43e9bb1cd2984972aff26cecef26a706"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-dc26a5ef6304419681598649394962ea"
-      textAlignment="1"
-      content="Samenstellen">
-    <bounds
-        x="684"
-        y="141"
-        width="97"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-9b8134748e2f49898991a9b3a2cf4137"
-      textAlignment="1"
-      content="Beheren">
-    <bounds
-        x="1296"
-        y="12"
-        width="102"
-        height="25"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -415,7 +356,7 @@
     </sourceConnections>
     <bounds
         x="466"
-        y="318"
+        y="156"
         width="110"
         height="55"/>
     <archimateElement

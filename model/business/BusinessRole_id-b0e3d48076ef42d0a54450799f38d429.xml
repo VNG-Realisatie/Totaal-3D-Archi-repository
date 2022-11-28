@@ -1,5 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheerder basisregistraties/ Bronhouder"
+    name="Beheerder registratie"
     id="id-b0e3d48076ef42d0a54450799f38d429"
-    documentation="Verantwoordelijke voor de vulling en het beheer van de basisregistraties"/>
+    documentation="Verantwoordelijke voor de vulling en het beheer van de registratie"/>
