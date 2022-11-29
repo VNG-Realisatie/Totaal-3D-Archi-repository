@@ -220,7 +220,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c764061160f947a48d205e719eaceb24"
       targetConnections="id-b0901ad00c5e4a41928854c1f57c6fa9 id-2175096170e84717a26ae98734f77395"
-      fillColor="#ffffb5">
+      fillColor="#fefb00">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-27cc478889af49c3918f099d9aaf3f76"
