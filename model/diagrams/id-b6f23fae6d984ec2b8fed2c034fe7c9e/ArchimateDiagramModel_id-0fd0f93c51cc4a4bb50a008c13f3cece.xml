@@ -2259,4 +2259,37 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-91583d27f16244c7b6dcf9b3f392ac57.xml#id-91583d27f16244c7b6dcf9b3f392ac57"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b49f3707abde42b0af8c32c7b4524e5d"
+      font="1|Lucida Grande|48.0|0|COCOA|1|LucidaGrande"
+      content="Den Haag">
+    <bounds
+        x="960"
+        y="28"
+        width="313"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-03bb787c23104af195bfca5229b41306"
+      font="1|Lucida Grande|48.0|0|COCOA|1|LucidaGrande"
+      content="Rotterdam">
+    <bounds
+        x="3288"
+        y="12"
+        width="313"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c368f5db987c4dfe92ff56e2b45f2c85"
+      font="1|Lucida Grande|48.0|0|COCOA|1|LucidaGrande"
+      content="Amsterdam">
+    <bounds
+        x="5184"
+        y="12"
+        width="313"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
