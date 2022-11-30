@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d2d69364-d282-4406-9dc6-cf00ce6cc9ab"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="32e5eb51-966c-4039-8084-fd803d379408"
@@ -19,7 +20,7 @@
     <bounds
         x="132"
         y="696"
-        width="1225"
+        width="1321"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -98,11 +99,12 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="06d558cb-e954-41c6-88fd-21dfe559aa72"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <bounds
         x="132"
         y="372"
-        width="1225"
+        width="1321"
         height="157"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -111,7 +113,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="76c3f52f-b387-4722-819e-fe358ad5e2bc"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="27bce762-0586-4dcd-ac9a-ba1310edba38"
@@ -412,7 +415,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="26f6bfcb-dd8a-4d84-8282-d5696161ecef"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="ef977a01-256e-4af0-8353-e35d6f0645e2"
@@ -425,7 +429,7 @@
     <bounds
         x="132"
         y="48"
-        width="1225"
+        width="1321"
         height="152"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -593,11 +597,12 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8b3f2da2-1c27-4785-b579-4af6cfd85687"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <bounds
         x="132"
         y="540"
-        width="1225"
+        width="1321"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"

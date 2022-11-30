@@ -6,7 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7617d2cf9bce490b86ccd379ec195045"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a30d6ae1c7274017ba6290eea8dc9902"
@@ -342,7 +343,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1ea00ddf50324fb7bd1c0322a0f50a16"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <bounds
         x="60"
         y="360"
@@ -355,7 +357,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-41ff66b4bb2344c483b1d77ecffa668f"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0b285adbec694c3f946e258f7c9b59f7"
@@ -630,7 +633,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f02c254fffad4ee9a1869f50d89780b8"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a0aa686a739f40f18c3aabd4c6c682bd"
@@ -674,7 +678,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-15acaae478cd4354b73764aa7914273a"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#eaeaea">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7cbbc4f2ea5849579f1fa465a89acfb0"
