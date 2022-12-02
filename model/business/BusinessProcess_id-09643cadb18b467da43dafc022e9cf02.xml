@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheer data-analyse registratie"
+    name="Data-analyse"
     id="id-09643cadb18b467da43dafc022e9cf02"
-    documentation="Dit betreft het beheer van verzamelde gegevens ten behoeve van data analyse (data wharehouses, data lakes, etc.)"/>
+    documentation="Dit betreft data analyse (data wharehouses, data lakes, etc.) waarbinnen gegevens worden vastgelegd/bewerkt/verrijkt."/>
