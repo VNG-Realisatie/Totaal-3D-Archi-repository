@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GeoPackage"
+    id="id-0dde36a0507745d893c3a46696f7f141"
+    documentation="GeoPackage is een open standaard van het Open Geospatial Consortium voor de opslag van geospatiale informatie in een SQLite database.&#xD;&#xA;&#xD;&#xA;https://www.geopackage.org/"/>
