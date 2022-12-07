@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LV BGT"
-    id="id-8f116c9bf0cd4263937ecf437455610f"/>
+    id="id-8f116c9bf0cd4263937ecf437455610f"
+    documentation="De Basisregistratie Grootschalige Topografie (BGT) is een gedetailleerde digitale kaart van Nederland. In de BGT worden objecten zoals gebouwen, wegen, water, spoorlijnen en groen op eenduidige manier vastgelegd.&#xD;&#xA;&#xD;&#xA;https://www.kadaster.nl/zakelijk/registraties/basisregistraties/bgt "/>

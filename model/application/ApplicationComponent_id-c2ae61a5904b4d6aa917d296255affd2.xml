@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TIR systeem R'dam"
-    id="id-c2ae61a5904b4d6aa917d296255affd2"/>
+    id="id-c2ae61a5904b4d6aa917d296255affd2"
+    documentation="Territoriale Indeling Rotterdam, in gebieden, buurten, subbuurten en subdeelbuurten"/>
