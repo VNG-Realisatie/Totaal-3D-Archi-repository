@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trigger vanuit tijdelijke registratie naar 3D beheer"
+    id="id-75df2e1d171042e69a7947a464ef4303"
+    documentation="Vanuit VCS ontstaat een trigger naar het 3D beheer, waarbij de tijdelijke geometrie wordt getoetst aan andere, formeel ingewonnen data. Op dit punt vindt de formele registratie plaats en krijgt het object een definitieve geometrie.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-07f879d3e8b74bb58fcfbdd53df616ad.xml#id-07f879d3e8b74bb58fcfbdd53df616ad"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-07f879d3e8b74bb58fcfbdd53df616ad.xml#id-07f879d3e8b74bb58fcfbdd53df616ad"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Trigger (voorlopig) gewijzigde geometrie"
+    id="id-5175d3783bb949009f38edf917b01c95"
+    documentation="Het 3D objectbeheer in VCS wordt afgetrapt na een gesignaleerde wijziging in de geometrie op basis van verschillende bronnen. De trigger leidt tot een tijdelijke geometrie in het 3D Stadsmodel."/>
