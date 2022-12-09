@@ -40,7 +40,7 @@
           href="FlowRelationship_id-d5282f26fff04293a03c07346572ad44.xml#id-d5282f26fff04293a03c07346572ad44"/>
     </sourceConnections>
     <bounds
-        x="1104"
+        x="1080"
         y="156"
         width="120"
         height="55"/>
@@ -74,17 +74,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d35f6ae01b0b456f8058d9b6a9e63159"
       targetConnections="id-44037b779e3e488091cd405673c44ed5 id-326ef12566e54276b3ce33f2cabbb3e9">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-1b718d1221194928876cd15d71cf6ef0"
-        source="id-d35f6ae01b0b456f8058d9b6a9e63159"
-        target="id-ef9fb7f76e4f49579989c1022b6e99d2">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-f2a95d6e94f44e5db98d27564ef54667.xml#id-f2a95d6e94f44e5db98d27564ef54667"/>
-    </sourceConnections>
     <bounds
-        x="1446"
+        x="1465"
         y="156"
         width="120"
         height="55"/>
@@ -95,7 +86,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ef9fb7f76e4f49579989c1022b6e99d2"
-      targetConnections="id-1b718d1221194928876cd15d71cf6ef0 id-f1300d69f8b4456d8bedaf412945fb88">
+      targetConnections="id-f1300d69f8b4456d8bedaf412945fb88">
     <bounds
         x="1620"
         y="156"
@@ -219,7 +210,7 @@
           href="AssignmentRelationship_id-89f335c6f54744ba8a4517372c478e5d.xml#id-89f335c6f54744ba8a4517372c478e5d"/>
     </sourceConnections>
     <bounds
-        x="-48"
+        x="-23"
         y="48"
         width="420"
         height="55"/>
@@ -333,7 +324,7 @@
           href="FlowRelationship_id-cd48bec0cbb84aebb098549537e57900.xml#id-cd48bec0cbb84aebb098549537e57900"/>
     </sourceConnections>
     <bounds
-        x="144"
+        x="132"
         y="156"
         width="120"
         height="55"/>
@@ -355,7 +346,7 @@
           href="FlowRelationship_id-504b60bf5adf4fcf8391ae3272f8fa5a.xml#id-504b60bf5adf4fcf8391ae3272f8fa5a"/>
     </sourceConnections>
     <bounds
-        x="466"
+        x="456"
         y="156"
         width="110"
         height="55"/>
@@ -377,7 +368,7 @@
           href="FlowRelationship_id-94796fbbb5094a50938eda63d49c7987.xml#id-94796fbbb5094a50938eda63d49c7987"/>
     </sourceConnections>
     <bounds
-        x="-12"
+        x="-23"
         y="156"
         width="120"
         height="55"/>
