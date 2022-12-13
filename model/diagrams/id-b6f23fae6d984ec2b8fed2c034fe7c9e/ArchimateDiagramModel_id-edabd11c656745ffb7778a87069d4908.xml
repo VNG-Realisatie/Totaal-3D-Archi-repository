@@ -983,9 +983,9 @@
         target="id-3abae0ca41cc487ba12c7521f06d79e9"/>
     <bounds
         x="1128"
-        y="-276"
+        y="-216"
         width="185"
-        height="80"/>
+        height="56"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
