@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ETL (FME)"
-    id="id-f802cfdc0b78477183a2ddf3b60e1f11">
-  <properties
-      key="Object ID"
-      value="dbb35651-fe91-41d6-a08f-8b64dc2586bb"/>
-</archimate:ApplicationComponent>
+    id="id-f802cfdc0b78477183a2ddf3b60e1f11"/>

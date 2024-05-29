@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(1) Bronnen"
     id="id-8cd14268914240b9b65c38099092d819"
-    documentation="Common ground data bronnen laag">
-  <properties
-      key="Object ID"
-      value="eec59422-6fbc-493e-add0-cbdafb49dcf5"/>
-</archimate:Grouping>
+    documentation="Common ground data bronnen laag"/>

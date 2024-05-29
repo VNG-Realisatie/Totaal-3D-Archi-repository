@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Recreatiezone"
     id="id-01a205d2e76e4cc3b5fbe5a5ed2cee04"
-    documentation="Functionele ruimte die in gebruik is voor openlucht recreatie.">
-  <properties
-      key="Object ID"
-      value="b537c4e8-3bef-43b3-899e-b70f421089f1"/>
-</archimate:BusinessObject>
+    documentation="Functionele ruimte die in gebruik is voor openlucht recreatie."/>

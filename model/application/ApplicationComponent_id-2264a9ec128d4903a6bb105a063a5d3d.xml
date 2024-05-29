@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D object beheer (VCS)"
-    id="id-2264a9ec128d4903a6bb105a063a5d3d">
-  <properties
-      key="Object ID"
-      value="a716fa2f-8209-49fc-bf8c-3ef27c4f025f"/>
-</archimate:ApplicationComponent>
+    id="id-2264a9ec128d4903a6bb105a063a5d3d"/>

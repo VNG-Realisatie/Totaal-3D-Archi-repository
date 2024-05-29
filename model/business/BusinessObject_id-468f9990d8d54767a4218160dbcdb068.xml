@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Openbare ruimte"
     id="id-468f9990d8d54767a4218160dbcdb068"
-    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorziene buitenruimte die binnen één woonplaats is gelegen. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)">
-  <properties
-      key="Object ID"
-      value="94f327a1-1fa6-4a57-bab5-5bd8152c804f"/>
-</archimate:BusinessObject>
+    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorziene buitenruimte die binnen één woonplaats is gelegen. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)"/>

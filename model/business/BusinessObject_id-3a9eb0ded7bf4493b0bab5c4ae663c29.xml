@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waterschap"
     id="id-3a9eb0ded7bf4493b0bab5c4ae663c29"
-    documentation="Een door het bevoegde provinciale orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat als eenheid geldt van politiek/bestuurlijke verantwoordelijkheid voor beheer van het water en de waterstaatszorg. (eerste versie van definitie voor SOR)">
-  <properties
-      key="Object ID"
-      value="3a741780-7e2b-419d-bcb9-05400b4aaa5b"/>
-</archimate:BusinessObject>
+    documentation="Een door het bevoegde provinciale orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat als eenheid geldt van politiek/bestuurlijke verantwoordelijkheid voor beheer van het water en de waterstaatszorg. (eerste versie van definitie voor SOR)"/>

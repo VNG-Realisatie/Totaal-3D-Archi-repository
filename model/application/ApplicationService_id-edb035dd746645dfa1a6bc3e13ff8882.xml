@@ -1,8 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bron"
-    id="id-edb035dd746645dfa1a6bc3e13ff8882">
-  <properties
-      key="Object ID"
-      value="23a2e6c6-6b17-453a-8037-e72f4e11dd16"/>
-</archimate:ApplicationService>
+    id="id-edb035dd746645dfa1a6bc3e13ff8882"/>

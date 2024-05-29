@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="web interface"
     id="id-99b208df4aa04b61acc72d3b9f9e8af0"
-    documentation="ADF heeft zelf geen gebruikersvriendelijke interface. Er moet voor eindgebruikers dus een WebINterface gebouwd worden om ADF te bedienen. Deze interface kan (zoals hier) compleet op ADF worden gebouwd. Hij kan ook generiek worden gemaakt voor meerdere orkestratietools.">
-  <properties
-      key="Object ID"
-      value="02679f25-3a7b-4a01-9d7d-8912394fb742"/>
-</archimate:Grouping>
+    documentation="ADF heeft zelf geen gebruikersvriendelijke interface. Er moet voor eindgebruikers dus een WebINterface gebouwd worden om ADF te bedienen. Deze interface kan (zoals hier) compleet op ADF worden gebouwd. Hij kan ook generiek worden gemaakt voor meerdere orkestratietools."/>

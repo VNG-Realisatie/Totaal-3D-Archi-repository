@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samenstellen"
     id="id-b329758070394418a90a0005a815f815"
-    documentation="Het combineren van objectgegevens tot een samenhangende beschrijving conform hetgeen daarover is bepaald in inhoudelijke criteria en kwaliteitseisen aan de objectenregistratie.&#xA;">
-  <properties
-      key="Object ID"
-      value="87537757-525b-4b4b-9cd5-9daaef95786a"/>
-</archimate:BusinessProcess>
+    documentation="Het combineren van objectgegevens tot een samenhangende beschrijving conform hetgeen daarover is bepaald in inhoudelijke criteria en kwaliteitseisen aan de objectenregistratie.&#xA;"/>

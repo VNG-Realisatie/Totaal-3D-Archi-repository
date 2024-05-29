@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bebouwingskern"
     id="id-ac8b3514b19645c290ca1cdecb867278"
-    documentation="Geografische ruimte die gekenmerkt wordt door een concentratie van gebouwen en die vanuit besluitvorming, historie of in de volksmond bekend staat onder een bepaalde naam.">
-  <properties
-      key="Object ID"
-      value="7b7d8870-34c2-4585-bd28-4b4f71fe9b08"/>
-</archimate:BusinessObject>
+    documentation="Geografische ruimte die gekenmerkt wordt door een concentratie van gebouwen en die vanuit besluitvorming, historie of in de volksmond bekend staat onder een bepaalde naam."/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Boom"
     id="id-480c331275314400b0369ff1969a4286"
-    documentation="Een overblijvende plant met verhoute stam en kroon.">
-  <properties
-      key="Object ID"
-      value="2782f544-52db-4eb7-a991-9b1d200d86b5"/>
-</archimate:BusinessObject>
+    documentation="Een overblijvende plant met verhoute stam en kroon."/>

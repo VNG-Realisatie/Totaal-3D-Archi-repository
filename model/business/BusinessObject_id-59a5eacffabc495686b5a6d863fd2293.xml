@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Functioneel gebied (water)"
     id="id-59a5eacffabc495686b5a6d863fd2293"
-    documentation="Door functie of gebruik begrensd gebied. (herkomst definitie: Voorstel NEN3610)&#xA;&#xA;">
-  <properties
-      key="Object ID"
-      value="63eb1616-df76-47c1-8aac-fe2e33f787e0"/>
-</archimate:BusinessObject>
+    documentation="Door functie of gebruik begrensd gebied. (herkomst definitie: Voorstel NEN3610)&#xA;&#xA;"/>

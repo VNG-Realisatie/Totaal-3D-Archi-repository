@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebouwcomponent"
     id="id-8c51af316dc9445581cae4d58b3e5b0a"
-    documentation="Component aan de buitenzijde van een gebouw, die het aanzicht van het gebouw mede bepaalt.">
-  <properties
-      key="Object ID"
-      value="b709cf7f-4fc4-4ea1-8206-686bb2af89ac"/>
-</archimate:BusinessObject>
+    documentation="Component aan de buitenzijde van een gebouw, die het aanzicht van het gebouw mede bepaalt."/>

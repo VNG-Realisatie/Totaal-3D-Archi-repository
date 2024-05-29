@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebouw"
     id="id-bea5772c111046fdbe67e5f299a325fa"
-    documentation="Grootste, aaneengesloten, homogene, duurzaam met de aarde verbonden en omsloten bouwkundige eenheid binnen een Gebouwblok. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)">
-  <properties
-      key="Object ID"
-      value="fd1447a0-a907-418c-80b1-fd954accc4b1"/>
-</archimate:BusinessObject>
+    documentation="Grootste, aaneengesloten, homogene, duurzaam met de aarde verbonden en omsloten bouwkundige eenheid binnen een Gebouwblok. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)"/>

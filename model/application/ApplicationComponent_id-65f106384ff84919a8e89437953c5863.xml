@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ETL (data fundament - Azure)"
-    id="id-65f106384ff84919a8e89437953c5863">
-  <properties
-      key="Object ID"
-      value="519b0430-b581-49fd-9d76-38fbae615b16"/>
-</archimate:ApplicationComponent>
+    id="id-65f106384ff84919a8e89437953c5863"/>

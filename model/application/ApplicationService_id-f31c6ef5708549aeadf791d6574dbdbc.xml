@@ -1,8 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Knooppunt"
-    id="id-f31c6ef5708549aeadf791d6574dbdbc">
-  <properties
-      key="Object ID"
-      value="766e44b4-e6d1-4ba5-adc5-142331d63c5c"/>
-</archimate:ApplicationService>
+    id="id-f31c6ef5708549aeadf791d6574dbdbc"/>

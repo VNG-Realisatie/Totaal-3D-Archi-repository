@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(2) Ontsluiting"
     id="id-fdcbb2eadb734313867b8bb5e23b0eb2"
-    documentation="Common ground data ontsluitingslaag">
-  <properties
-      key="Object ID"
-      value="c4838041-d0c8-4864-9f90-4e60127e59d0"/>
-</archimate:Grouping>
+    documentation="Common ground data ontsluitingslaag"/>

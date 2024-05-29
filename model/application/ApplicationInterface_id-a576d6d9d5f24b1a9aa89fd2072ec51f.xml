@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inwin database API"
     id="id-a576d6d9d5f24b1a9aa89fd2072ec51f"
-    documentation="API om de inwin database te ontsluiten">
-  <properties
-      key="Object ID"
-      value="dcfe4c8c-d982-4b3b-bac5-12bf173af183"/>
-</archimate:ApplicationInterface>
+    documentation="API om de inwin database te ontsluiten"/>

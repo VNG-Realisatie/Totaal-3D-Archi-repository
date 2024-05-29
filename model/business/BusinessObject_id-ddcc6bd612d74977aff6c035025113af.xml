@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kering"
     id="id-ddcc6bd612d74977aff6c035025113af"
-    documentation="Voorziening met een kerende functie.">
-  <properties
-      key="Object ID"
-      value="9492b528-7936-4be6-9138-ce2c01b0577a"/>
-</archimate:BusinessObject>
+    documentation="Voorziening met een kerende functie."/>

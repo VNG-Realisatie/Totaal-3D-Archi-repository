@@ -4,9 +4,6 @@
     name="Trigger vanuit tijdelijke registratie naar 3D beheer"
     id="id-75df2e1d171042e69a7947a464ef4303"
     documentation="Vanuit VCS ontstaat een trigger naar het 3D beheer, waarbij de tijdelijke geometrie wordt getoetst aan andere, formeel ingewonnen data. Op dit punt vindt de formele registratie plaats en krijgt het object een definitieve geometrie.">
-  <properties
-      key="Object ID"
-      value="9cae1c76-0054-4ee1-9687-b14a0a6ffc87"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-07f879d3e8b74bb58fcfbdd53df616ad.xml#id-07f879d3e8b74bb58fcfbdd53df616ad"/>

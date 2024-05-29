@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruikszone oppervlaktewater"
     id="id-ff3f5398f8884779b9a954dca63c66ab"
-    documentation="Begrensd oppervlaktewatergebied dat een bepaald gebruik kent.">
-  <properties
-      key="Object ID"
-      value="ba99f032-b850-4241-a815-8f3484ea17cc"/>
-</archimate:BusinessObject>
+    documentation="Begrensd oppervlaktewatergebied dat een bepaald gebruik kent."/>

@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunningen portaal"
-    id="5a8b1662-c7c2-4c28-982b-336d588e94d7">
-  <properties
-      key="Object ID"
-      value="ba802fd1-0a5f-411d-9907-f9e9de2992d4"/>
-</archimate:ApplicationComponent>
+    id="5a8b1662-c7c2-4c28-982b-336d588e94d7"/>

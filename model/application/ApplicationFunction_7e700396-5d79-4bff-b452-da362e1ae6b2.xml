@@ -1,8 +1,4 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D lokatie representatie"
-    id="7e700396-5d79-4bff-b452-da362e1ae6b2">
-  <properties
-      key="Object ID"
-      value="8fd6387d-3775-4258-8fe1-b55f3ea88108"/>
-</archimate:ApplicationFunction>
+    id="7e700396-5d79-4bff-b452-da362e1ae6b2"/>

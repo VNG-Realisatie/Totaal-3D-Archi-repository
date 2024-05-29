@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veiligheidsregio"
     id="id-d2a3cb73ad8544398c5dc09122203f6f"
-    documentation="Afgebakend gedeelte van het grondgebied van Nederland, onder zeggenschap van een openbaar lichaam met diverse bestuurlijke taken, ingesteld op basis van artikel 9 van de Wet Veiligheidsregio’s.">
-  <properties
-      key="Object ID"
-      value="0e08f211-781c-4d7d-a6ed-b65a0cc06728"/>
-</archimate:BusinessObject>
+    documentation="Afgebakend gedeelte van het grondgebied van Nederland, onder zeggenschap van een openbaar lichaam met diverse bestuurlijke taken, ingesteld op basis van artikel 9 van de Wet Veiligheidsregio’s."/>

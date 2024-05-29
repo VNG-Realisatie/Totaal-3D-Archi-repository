@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Moeras"
     id="id-ec2217f8a7ad4f5a8d4e240cca5a6444"
-    documentation="Terrein met moerasvegetatie in stilstaand water van geringe diepte zonder merkbare toe- of afvloeiing.">
-  <properties
-      key="Object ID"
-      value="24eaa10d-b3de-4dba-aa6c-ea36e44fb03e"/>
-</archimate:BusinessObject>
+    documentation="Terrein met moerasvegetatie in stilstaand water van geringe diepte zonder merkbare toe- of afvloeiing."/>

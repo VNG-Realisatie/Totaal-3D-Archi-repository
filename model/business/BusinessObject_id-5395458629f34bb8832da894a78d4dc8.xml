@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nederlandse aansluitende zone"
     id="id-5395458629f34bb8832da894a78d4dc8"
-    documentation="Het gebied buiten en grenzend aan de territoriale zee dat zich niet verder uitstrekt dan 24 zeemijlen vanaf de laagwaterlijn.">
-  <properties
-      key="Object ID"
-      value="66708f64-f8d8-49ae-bf84-3bd18e7e48df"/>
-</archimate:BusinessObject>
+    documentation="Het gebied buiten en grenzend aan de territoriale zee dat zich niet verder uitstrekt dan 24 zeemijlen vanaf de laagwaterlijn."/>

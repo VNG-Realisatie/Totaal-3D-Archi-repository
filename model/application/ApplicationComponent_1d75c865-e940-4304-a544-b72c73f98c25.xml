@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D viewer (Unity)"
-    id="1d75c865-e940-4304-a544-b72c73f98c25">
-  <properties
-      key="Object ID"
-      value="56d44008-96a5-4821-8827-49dcf06745a7"/>
-</archimate:ApplicationComponent>
+    id="1d75c865-e940-4304-a544-b72c73f98c25"/>

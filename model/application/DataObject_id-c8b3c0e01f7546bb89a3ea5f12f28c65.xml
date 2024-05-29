@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procesdata"
     id="id-c8b3c0e01f7546bb89a3ea5f12f28c65"
-    documentation="m.b.t. validatie, transformatie, verwerking&#xA;">
-  <properties
-      key="Object ID"
-      value="82c3c544-0af5-4869-8dbf-78afe35b801c"/>
-</archimate:DataObject>
+    documentation="m.b.t. validatie, transformatie, verwerking&#xA;"/>

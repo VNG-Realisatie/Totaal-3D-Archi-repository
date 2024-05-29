@@ -1,8 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Weg"
-    id="id-a907503acb0241efbd0f6959b4eb9f47">
-  <properties
-      key="Object ID"
-      value="2d157ba5-f3d9-4a7c-ab9e-86f470cb5fe9"/>
-</archimate:BusinessObject>
+    id="id-a907503acb0241efbd0f6959b4eb9f47"/>

@@ -671,8 +671,5 @@
   </children>
   <properties
       key="Publiceren"
-      value="GEMMA Online en redactie"/>
-  <properties
-      key="Object ID"
-      value="0e9666c5-5abd-416e-abc7-eb0611956d97"/>
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>

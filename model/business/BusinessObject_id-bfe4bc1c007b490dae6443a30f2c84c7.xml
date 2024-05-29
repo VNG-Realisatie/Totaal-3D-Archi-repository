@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verblijfsobject"
     id="id-bfe4bc1c007b490dae6443a30f2c84c7"
-    documentation="De kleinste binnen een of meer panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen afsluitbare toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte, onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)">
-  <properties
-      key="Object ID"
-      value="d8fa3101-4a8c-48c2-b674-06868577a185"/>
-</archimate:BusinessObject>
+    documentation="De kleinste binnen een of meer panden gelegen en voor woon-, bedrijfsmatige, of recreatieve doeleinden geschikte eenheid van gebruik die ontsloten wordt via een eigen afsluitbare toegang vanaf de openbare weg, een erf of een gedeelde verkeersruimte, onderwerp kan zijn van goederenrechtelijke rechtshandelingen en in functioneel opzicht zelfstandig is. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)"/>

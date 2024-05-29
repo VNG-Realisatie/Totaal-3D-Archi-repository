@@ -1,8 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voornemen"
-    id="ae5978d7-3cc6-4702-9f2c-90c7af798db8">
-  <properties
-      key="Object ID"
-      value="00c5a44b-2f0a-442c-92c7-b678003db606"/>
-</archimate:DataObject>
+    id="ae5978d7-3cc6-4702-9f2c-90c7af798db8"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Trigger"
     id="id-a011a985996d4b538bdb14289a36b4dc"
-    documentation="Er is een grote verscheidenheid aan triggers voor het starten van de inwinning van 3D objectgegevens. Voorbeelden: &#xA;- vanuit een opdracht door de bronhouder, &#xA;- vanuit een aanvraagproces voor een vergunning, &#xA;- vanuit een toezichtsproces waarbij een verandering in de openbare ruimte is geconstateerd">
-  <properties
-      key="Object ID"
-      value="894e9ac0-72d5-4969-97bd-ec13524de114"/>
-</archimate:BusinessEvent>
+    documentation="Er is een grote verscheidenheid aan triggers voor het starten van de inwinning van 3D objectgegevens. Voorbeelden: &#xA;- vanuit een opdracht door de bronhouder, &#xA;- vanuit een aanvraagproces voor een vergunning, &#xA;- vanuit een toezichtsproces waarbij een verandering in de openbare ruimte is geconstateerd"/>

@@ -1,8 +1,4 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sector"
-    id="id-ece9816c42e1479da09fcd11749a9a4d">
-  <properties
-      key="Object ID"
-      value="61c94f8f-deb4-4dd9-ae65-c3e2862bf0cb"/>
-</archimate:BusinessInteraction>
+    id="id-ece9816c42e1479da09fcd11749a9a4d"/>

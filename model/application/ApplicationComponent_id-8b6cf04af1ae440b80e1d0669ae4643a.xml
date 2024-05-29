@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunning systeem"
-    id="id-8b6cf04af1ae440b80e1d0669ae4643a">
-  <properties
-      key="Object ID"
-      value="140b0823-87d4-4af0-b1ad-16f6b644b1e3"/>
-</archimate:ApplicationComponent>
+    id="id-8b6cf04af1ae440b80e1d0669ae4643a"/>

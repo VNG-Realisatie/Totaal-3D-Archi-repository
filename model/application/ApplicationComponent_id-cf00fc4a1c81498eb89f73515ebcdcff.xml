@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diensten-catalogus"
     id="id-cf00fc4a1c81498eb89f73515ebcdcff"
-    documentation="De component Dienstencatalogus heeft als doel om de diensten van de objectenregistratie te beschrijven en deze beschrijvingen (interactief) te ontsluiten, zodat betrokkenen hier makkelijk en goed kennis van kunnen nemen.&#xA;&#xA;Diensten zijn volgens een gestandaardiseerde beschrijfwijze beschreven en worden middels een gemeenschappelijke gestandaardiseerde publicatiewijze aangeboden om als een geheel te worden ervaren.&#xA;&#xA;De uitwisselingsstandaarden en formaten om de gegevens en afgeleide gegevens te benaderen zijn, waar van toepassing, onderdeel van deze beschrijfwijze.&#xA;&#xA;Opmerking: De (structuur van de) gegevens en afgeleide gegevens staan beschreven in de gegevenscatalogus.&#xA;&#xA;Voor afnemers van diensten wordt een overzicht geboden om te overzien welke diensten beschikbaar zijn.">
-  <properties
-      key="Object ID"
-      value="7cd43a98-f60e-45cc-b743-0c0f36b98198"/>
-</archimate:ApplicationComponent>
+    documentation="De component Dienstencatalogus heeft als doel om de diensten van de objectenregistratie te beschrijven en deze beschrijvingen (interactief) te ontsluiten, zodat betrokkenen hier makkelijk en goed kennis van kunnen nemen.&#xA;&#xA;Diensten zijn volgens een gestandaardiseerde beschrijfwijze beschreven en worden middels een gemeenschappelijke gestandaardiseerde publicatiewijze aangeboden om als een geheel te worden ervaren.&#xA;&#xA;De uitwisselingsstandaarden en formaten om de gegevens en afgeleide gegevens te benaderen zijn, waar van toepassing, onderdeel van deze beschrijfwijze.&#xA;&#xA;Opmerking: De (structuur van de) gegevens en afgeleide gegevens staan beschreven in de gegevenscatalogus.&#xA;&#xA;Voor afnemers van diensten wordt een overzicht geboden om te overzien welke diensten beschikbaar zijn."/>

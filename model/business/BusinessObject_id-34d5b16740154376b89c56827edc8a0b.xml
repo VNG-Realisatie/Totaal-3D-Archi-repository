@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spoorverbinding"
     id="id-34d5b16740154376b89c56827edc8a0b"
-    documentation="Spoorverkeerruimte die de verkeerskundige inrichting van een spoor tussen twee knopen betreft.">
-  <properties
-      key="Object ID"
-      value="fb9dae05-6769-4954-96e7-7aff613d2a27"/>
-</archimate:BusinessObject>
+    documentation="Spoorverkeerruimte die de verkeerskundige inrichting van een spoor tussen twee knopen betreft."/>

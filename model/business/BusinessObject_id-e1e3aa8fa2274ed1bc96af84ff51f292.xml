@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overbrugging(s-deel)"
     id="id-e1e3aa8fa2274ed1bc96af84ff51f292"
-    documentation="Onderdeel van een beweegbare of vaste verbinding tussen twee punten, die door water, een weg of anderszins gescheiden zijn, dat essentieel is voor de constructie. (herkomst definitie: BGT 1.1.1)">
-  <properties
-      key="Object ID"
-      value="e702c5ce-18c7-4a3c-ae19-45fd18746bf6"/>
-</archimate:BusinessObject>
+    documentation="Onderdeel van een beweegbare of vaste verbinding tussen twee punten, die door water, een weg of anderszins gescheiden zijn, dat essentieel is voor de constructie. (herkomst definitie: BGT 1.1.1)"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validatie"
     id="id-609df3ac4699433689122927b3e5e5e1"
-    documentation="Het validatie component zorgt ervoor dat een ingewonnen dataset wordt gevalideerd op basis van vastgestelde validatie regels voordat er een transformatie kan plaatsvinden. &#xA;&#xA;Er kunnen straks verschillende soorten bestanden worden aangeleverd (BIM, LIDAR, PDF, etc.), elk met eigen leveringsspecificaties. Deze worden door verschillende soorten leveranciers ingewonnen. Voordat deze verwerkt gaan worden in de 3D object registratie is het goed om deze eerst te valideren. Hiervoor zijn verschillende componenten (vaak vanuit standaard open source libraries) beschikbaar die via een API worden aangeroepen. Een groot deel van deze validaties is gelijk voor alle gemeenten. Gezamenlijke ontwikkeling lijkt dan ook een optie.">
-  <properties
-      key="Object ID"
-      value="b9606a50-7058-4462-a2b9-ea9464178cb3"/>
-</archimate:ApplicationComponent>
+    documentation="Het validatie component zorgt ervoor dat een ingewonnen dataset wordt gevalideerd op basis van vastgestelde validatie regels voordat er een transformatie kan plaatsvinden. &#xA;&#xA;Er kunnen straks verschillende soorten bestanden worden aangeleverd (BIM, LIDAR, PDF, etc.), elk met eigen leveringsspecificaties. Deze worden door verschillende soorten leveranciers ingewonnen. Voordat deze verwerkt gaan worden in de 3D object registratie is het goed om deze eerst te valideren. Hiervoor zijn verschillende componenten (vaak vanuit standaard open source libraries) beschikbaar die via een API worden aangeroepen. Een groot deel van deze validaties is gelijk voor alle gemeenten. Gezamenlijke ontwikkeling lijkt dan ook een optie."/>

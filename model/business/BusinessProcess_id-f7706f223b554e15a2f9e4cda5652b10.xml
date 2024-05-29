@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Valideren"
     id="id-f7706f223b554e15a2f9e4cda5652b10"
-    documentation="Valideren van ontvangen data op o.a. syntactische correctheid">
-  <properties
-      key="Object ID"
-      value="4313e9e4-1bc0-4e3d-abc9-a979fc78a88e"/>
-</archimate:BusinessProcess>
+    documentation="Valideren van ontvangen data op o.a. syntactische correctheid"/>

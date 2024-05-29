@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validatie API"
     id="id-dd493f20a393450a9d0091610dc94c90"
-    documentation="API's van de verschillende validatie tools die vanuit ADF worden aangeroepen.">
-  <properties
-      key="Object ID"
-      value="b80eb868-ee77-4c8b-8fb0-80d89ad9c9c7"/>
-</archimate:ApplicationInterface>
+    documentation="API's van de verschillende validatie tools die vanuit ADF worden aangeroepen."/>

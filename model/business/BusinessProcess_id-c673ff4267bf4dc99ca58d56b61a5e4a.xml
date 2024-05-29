@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inwinnen ruwe data"
     id="id-c673ff4267bf4dc99ca58d56b61a5e4a"
-    documentation="Het inwinnen van 3D gegevens, dan wel vanuit een proces waarin bewust data wordt ingewonnen t.b.v. de 3D object registratie, dan wel vanuit een ander business proces. Inwinnen van deze data kan plaatsvinden door externe partijen, maar in sommige gevalleen ook door interne partijen">
-  <properties
-      key="Object ID"
-      value="65ca75ba-12be-4fe3-bbc1-efe20d806b90"/>
-</archimate:BusinessProcess>
+    documentation="Het inwinnen van 3D gegevens, dan wel vanuit een proces waarin bewust data wordt ingewonnen t.b.v. de 3D object registratie, dan wel vanuit een ander business proces. Inwinnen van deze data kan plaatsvinden door externe partijen, maar in sommige gevalleen ook door interne partijen"/>

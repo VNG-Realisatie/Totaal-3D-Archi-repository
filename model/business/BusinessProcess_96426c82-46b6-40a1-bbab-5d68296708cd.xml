@@ -1,8 +1,4 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nemen besluit"
-    id="96426c82-46b6-40a1-bbab-5d68296708cd">
-  <properties
-      key="Object ID"
-      value="331831fe-cff4-4daf-9fe4-fc47f4f9f305"/>
-</archimate:BusinessProcess>
+    id="96426c82-46b6-40a1-bbab-5d68296708cd"/>

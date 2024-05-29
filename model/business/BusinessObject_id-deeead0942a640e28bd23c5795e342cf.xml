@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Buurt"
     id="id-deeead0942a640e28bd23c5795e342cf"
-    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat als kleinste eenheid geldt van politiek/bestuurlijke verantwoordelijkheid of voor bedrijfsvoering. (eerste versie van definitie voor SOR)">
-  <properties
-      key="Object ID"
-      value="bc07abc4-4369-4e71-90aa-652307ed04dc"/>
-</archimate:BusinessObject>
+    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig afgebakend gebied, aangewezen en van naam voorzien, dat als kleinste eenheid geldt van politiek/bestuurlijke verantwoordelijkheid of voor bedrijfsvoering. (eerste versie van definitie voor SOR)"/>

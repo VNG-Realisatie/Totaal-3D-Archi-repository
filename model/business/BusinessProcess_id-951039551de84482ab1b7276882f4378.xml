@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bewaren"
     id="id-951039551de84482ab1b7276882f4378"
-    documentation="Het duurzaam beschikbaar houden van de gegevens over objecten en/of eigenschappen daarvan in de registratie.">
-  <properties
-      key="Object ID"
-      value="b706f8e4-5aa5-4848-8f0e-35d344a55788"/>
-</archimate:BusinessProcess>
+    documentation="Het duurzaam beschikbaar houden van de gegevens over objecten en/of eigenschappen daarvan in de registratie."/>

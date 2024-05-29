@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opslag"
     id="id-0f44a8d89092439f9630c92401a6c463"
-    documentation="De component Opslag heeft als doel het duurzaam beschikbaar houden van objectgegevens en bijbehorende metagegevens, zodat bronhouders deze gegevens kunnen beheren en zodat de gegevens beschikbaar zijn voor de verstrekker zodat deze ze kan verstrekken aan afnemers in de vorm van gegevens of daarvan afgeleide informatieproducten.">
-  <properties
-      key="Object ID"
-      value="eda7d837-ec5e-4b45-99bc-b3bbfebce266"/>
-</archimate:ApplicationComponent>
+    documentation="De component Opslag heeft als doel het duurzaam beschikbaar houden van objectgegevens en bijbehorende metagegevens, zodat bronhouders deze gegevens kunnen beheren en zodat de gegevens beschikbaar zijn voor de verstrekker zodat deze ze kan verstrekken aan afnemers in de vorm van gegevens of daarvan afgeleide informatieproducten."/>

@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sketchup converter (ADM)"
-    id="8e8aff2d-e804-410a-bb9f-a5482b88ae96">
-  <properties
-      key="Object ID"
-      value="e9d41bbb-c760-4b87-be75-9351911b9538"/>
-</archimate:ApplicationComponent>
+    id="8e8aff2d-e804-410a-bb9f-a5482b88ae96"/>

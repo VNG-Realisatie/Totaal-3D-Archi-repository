@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waterbergings-gebied"
     id="id-c6742ea76792441b93bb50af2073520c"
-    documentation="Gebied, niet zijnde een oppervlaktewaterlichaam of onderdeel daarvan, dat dient ter verruiming van de bergingscapaciteit van een of meer watersystemen.">
-  <properties
-      key="Object ID"
-      value="ec4af14b-4dce-40ae-bc97-703389926c8a"/>
-</archimate:BusinessObject>
+    documentation="Gebied, niet zijnde een oppervlaktewaterlichaam of onderdeel daarvan, dat dient ter verruiming van de bergingscapaciteit van een of meer watersystemen."/>

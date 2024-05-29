@@ -1,8 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunning aanvraag verwerken"
-    id="4af75d22-e759-4d9f-b57e-099bc1c7b4c8">
-  <properties
-      key="Object ID"
-      value="f7857c75-6d6c-4edb-8d02-aa099eb928c4"/>
-</archimate:ApplicationService>
+    id="4af75d22-e759-4d9f-b57e-099bc1c7b4c8"/>

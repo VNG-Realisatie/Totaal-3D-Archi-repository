@@ -1,8 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BAG API"
-    id="id-a40726b3107540c08c51adaffe1984fc">
-  <properties
-      key="Object ID"
-      value="b74d8f2c-af5f-4ac3-ac58-642fc1b1c777"/>
-</archimate:ApplicationInterface>
+    id="id-a40726b3107540c08c51adaffe1984fc"/>

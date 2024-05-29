@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GWSW.OroX"
     id="id-5388488f5e68443b9d6f700d81e31cfc"
-    documentation="Het OroX is het generieke uitwisselformaat ten behoeve van de uitwisseling volgens het Gegevenswoordenboek Stedelijk Water (GWSW). Het OroX is een specificatie binnen de universele semantische taal RDF/RDFS/OWL-2 (Turtle).&#xD;&#xA;https://www.riool.net/orox">
-  <properties
-      key="Object ID"
-      value="2c722232-1ec0-4fdb-bfd4-43150e430191"/>
-</archimate:Requirement>
+    documentation="Het OroX is het generieke uitwisselformaat ten behoeve van de uitwisseling volgens het Gegevenswoordenboek Stedelijk Water (GWSW). Het OroX is een specificatie binnen de universele semantische taal RDF/RDFS/OWL-2 (Turtle).&#xD;&#xA;https://www.riool.net/orox"/>

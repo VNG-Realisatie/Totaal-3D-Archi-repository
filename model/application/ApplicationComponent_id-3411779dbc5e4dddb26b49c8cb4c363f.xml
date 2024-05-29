@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Representatie (rendering)"
     id="id-3411779dbc5e4dddb26b49c8cb4c363f"
-    documentation="Het component Representatie zorgt voor het genereren van een 3D model op basis van beschikbare gegevens.">
-  <properties
-      key="Object ID"
-      value="1c8b9340-9d6a-452f-b9cf-0251d2647558"/>
-</archimate:ApplicationComponent>
+    documentation="Het component Representatie zorgt voor het genereren van een 3D model op basis van beschikbare gegevens."/>

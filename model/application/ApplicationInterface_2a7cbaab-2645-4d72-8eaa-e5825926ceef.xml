@@ -1,8 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IFC conversie"
-    id="2a7cbaab-2645-4d72-8eaa-e5825926ceef">
-  <properties
-      key="Object ID"
-      value="22cca18e-d876-4ca8-8ff1-30c10256c5d0"/>
-</archimate:ApplicationInterface>
+    id="2a7cbaab-2645-4d72-8eaa-e5825926ceef"/>

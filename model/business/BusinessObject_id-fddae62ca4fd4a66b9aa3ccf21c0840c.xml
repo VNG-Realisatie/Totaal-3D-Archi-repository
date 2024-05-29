@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rijk"
     id="id-fddae62ca4fd4a66b9aa3ccf21c0840c"
-    documentation="Het Europese grondgebied van het Koninkrijk der Nederlanden inclusief de daarbij behorende territoriale wateren (eerste versie van definitie voor SOR)">
-  <properties
-      key="Object ID"
-      value="9cbb91a3-9831-4da1-af40-c1aa17583ee7"/>
-</archimate:BusinessObject>
+    documentation="Het Europese grondgebied van het Koninkrijk der Nederlanden inclusief de daarbij behorende territoriale wateren (eerste versie van definitie voor SOR)"/>

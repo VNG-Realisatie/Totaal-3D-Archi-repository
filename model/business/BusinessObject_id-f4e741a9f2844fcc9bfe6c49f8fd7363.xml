@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ondertunneling"
     id="id-f4e741a9f2844fcc9bfe6c49f8fd7363"
-    documentation="Ondergrondse of onder water gelegen verbinding tussen twee punten, aan beide einden voorzien van een open bakconstructie.">
-  <properties
-      key="Object ID"
-      value="2e876173-5407-4b17-a8bb-5ea28d3d0402"/>
-</archimate:BusinessObject>
+    documentation="Ondergrondse of onder water gelegen verbinding tussen twee punten, aan beide einden voorzien van een open bakconstructie."/>

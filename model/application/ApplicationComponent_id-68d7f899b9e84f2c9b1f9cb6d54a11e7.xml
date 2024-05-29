@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logging"
     id="id-68d7f899b9e84f2c9b1f9cb6d54a11e7"
-    documentation="Het component logging zorgt voor het vastleggen van bepaalde kenmerken van de werking van van andere componenten zodanig dat er achteraf analyses gedaan kunnen worden. Deze analyses kunnen zowel voor beheer als voor verantwoording nodig zijn.">
-  <properties
-      key="Object ID"
-      value="6fa19b36-ae15-47f7-b493-e899c5ecefbd"/>
-</archimate:ApplicationComponent>
+    documentation="Het component logging zorgt voor het vastleggen van bepaalde kenmerken van de werking van van andere componenten zodanig dat er achteraf analyses gedaan kunnen worden. Deze analyses kunnen zowel voor beheer als voor verantwoording nodig zijn."/>

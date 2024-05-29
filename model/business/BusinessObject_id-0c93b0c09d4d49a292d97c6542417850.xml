@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rietland"
     id="id-0c93b0c09d4d49a292d97c6542417850"
-    documentation="Terrein overwegend begroeid met rietvegetatie.">
-  <properties
-      key="Object ID"
-      value="ab63a26d-ce8d-4093-aaf7-18ccea687582"/>
-</archimate:BusinessObject>
+    documentation="Terrein overwegend begroeid met rietvegetatie."/>

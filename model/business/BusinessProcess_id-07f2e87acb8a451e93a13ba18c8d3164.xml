@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruiken"
     id="id-07f2e87acb8a451e93a13ba18c8d3164"
-    documentation="Het ophalen van de beschikbaar gestelde gegevens en de toepassing daarvan binnen de werkprocessen waarvoor de gegevens zijn benodigd.&#xD;&#xA;">
-  <properties
-      key="Object ID"
-      value="4e39e406-7594-43e7-bc2e-d735828d50e3"/>
-</archimate:BusinessProcess>
+    documentation="Het ophalen van de beschikbaar gestelde gegevens en de toepassing daarvan binnen de werkprocessen waarvoor de gegevens zijn benodigd.&#xD;&#xA;"/>

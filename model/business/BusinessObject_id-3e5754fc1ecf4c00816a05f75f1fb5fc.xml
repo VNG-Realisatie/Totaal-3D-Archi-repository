@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Struiken"
     id="id-3e5754fc1ecf4c00816a05f75f1fb5fc"
-    documentation="Begroeiing van bodembedekkers en/of houtachtige en/of meerstammige overblijvende planten.&#xA;">
-  <properties
-      key="Object ID"
-      value="6a1a26a6-7001-4509-be18-952d3ae5d0db"/>
-</archimate:BusinessObject>
+    documentation="Begroeiing van bodembedekkers en/of houtachtige en/of meerstammige overblijvende planten.&#xA;"/>

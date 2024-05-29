@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scheiding"
     id="id-7602aa2b1c4942d5b3a057a7b83d7a25"
-    documentation="Kunstmatig, meestal lineair obstakel met een werend karakter (herkomst definitie: gebaseerd op BGT 1.1.1)">
-  <properties
-      key="Object ID"
-      value="d8ab4b1a-3d26-488f-b0c4-d7d5bdfa4a46"/>
-</archimate:BusinessObject>
+    documentation="Kunstmatig, meestal lineair obstakel met een werend karakter (herkomst definitie: gebaseerd op BGT 1.1.1)"/>

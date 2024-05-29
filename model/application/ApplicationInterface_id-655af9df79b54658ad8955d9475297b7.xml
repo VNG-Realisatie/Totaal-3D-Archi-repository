@@ -1,8 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="WOZ bestandsuitwisseling"
-    id="id-655af9df79b54658ad8955d9475297b7">
-  <properties
-      key="Object ID"
-      value="7f6fa237-8392-4589-a776-4a913e8f7df5"/>
-</archimate:ApplicationInterface>
+    id="id-655af9df79b54658ad8955d9475297b7"/>

@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="validatie resultaten"
     id="id-e49ce3311c8344f99e2c4afc7badc46a">
-  <properties
-      key="Object ID"
-      value="90dadf5a-77a5-47af-b746-685eeaa52c8c"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-dd493f20a393450a9d0091610dc94c90.xml#id-dd493f20a393450a9d0091610dc94c90"/>

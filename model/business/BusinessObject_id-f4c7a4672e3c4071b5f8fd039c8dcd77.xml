@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reducering"
     id="id-f4c7a4672e3c4071b5f8fd039c8dcd77"
-    documentation="Voorziening om bepaalde effecten van omgevingsfactoren te verminderen.">
-  <properties
-      key="Object ID"
-      value="e23df5fc-a75f-4a72-83c0-50293d9f87b7"/>
-</archimate:BusinessObject>
+    documentation="Voorziening om bepaalde effecten van omgevingsfactoren te verminderen."/>

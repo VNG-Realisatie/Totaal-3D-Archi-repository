@@ -1,8 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BGT API"
-    id="id-7fa3020d66f74ba8baca7d58c49bcf27">
-  <properties
-      key="Object ID"
-      value="d9f62dd6-6929-4963-89e7-12c50f35b6c7"/>
-</archimate:ApplicationInterface>
+    id="id-7fa3020d66f74ba8baca7d58c49bcf27"/>

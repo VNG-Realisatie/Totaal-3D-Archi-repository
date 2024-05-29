@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure ADF"
     id="id-fe8a5daee0574792b295b05e5ed167bd"
-    documentation="Feitelijk ADF (Azure Data Framework). Tooling voor Workflow automation en ETL. De tool gaat over meerdere lagen in het comon ground model heen.">
-  <properties
-      key="Object ID"
-      value="e4d9bc69-c2a3-4d96-a365-7609755d6d03"/>
-</archimate:ApplicationComponent>
+    documentation="Feitelijk ADF (Azure Data Framework). Tooling voor Workflow automation en ETL. De tool gaat over meerdere lagen in het comon ground model heen."/>

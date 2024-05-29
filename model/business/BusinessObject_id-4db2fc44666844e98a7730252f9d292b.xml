@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verhardingsobject"
     id="id-4db2fc44666844e98a7730252f9d292b"
-    documentation="In één of meer lagen aangelegd materiaal, welke zijn gelegd over een ondergrond of onderliggende constructie, aangelegd om een oppervlakte geschikt te maken voor het beoogde gebruik, door te egaliseren, te verstevigen en/of te verruwen. (herkomst definitie: Voorstel NEN3610)">
-  <properties
-      key="Object ID"
-      value="7bbd6e21-f1c3-475f-9b8f-432572038909"/>
-</archimate:BusinessObject>
+    documentation="In één of meer lagen aangelegd materiaal, welke zijn gelegd over een ondergrond of onderliggende constructie, aangelegd om een oppervlakte geschikt te maken voor het beoogde gebruik, door te egaliseren, te verstevigen en/of te verruwen. (herkomst definitie: Voorstel NEN3610)"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bomenrij"
     id="id-8d2b2ea047594deb874f8054f27d86d2"
-    documentation="Opgaande rijvormige begroeiing van bomen zonder ondergroei van struiken.">
-  <properties
-      key="Object ID"
-      value="c5c50034-1e2c-41e2-bf0a-d706b008faac"/>
-</archimate:BusinessObject>
+    documentation="Opgaande rijvormige begroeiing van bomen zonder ondergroei van struiken."/>

@@ -1,8 +1,4 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunning aanvraag"
-    id="id-8c50c4cf172d48fb89ba07c0261b97e4">
-  <properties
-      key="Object ID"
-      value="5250ad3c-6975-4125-9173-cee2454f9813"/>
-</archimate:BusinessProcess>
+    id="id-8c50c4cf172d48fb89ba07c0261b97e4"/>

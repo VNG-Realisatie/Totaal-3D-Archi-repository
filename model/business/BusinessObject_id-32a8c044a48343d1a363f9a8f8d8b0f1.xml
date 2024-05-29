@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Getijdengebied"
     id="id-32a8c044a48343d1a363f9a8f8d8b0f1"
-    documentation="Geheel of gedeeltelijk droogvallende gronden die buitendijks gelegen zijn.">
-  <properties
-      key="Object ID"
-      value="57c38ab0-2ddf-463c-b4ad-fda312448115"/>
-</archimate:BusinessObject>
+    documentation="Geheel of gedeeltelijk droogvallende gronden die buitendijks gelegen zijn."/>

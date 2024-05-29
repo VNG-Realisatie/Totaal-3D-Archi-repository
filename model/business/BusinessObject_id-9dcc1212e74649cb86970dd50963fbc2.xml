@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nummeraanduiding"
     id="id-9dcc1212e74649cb86970dd50963fbc2"
-    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig toegekende aanduiding van een verblijfsobject, een standplaats of een ligplaats. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)">
-  <properties
-      key="Object ID"
-      value="bbe2cc3f-f406-4655-811e-31fbddb37813"/>
-</archimate:BusinessObject>
+    documentation="Een door het bevoegde gemeentelijke orgaan als zodanig toegekende aanduiding van een verblijfsobject, een standplaats of een ligplaats. (herkomst definitie: Artikel 1 Wet basisregistratie adressen en gebouwen)"/>

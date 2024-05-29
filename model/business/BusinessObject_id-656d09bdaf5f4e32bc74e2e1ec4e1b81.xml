@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gras- en kruidachtigen"
     id="id-656d09bdaf5f4e32bc74e2e1ec4e1b81"
-    documentation="Begroeiing die een laagblijvende, aaneengesloten gras- en/of kruidachtige vegetatie betreft.">
-  <properties
-      key="Object ID"
-      value="3e34377b-90c7-403c-9951-3beb764b3251"/>
-</archimate:BusinessObject>
+    documentation="Begroeiing die een laagblijvende, aaneengesloten gras- en/of kruidachtige vegetatie betreft."/>

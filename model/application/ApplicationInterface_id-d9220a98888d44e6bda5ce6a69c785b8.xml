@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Azure ADF API"
     id="id-d9220a98888d44e6bda5ce6a69c785b8"
-    documentation="De API van ADF. ">
-  <properties
-      key="Object ID"
-      value="16755c9f-50e4-4f7c-a6aa-1d145edb8f6d"/>
-</archimate:ApplicationInterface>
+    documentation="De API van ADF. "/>

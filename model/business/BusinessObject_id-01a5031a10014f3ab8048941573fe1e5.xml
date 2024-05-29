@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Houtsingel"
     id="id-01a5031a10014f3ab8048941573fe1e5"
-    documentation="Opgaande rijvormige begroeiing van bomen (enkelvoudige/meervoudige stammen) mét ondergroei van struiken.">
-  <properties
-      key="Object ID"
-      value="36505bed-4e39-4b3a-adb8-c0b9ef2066fa"/>
-</archimate:BusinessObject>
+    documentation="Opgaande rijvormige begroeiing van bomen (enkelvoudige/meervoudige stammen) mét ondergroei van struiken."/>

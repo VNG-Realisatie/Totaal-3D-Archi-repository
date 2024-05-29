@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Machtigingen"
     id="id-99cc444a052a47e1a2e03a907fa7b7f6"
-    documentation="De component Machtigingen heeft als doel dat een gebruikersorganisatie een andere organisatie kan machtigen om als gegevensleverancier of gegevensafnemer met bepaalde bevoegdheden voor bepaalde gegevenssoorten op te treden namens de machtigende gebruikersorganisatie.&#xA;&#xA;Alleen een gebruikersorganisatie in de rol van bronhouder kan gegevensleveranciers machtigen.&#xA;&#xA;Of machtigen voor afnemers nodig is moet nog blijken.&#xA;&#xA;Een machtiging is geldig voor een bepaalde periode, zodat toegang voor de duur van de afspraken en contracten kan worden verleend.&#xA;">
-  <properties
-      key="Object ID"
-      value="7f4afc8a-57cd-4e44-8a54-3292112a2cd9"/>
-</archimate:ApplicationComponent>
+    documentation="De component Machtigingen heeft als doel dat een gebruikersorganisatie een andere organisatie kan machtigen om als gegevensleverancier of gegevensafnemer met bepaalde bevoegdheden voor bepaalde gegevenssoorten op te treden namens de machtigende gebruikersorganisatie.&#xA;&#xA;Alleen een gebruikersorganisatie in de rol van bronhouder kan gegevensleveranciers machtigen.&#xA;&#xA;Of machtigen voor afnemers nodig is moet nog blijken.&#xA;&#xA;Een machtiging is geldig voor een bepaalde periode, zodat toegang voor de duur van de afspraken en contracten kan worden verleend.&#xA;"/>

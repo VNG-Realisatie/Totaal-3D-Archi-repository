@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ingewonnen data"
     id="id-d9ad8f608e184e1587084d0425036a50"
-    documentation="Dit is een verzamel item voor alle ingewonnen data.  Dit kan data in verschillende formaten zijn, maar ook uit verschillende bronnen. Data kan door de gemeente zelf worden ingewonnen, worden aangeleverd door burgers, via projecten, etc. Dit moet nog veel verder worden uitgewerkt. Daarom is er nu voor een generieke component gekozen waar alle data binnenkomt.">
-  <properties
-      key="Object ID"
-      value="78cc7f87-b7bd-46e6-8a76-b6edaefb2f82"/>
-</archimate:DataObject>
+    documentation="Dit is een verzamel item voor alle ingewonnen data.  Dit kan data in verschillende formaten zijn, maar ook uit verschillende bronnen. Data kan door de gemeente zelf worden ingewonnen, worden aangeleverd door burgers, via projecten, etc. Dit moet nog veel verder worden uitgewerkt. Daarom is er nu voor een generieke component gekozen waar alle data binnenkomt."/>

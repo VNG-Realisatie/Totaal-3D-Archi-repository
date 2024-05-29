@@ -1,8 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwijzing ingewonnen data"
-    id="id-ac8ecabcefec453e98c6a0f04f75fb4d">
-  <properties
-      key="Object ID"
-      value="65acc00c-a529-406f-bc66-eaf1d7b49cea"/>
-</archimate:DataObject>
+    id="id-ac8ecabcefec453e98c6a0f04f75fb4d"/>

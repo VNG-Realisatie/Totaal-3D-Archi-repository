@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inspectie API"
     id="id-7a6666b42db94a3aada9383bf822cb8c"
-    documentation="API om de inspectie tooling aan te roepen en een weergave van het CityGML bestand te tonen.">
-  <properties
-      key="Object ID"
-      value="1e46735e-1897-44f4-b83e-2c13730fff95"/>
-</archimate:ApplicationInterface>
+    documentation="API om de inspectie tooling aan te roepen en een weergave van het CityGML bestand te tonen."/>

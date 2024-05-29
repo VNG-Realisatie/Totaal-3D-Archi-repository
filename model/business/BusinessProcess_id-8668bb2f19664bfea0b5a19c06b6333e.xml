@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontsluiten informatieproduct"
     id="id-8668bb2f19664bfea0b5a19c06b6333e"
-    documentation="Het beschikbaar stellen van al dan niet verrijkte gegevens in een zodanige vorm dat deze voor afnemers eenvoudig te gebruiken zijn.">
-  <properties
-      key="Object ID"
-      value="61fbcea4-c885-4d59-a41f-90addb2173b3"/>
-</archimate:BusinessProcess>
+    documentation="Het beschikbaar stellen van al dan niet verrijkte gegevens in een zodanige vorm dat deze voor afnemers eenvoudig te gebruiken zijn."/>

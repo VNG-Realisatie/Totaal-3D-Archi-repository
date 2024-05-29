@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kunstwerkdeel"
     id="id-c1c45d03003d48e9b0796e8426f72ce4"
-    documentation="Onderdeel van een civieltechnisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen.&#xA;&#xA;">
-  <properties
-      key="Object ID"
-      value="7f206ad2-a699-4ee6-8c9a-2b0252b4f847"/>
-</archimate:BusinessObject>
+    documentation="Onderdeel van een civieltechnisch werk voor de infrastructuur van wegen, water, spoorbanen, waterkeringen en/of leidingen.&#xA;&#xA;"/>

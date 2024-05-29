@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheerder registratie"
     id="id-b0e3d48076ef42d0a54450799f38d429"
-    documentation="Degene die de vulling en het beheer van de registratie verzorgt.">
-  <properties
-      key="Object ID"
-      value="1e90df09-abb8-4921-9da6-1b1fbdb07d5e"/>
-</archimate:BusinessRole>
+    documentation="Degene die de vulling en het beheer van de registratie verzorgt."/>
