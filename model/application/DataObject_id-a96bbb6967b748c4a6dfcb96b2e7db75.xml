@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D tiles"
-    id="id-a96bbb6967b748c4a6dfcb96b2e7db75"/>
+    id="id-a96bbb6967b748c4a6dfcb96b2e7db75">
+  <properties
+      key="Object ID"
+      value="d9f7b3f4-4ec8-45c6-addc-dc292ae3e748"/>
+</archimate:DataObject>

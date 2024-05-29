@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bos"
     id="id-06723d011b354227ba7a4f1440425493"
-    documentation="Begroeiing die een dusdanige aantal bomen betreft dat deze een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen."/>
+    documentation="Begroeiing die een dusdanige aantal bomen betreft dat deze een min of meer gesloten geheel vormen of, na volgroeiing van de bomen, zullen vormen.">
+  <properties
+      key="Object ID"
+      value="1cba38e3-7697-4826-97ad-4a8fdee46549"/>
+</archimate:BusinessObject>

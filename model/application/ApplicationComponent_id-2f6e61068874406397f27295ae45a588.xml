@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rioned GWSW Server"
-    id="id-2f6e61068874406397f27295ae45a588"/>
+    id="id-2f6e61068874406397f27295ae45a588">
+  <properties
+      key="Object ID"
+      value="83d42346-1bf5-4154-a563-d3ac4223b5d7"/>
+</archimate:ApplicationComponent>

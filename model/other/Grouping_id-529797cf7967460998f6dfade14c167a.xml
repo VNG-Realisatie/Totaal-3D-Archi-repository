@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(5) Presentatie"
     id="id-529797cf7967460998f6dfade14c167a"
-    documentation="Common ground presentatie laag"/>
+    documentation="Common ground presentatie laag">
+  <properties
+      key="Object ID"
+      value="ce1657dd-f684-49ec-8d2c-d4c3a5c108db"/>
+</archimate:Grouping>

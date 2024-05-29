@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inwinner"
     id="id-f9dd85b1e2cf46ca97ad132faec8f54c"
-    documentation=" Degene die het inwinnen en bewerken van ruwe data tot een bruikbaar formaat coordineert."/>
+    documentation=" Degene die het inwinnen en bewerken van ruwe data tot een bruikbaar formaat coordineert.">
+  <properties
+      key="Object ID"
+      value="3ed85f2d-08d6-42a4-b734-9b0b0d45426d"/>
+</archimate:BusinessRole>

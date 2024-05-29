@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afscheiding"
     id="id-2938eda5d609447496e8729f286c06b9"
-    documentation="Functionele ruimte die een voorziening betreft om terrein af te scheiden."/>
+    documentation="Functionele ruimte die een voorziening betreft om terrein af te scheiden.">
+  <properties
+      key="Object ID"
+      value="e8bf2971-2d83-453f-beeb-16f58230403e"/>
+</archimate:BusinessObject>

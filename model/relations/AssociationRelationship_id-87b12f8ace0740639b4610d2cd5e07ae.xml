@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-87b12f8ace0740639b4610d2cd5e07ae"
     documentation="Het doorzetten van het riooldatabestand vindt op dit moment (december 2022) nog handmatig plaats. Het is de bedoeling om in 2023 te komen tot een koppeling Obsurv - Rioned voor automatische aanlevering. ">
+  <properties
+      key="Object ID"
+      value="8c3fd6b6-d811-43d8-a3a8-d29874910e5b"/>
   <source
       xsi:type="archimate:FlowRelationship"
       href="FlowRelationship_id-6b24e81c2ad74386abf80160b72bf8d7.xml#id-6b24e81c2ad74386abf80160b72bf8d7"/>

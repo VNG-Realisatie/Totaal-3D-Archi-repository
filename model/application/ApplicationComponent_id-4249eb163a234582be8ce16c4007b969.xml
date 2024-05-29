@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inspectie "
     id="id-4249eb163a234582be8ce16c4007b969"
-    documentation="Een geconverteerd bestand kan visueel geinspecteerd worden (ligt het op de goede plek, is de schaal goed, zitten er geen rare gaten in, etc. ).  Het gaat dan om het tonen van een GML bestand in context. Hier kunnen verschillende viewers voor worden gebruikt. "/>
+    documentation="Een geconverteerd bestand kan visueel geinspecteerd worden (ligt het op de goede plek, is de schaal goed, zitten er geen rare gaten in, etc. ).  Het gaat dan om het tonen van een GML bestand in context. Hier kunnen verschillende viewers voor worden gebruikt. ">
+  <properties
+      key="Object ID"
+      value="57867635-b49e-4da0-a8f2-a772ce69afc5"/>
+</archimate:ApplicationComponent>

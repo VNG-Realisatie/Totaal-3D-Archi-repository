@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open bouwwerk"
     id="id-d5d1f4dc89b642d398c35c30339d03cf"
-    documentation="Afzonderlijk staande overdekking rustend op een constructie met kolommen met één of meerdere open gevels bedoeld voor het beschutten of stallen van mensen, dieren, objecten en/of voer- en vaartuigen."/>
+    documentation="Afzonderlijk staande overdekking rustend op een constructie met kolommen met één of meerdere open gevels bedoeld voor het beschutten of stallen van mensen, dieren, objecten en/of voer- en vaartuigen.">
+  <properties
+      key="Object ID"
+      value="072637f6-e7de-4492-882c-d4569a856aae"/>
+</archimate:BusinessObject>

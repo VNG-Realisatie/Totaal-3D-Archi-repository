@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunning verlener"
-    id="b3a3f7bc-0456-4789-8ee1-ac02af22db2c"/>
+    id="b3a3f7bc-0456-4789-8ee1-ac02af22db2c">
+  <properties
+      key="Object ID"
+      value="e71cbfd3-d6ba-4565-b088-4fa35903dc98"/>
+</archimate:BusinessRole>

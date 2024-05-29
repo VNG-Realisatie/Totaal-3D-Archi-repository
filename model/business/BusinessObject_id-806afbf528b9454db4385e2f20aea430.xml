@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Water object"
     id="id-806afbf528b9454db4385e2f20aea430"
-    documentation="Grondoppervlak permanent of periodiek bedekt met water. (herkomst definitie: Voorstel NEN3610)"/>
+    documentation="Grondoppervlak permanent of periodiek bedekt met water. (herkomst definitie: Voorstel NEN3610)">
+  <properties
+      key="Object ID"
+      value="715fcd7c-5e63-4fec-8926-59f9fc8f45f5"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Netwerk voor wegen, water en spoor"
     id="id-010c6c621d6c46aebe3fc25d19241d27"
-    documentation="Een samenhangend stelsel van aan elkaar gesloten wegen, spoorwegen, water- en vaarwegen waardoor vlotte verplaatsing tussen twee locaties mogelijk is. Waar van toepassing middels de beoogde modaliteit. Dit is opgebouwd uit verbindingen en knooppunten. (herkomst definitie: Voorstel NEN3610)"/>
+    documentation="Een samenhangend stelsel van aan elkaar gesloten wegen, spoorwegen, water- en vaarwegen waardoor vlotte verplaatsing tussen twee locaties mogelijk is. Waar van toepassing middels de beoogde modaliteit. Dit is opgebouwd uit verbindingen en knooppunten. (herkomst definitie: Voorstel NEN3610)">
+  <properties
+      key="Object ID"
+      value="7c205d11-c949-415d-b867-75e0995f12fb"/>
+</archimate:BusinessObject>

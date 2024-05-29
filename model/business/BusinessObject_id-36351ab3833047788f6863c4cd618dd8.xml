@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Functioneel gebied (oranje)"
     id="id-36351ab3833047788f6863c4cd618dd8"
-    documentation="Door functie of gebruik begrensd gebied. (herkomst definitie: Voorstel NEN3610)"/>
+    documentation="Door functie of gebruik begrensd gebied. (herkomst definitie: Voorstel NEN3610)">
+  <properties
+      key="Object ID"
+      value="8ce4d776-24e5-4987-b191-2681e6615875"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Nederlandse territoriale zee"
     id="id-5e5db31908f34251b3f00e987a066406"
-    documentation="Het gebied vanaf de laagwaterlijn tot 12 zeemijl uit de kust dat behoort bij het Rijk."/>
+    documentation="Het gebied vanaf de laagwaterlijn tot 12 zeemijl uit de kust dat behoort bij het Rijk.">
+  <properties
+      key="Object ID"
+      value="81730a7d-42ac-4456-b15a-531ef3ed90cb"/>
+</archimate:BusinessObject>

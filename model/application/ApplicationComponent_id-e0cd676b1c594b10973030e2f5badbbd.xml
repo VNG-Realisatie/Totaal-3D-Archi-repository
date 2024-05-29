@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens-catalogus"
     id="id-e0cd676b1c594b10973030e2f5badbbd"
-    documentation="De component Gegevenscatalogus heeft als doel om de in de objectenregistratie beschikbare gegevens en afgeleide gegevens te kunnen beschrijven en deze beschrijving te ontsluiten, zodat bronhouders, afnemers en andere betrokkenen hier kennis van kunnen nemen.&#xA;&#xA;De gegevenscatalogus verbindt definities, toelichtingen en uitleg van objecttypen en gegevenstypen, waardelijsten en gegevens met elkaar. De gegevenscatalogus beschrijft daarmee de betekenis van de gegevens en afgeleide gegevens.&#xA;&#xA;De uitwisselingsstandaarden en formaten om de gegevens en afgeleide gegevens te benaderen staan beschreven in de dienstencatalogus."/>
+    documentation="De component Gegevenscatalogus heeft als doel om de in de objectenregistratie beschikbare gegevens en afgeleide gegevens te kunnen beschrijven en deze beschrijving te ontsluiten, zodat bronhouders, afnemers en andere betrokkenen hier kennis van kunnen nemen.&#xA;&#xA;De gegevenscatalogus verbindt definities, toelichtingen en uitleg van objecttypen en gegevenstypen, waardelijsten en gegevens met elkaar. De gegevenscatalogus beschrijft daarmee de betekenis van de gegevens en afgeleide gegevens.&#xA;&#xA;De uitwisselingsstandaarden en formaten om de gegevens en afgeleide gegevens te benaderen staan beschreven in de dienstencatalogus.">
+  <properties
+      key="Object ID"
+      value="aa361845-1a16-4601-99c0-50be25593666"/>
+</archimate:ApplicationComponent>

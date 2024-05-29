@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D Inwin component (Omnibase)"
-    id="id-f1519430ec61480c93d6b1eae7c86f4f"/>
+    id="id-f1519430ec61480c93d6b1eae7c86f4f">
+  <properties
+      key="Object ID"
+      value="72285973-0e53-415b-99b9-a6b93b554c99"/>
+</archimate:ApplicationComponent>

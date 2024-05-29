@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D data (cf. CityGML)"
     id="id-95a59f20dc4941ec821dcc0285c9a737">
+  <properties
+      key="Object ID"
+      value="4ff5bc58-06c5-4756-987b-be8793a64dd9"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-fe8a5daee0574792b295b05e5ed167bd.xml#id-fe8a5daee0574792b295b05e5ed167bd"/>

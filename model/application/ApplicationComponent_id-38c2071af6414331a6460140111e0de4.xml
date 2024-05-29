@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PDOK"
     id="id-38c2071af6414331a6460140111e0de4"
-    documentation="Publieke Dienstverlening op de Kaart, een platform voo het ontsluiten van geodatasets van Nederlandse overheden. &#xD;&#xA;https://www.pdok.nl/"/>
+    documentation="Publieke Dienstverlening op de Kaart, een platform voo het ontsluiten van geodatasets van Nederlandse overheden. &#xD;&#xA;https://www.pdok.nl/">
+  <properties
+      key="Object ID"
+      value="af3492f8-9353-4728-a791-1a0b6cea55d2"/>
+</archimate:ApplicationComponent>

@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Geografische ruimten"
-    id="id-854eef5d63a648e8b43012cedca58f91"/>
+    id="id-854eef5d63a648e8b43012cedca58f91">
+  <properties
+      key="Object ID"
+      value="3dcf6111-ec18-46bb-bf13-c147509d50e8"/>
+</archimate:Grouping>

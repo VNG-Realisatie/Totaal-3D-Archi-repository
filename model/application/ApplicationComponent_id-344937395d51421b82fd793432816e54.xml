@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3Di (Nelen &amp; Schuurmans)"
-    id="id-344937395d51421b82fd793432816e54"/>
+    id="id-344937395d51421b82fd793432816e54">
+  <properties
+      key="Object ID"
+      value="ccd151d7-8de8-4557-a503-ba008485001d"/>
+</archimate:ApplicationComponent>

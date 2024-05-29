@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Wegverbinding"
     id="id-49ba956c3106455fa27ee6554e96e495"
-    documentation="Wegverkeerruimte die de verkeerskundige inrichting van een weg beschrijft tussen twee knopen"/>
+    documentation="Wegverkeerruimte die de verkeerskundige inrichting van een weg beschrijft tussen twee knopen">
+  <properties
+      key="Object ID"
+      value="9f22ead4-2dda-4368-8d7c-3a5837c2e4f0"/>
+</archimate:BusinessObject>

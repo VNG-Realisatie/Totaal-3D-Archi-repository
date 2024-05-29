@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bronhouder"
-    id="id-a611b180ebf24e398fb4e773e930ec36"/>
+    id="id-a611b180ebf24e398fb4e773e930ec36">
+  <properties
+      key="Object ID"
+      value="6231dff0-cd78-4d2e-b88b-8727a8c7d0ee"/>
+</archimate:BusinessActor>

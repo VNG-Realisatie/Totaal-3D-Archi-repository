@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gemeente"
     id="id-5ae9cab84007459a8bedaefff8062f15"
-    documentation="Een door het parlement als gemeente in een wet benoemd gedeelte van het Nederlands grondgebied (eerste versie van definitie voor SOR)"/>
+    documentation="Een door het parlement als gemeente in een wet benoemd gedeelte van het Nederlands grondgebied (eerste versie van definitie voor SOR)">
+  <properties
+      key="Object ID"
+      value="03a28a08-2993-4f33-9d18-373b65bbacd5"/>
+</archimate:BusinessObject>

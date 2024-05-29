@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Constructie"
     id="id-80653a1caab740b99464bcd2f5d2b1a2"
-    documentation="Overige bouwwerken niet zijnde een Gebouw. (eerste versie van definitie voor SOR)"/>
+    documentation="Overige bouwwerken niet zijnde een Gebouw. (eerste versie van definitie voor SOR)">
+  <properties
+      key="Object ID"
+      value="bbc3d52f-1610-4fd1-94ed-10146dac9630"/>
+</archimate:BusinessObject>

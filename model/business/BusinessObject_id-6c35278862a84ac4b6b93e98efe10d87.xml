@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waterstaatkundig kunstwerk"
     id="id-6c35278862a84ac4b6b93e98efe10d87"
-    documentation="Kunstwerk voor de beheersing van het oppervlaktewater en alles wat daarin voorkomt."/>
+    documentation="Kunstwerk voor de beheersing van het oppervlaktewater en alles wat daarin voorkomt.">
+  <properties
+      key="Object ID"
+      value="a77be740-1a31-401e-90c2-4d862ff018aa"/>
+</archimate:BusinessObject>

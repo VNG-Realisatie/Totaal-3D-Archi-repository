@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(4) Proceslogica"
     id="id-bd85e79b444941c18851d73a71814162"
-    documentation="Common ground proceslogica laag"/>
+    documentation="Common ground proceslogica laag">
+  <properties
+      key="Object ID"
+      value="8cd0cfbd-9bec-45b2-b315-dbc371981090"/>
+</archimate:Grouping>

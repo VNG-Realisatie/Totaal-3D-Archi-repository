@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Conversie opslag"
     id="39683b7f-94cc-49c0-83b7-adebdf8b3eea"
-    documentation="De 3D objectregistratie die het eindproduct is van het inwinnen van 3D data."/>
+    documentation="De 3D objectregistratie die het eindproduct is van het inwinnen van 3D data.">
+  <properties
+      key="Object ID"
+      value="8c318e03-ec89-46bd-815f-4783c9c0c95c"/>
+</archimate:DataObject>

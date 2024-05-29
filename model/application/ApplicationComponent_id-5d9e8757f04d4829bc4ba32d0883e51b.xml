@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="WOZ systeem R'dam"
     id="id-5d9e8757f04d4829bc4ba32d0883e51b"
-    documentation="Basisregistratie Waarde Onroerende Zaken, gefilteerd op onroerende zaken uit Rotterdam. "/>
+    documentation="Basisregistratie Waarde Onroerende Zaken, gefilteerd op onroerende zaken uit Rotterdam. ">
+  <properties
+      key="Object ID"
+      value="02d17d12-9c4d-4e1d-9491-d57bbc47a055"/>
+</archimate:ApplicationComponent>

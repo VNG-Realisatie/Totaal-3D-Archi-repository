@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D object"
-    id="9ac8e987-7fe4-420e-9e1a-b37b68991bde"/>
+    id="9ac8e987-7fe4-420e-9e1a-b37b68991bde">
+  <properties
+      key="Object ID"
+      value="d1bc15b2-0359-4976-9642-48b06e28d9fd"/>
+</archimate:DataObject>

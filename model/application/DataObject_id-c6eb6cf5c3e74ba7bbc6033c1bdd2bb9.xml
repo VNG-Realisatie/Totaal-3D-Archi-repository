@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D data"
     id="id-c6eb6cf5c3e74ba7bbc6033c1bdd2bb9"
-    documentation="Het generieke formaat waarin alle ingewonnen data wordt omgezet om vervolgens verwerkt te worden in een basisregistratie.&#xD;&#xA;Dit formaat zou moeten mappen op het generieke datamodel."/>
+    documentation="Het generieke formaat waarin alle ingewonnen data wordt omgezet om vervolgens verwerkt te worden in een basisregistratie.&#xD;&#xA;Dit formaat zou moeten mappen op het generieke datamodel.">
+  <properties
+      key="Object ID"
+      value="48014fac-a4e2-442a-9891-7b9db90927e3"/>
+</archimate:DataObject>

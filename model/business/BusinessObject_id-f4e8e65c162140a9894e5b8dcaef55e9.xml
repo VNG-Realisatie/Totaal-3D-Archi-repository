@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tuunwal"
     id="id-f4e8e65c162140a9894e5b8dcaef55e9"
-    documentation="Gestapelde grasplaggen op de scheiding tussen twee percelen.&#xA;"/>
+    documentation="Gestapelde grasplaggen op de scheiding tussen twee percelen.&#xA;">
+  <properties
+      key="Object ID"
+      value="c0952895-29ea-4e2e-b4c7-e3a3f11aca04"/>
+</archimate:BusinessObject>

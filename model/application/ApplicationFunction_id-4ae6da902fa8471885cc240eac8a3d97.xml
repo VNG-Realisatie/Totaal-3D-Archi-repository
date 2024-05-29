@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samenstellen"
-    id="id-4ae6da902fa8471885cc240eac8a3d97"/>
+    id="id-4ae6da902fa8471885cc240eac8a3d97">
+  <properties
+      key="Object ID"
+      value="e5f82681-bee3-4467-becc-8df78087b92b"/>
+</archimate:ApplicationFunction>

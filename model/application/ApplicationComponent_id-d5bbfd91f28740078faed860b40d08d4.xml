@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Viewer (Cesium)"
-    id="id-d5bbfd91f28740078faed860b40d08d4"/>
+    id="id-d5bbfd91f28740078faed860b40d08d4">
+  <properties
+      key="Object ID"
+      value="4b41932d-3f1b-4a3b-9456-cccb3c956b91"/>
+</archimate:ApplicationComponent>

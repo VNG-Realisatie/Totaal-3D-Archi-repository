@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Totaal 3D Project"
     id="id-fca200d105784e06b17206912937eb00"
-    version="5.0.0"/>
+    version="5.0.0">
+  <properties
+      key="Object ID"
+      value="fba64ccd-fd66-4eae-b3d0-61a51bc2cc08"/>
+  <properties
+      key="Release"
+      value="2024-05-29"/>
+</archimate:ArchimateModel>

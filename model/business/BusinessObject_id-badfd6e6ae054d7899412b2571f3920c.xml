@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ruimte"
     id="id-badfd6e6ae054d7899412b2571f3920c"
-    documentation="Voor mensen toegankelijk deel van een gebouw, dat ten minste aan de onderzijde en/of de bovenzijde wordt begrensd door een scheidingsconstructie en dat een netto-hoogte heeft van tenminste 1,5 m."/>
+    documentation="Voor mensen toegankelijk deel van een gebouw, dat ten minste aan de onderzijde en/of de bovenzijde wordt begrensd door een scheidingsconstructie en dat een netto-hoogte heeft van tenminste 1,5 m.">
+  <properties
+      key="Object ID"
+      value="94c30db1-57ff-4451-8d6e-d8a19f3d360a"/>
+</archimate:BusinessObject>

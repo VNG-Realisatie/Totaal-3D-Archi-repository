@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registreren"
     id="id-4cfc8df5969d4c15bca7433d3bf32eec"
-    documentation="Het valideren en vastleggen van objectgegevens in de registratie"/>
+    documentation="Het valideren en vastleggen van objectgegevens in de registratie">
+  <properties
+      key="Object ID"
+      value="7e7aa140-4547-4a1f-8a69-32460c2b419d"/>
+</archimate:BusinessProcess>

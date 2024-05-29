@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spoorweg"
-    id="id-64f8a2570d3647a7abc75a1f35a38236"/>
+    id="id-64f8a2570d3647a7abc75a1f35a38236">
+  <properties
+      key="Object ID"
+      value="01344de2-4863-4193-9400-280530ba6066"/>
+</archimate:BusinessObject>

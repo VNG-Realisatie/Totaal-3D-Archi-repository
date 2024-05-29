@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oppervlaktewater lichaam"
     id="id-516c30b5fc5744e884742124bdcbf04b"
-    documentation="Samenhangende ruimte gevormd door bodem en oevers, waar oppervlaktewater, met de daarin aanwezige stoffen, doorheen kan stromen."/>
+    documentation="Samenhangende ruimte gevormd door bodem en oevers, waar oppervlaktewater, met de daarin aanwezige stoffen, doorheen kan stromen.">
+  <properties
+      key="Object ID"
+      value="1f75b2e1-668e-4e54-beba-a6ae92222ef8"/>
+</archimate:BusinessObject>

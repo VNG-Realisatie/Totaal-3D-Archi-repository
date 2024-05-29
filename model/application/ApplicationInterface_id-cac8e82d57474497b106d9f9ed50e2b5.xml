@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rioned GWSW validatieservice"
-    id="id-cac8e82d57474497b106d9f9ed50e2b5"/>
+    id="id-cac8e82d57474497b106d9f9ed50e2b5">
+  <properties
+      key="Object ID"
+      value="83be303e-859b-4423-be1e-c302ddffbc5c"/>
+</archimate:ApplicationInterface>

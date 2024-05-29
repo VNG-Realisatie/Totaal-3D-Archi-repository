@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontsluiten registratie"
     id="id-9ee20d33cd624a3b9fec431d42a6cf8f"
-    documentation="Het beschikbaar stellen van de in de registratie opgenomen gegevens op een zodanige wijze dat deze als gegevens eenvoudig kunnen worden benaderd.&#xD;&#xA;"/>
+    documentation="Het beschikbaar stellen van de in de registratie opgenomen gegevens op een zodanige wijze dat deze als gegevens eenvoudig kunnen worden benaderd.&#xD;&#xA;">
+  <properties
+      key="Object ID"
+      value="31184a66-b54a-44c6-bcd9-7046c8286f7b"/>
+</archimate:BusinessProcess>

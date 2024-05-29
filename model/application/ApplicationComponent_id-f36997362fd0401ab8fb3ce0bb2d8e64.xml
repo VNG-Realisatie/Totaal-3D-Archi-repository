@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data fundament opslag (Azure)"
     id="id-f36997362fd0401ab8fb3ce0bb2d8e64"
-    documentation="In het datafundament worden gegevens uit drie basisregistraties (BGT, BAG en WOZ) en de TIR (Territoriale Indeling Rotterdam) samengebracht en (waar mogelijk) geharmoniseerd. Het is een voorloper op de SOR. "/>
+    documentation="In het datafundament worden gegevens uit drie basisregistraties (BGT, BAG en WOZ) en de TIR (Territoriale Indeling Rotterdam) samengebracht en (waar mogelijk) geharmoniseerd. Het is een voorloper op de SOR. ">
+  <properties
+      key="Object ID"
+      value="800fe38c-ab98-4e02-a6ca-2ca241d75284"/>
+</archimate:ApplicationComponent>

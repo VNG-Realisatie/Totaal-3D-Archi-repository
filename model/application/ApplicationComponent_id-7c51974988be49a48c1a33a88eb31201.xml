@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interactie"
     id="id-7c51974988be49a48c1a33a88eb31201"
-    documentation="Interactiecomponenten horende bij de objectenregistratie hebben als doel om de diensten en de gegevens van de objectenregistratie aan eindgebruikers (personen in de rol van bronhouder of afnemer) te presenteren en de mogelijkheden te bieden om er mee te interacteren.&#xA;&#xA;De opdrachtgever en opdrachtnemer(s) voor de objectenregistratie kunnen overeenkomen verschillende generieke interactiecomponenten te bieden, bijvoorbeeld een viewer voor het bekijken, zoeken en raadplegen van objectgegevens (inzage), portalen voor het beheren van machtigingen en loketten voor het indienen van terugmeldingen en het beheren van abonnementen."/>
+    documentation="Interactiecomponenten horende bij de objectenregistratie hebben als doel om de diensten en de gegevens van de objectenregistratie aan eindgebruikers (personen in de rol van bronhouder of afnemer) te presenteren en de mogelijkheden te bieden om er mee te interacteren.&#xA;&#xA;De opdrachtgever en opdrachtnemer(s) voor de objectenregistratie kunnen overeenkomen verschillende generieke interactiecomponenten te bieden, bijvoorbeeld een viewer voor het bekijken, zoeken en raadplegen van objectgegevens (inzage), portalen voor het beheren van machtigingen en loketten voor het indienen van terugmeldingen en het beheren van abonnementen.">
+  <properties
+      key="Object ID"
+      value="baa4d32e-5c7d-4531-8fad-be7b69920a51"/>
+</archimate:ApplicationComponent>

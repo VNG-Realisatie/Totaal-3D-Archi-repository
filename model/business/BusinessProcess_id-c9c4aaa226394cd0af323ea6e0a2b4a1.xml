@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leveren samengestelde data"
     id="id-c9c4aaa226394cd0af323ea6e0a2b4a1"
-    documentation="Het ten behoeve van registratie aanleveren van de samengestelde gegevens."/>
+    documentation="Het ten behoeve van registratie aanleveren van de samengestelde gegevens.">
+  <properties
+      key="Object ID"
+      value="26ae84a1-f950-496a-b76f-1231fc186b77"/>
+</archimate:BusinessProcess>

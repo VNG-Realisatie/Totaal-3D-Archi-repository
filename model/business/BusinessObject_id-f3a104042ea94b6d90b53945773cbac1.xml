@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Heide"
     id="id-f3a104042ea94b6d90b53945773cbac1"
-    documentation="Terrein begroeid met heide en heideachtige vegetaties."/>
+    documentation="Terrein begroeid met heide en heideachtige vegetaties.">
+  <properties
+      key="Object ID"
+      value="752f0659-c76c-4bb3-bef3-62b04650d377"/>
+</archimate:BusinessObject>

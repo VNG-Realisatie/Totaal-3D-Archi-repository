@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Begraafplaats"
     id="id-b013bc13dde143e78f9d23288cb9995d"
-    documentation="Besloten gebied waar lichamen van overleden personen worden begraven. Ook worden op begraafplaatsen urnen met as van gecremeerde lichamen bewaard."/>
+    documentation="Besloten gebied waar lichamen van overleden personen worden begraven. Ook worden op begraafplaatsen urnen met as van gecremeerde lichamen bewaard.">
+  <properties
+      key="Object ID"
+      value="275a4582-5edc-4711-9961-64cbff39d5b0"/>
+</archimate:BusinessObject>

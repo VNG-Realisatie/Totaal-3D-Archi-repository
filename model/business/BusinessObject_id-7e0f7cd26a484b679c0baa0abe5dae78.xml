@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bebouwde kom"
     id="id-7e0f7cd26a484b679c0baa0abe5dae78"
-    documentation="(definitie ontbreekt)&#xA;"/>
+    documentation="(definitie ontbreekt)&#xA;">
+  <properties
+      key="Object ID"
+      value="b390ef4b-5b98-417e-a7de-609b4ba3d605"/>
+</archimate:BusinessObject>

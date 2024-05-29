@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D object registratie"
     id="id-cd7bae26d67d4f18a098cec0e4e63df0"
-    documentation="De 3D objectregistratie die het eindproduct is van het inwinnen van 3D data."/>
+    documentation="De 3D objectregistratie die het eindproduct is van het inwinnen van 3D data.">
+  <properties
+      key="Object ID"
+      value="c06adda2-4b1b-4596-9bbe-c5474c1d9fbf"/>
+</archimate:DataObject>

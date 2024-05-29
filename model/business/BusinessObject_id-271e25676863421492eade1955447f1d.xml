@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spoorzone"
     id="id-271e25676863421492eade1955447f1d"
-    documentation="Functionele ruimte die in gebruik is voor spoorwegen"/>
+    documentation="Functionele ruimte die in gebruik is voor spoorwegen">
+  <properties
+      key="Object ID"
+      value="b0bf51fc-5db1-429e-b332-8d016779b6c4"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BGT beheer (dgDialog)"
-    id="id-b8e42dc92fb7483a8ae4d56235348ccf"/>
+    id="id-b8e42dc92fb7483a8ae4d56235348ccf">
+  <properties
+      key="Object ID"
+      value="54ea6ee9-b46f-4b70-bb9b-8be2df13b681"/>
+</archimate:ApplicationComponent>

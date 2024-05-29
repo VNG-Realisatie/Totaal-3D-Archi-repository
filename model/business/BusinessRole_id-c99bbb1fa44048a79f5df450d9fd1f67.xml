@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Samensteller"
     id="id-c99bbb1fa44048a79f5df450d9fd1f67"
-    documentation="Persoon die het proces overziet van het in ontvangst nemen van brondata tot aan het klaarzetten van data voor het verwerken in de 3D object registratie, Dit kan dezelfde persoon zijn als de inwinner (coordinerend) of de Beheerder basisregistraties."/>
+    documentation="Persoon die het proces overziet van het in ontvangst nemen van brondata tot aan het klaarzetten van data voor het verwerken in de 3D object registratie, Dit kan dezelfde persoon zijn als de inwinner (coordinerend) of de Beheerder basisregistraties.">
+  <properties
+      key="Object ID"
+      value="26883bdd-132e-4802-b0d4-3f1b8106f9cc"/>
+</archimate:BusinessRole>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Opdrachtgever"
     id="id-5d745f9d059c4978b4ae155e70df8bfc"
-    documentation="De opdrachtgever is het voor de basisregistratie verantwoordelijke ministerie, dat opdrachtgever is voor de ‘verstrekker’ (de beheerder van de landelijke voorziening). Bijvoorbeeld: het ministerie van BZK is opdrachtgever voor de Basisregistratie Personen."/>
+    documentation="De opdrachtgever is het voor de basisregistratie verantwoordelijke ministerie, dat opdrachtgever is voor de ‘verstrekker’ (de beheerder van de landelijke voorziening). Bijvoorbeeld: het ministerie van BZK is opdrachtgever voor de Basisregistratie Personen.">
+  <properties
+      key="Object ID"
+      value="a406e62e-5977-457c-b026-8528d0d2f577"/>
+</archimate:BusinessRole>

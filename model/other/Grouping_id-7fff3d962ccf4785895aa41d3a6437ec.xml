@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorgesteld"
-    id="id-7fff3d962ccf4785895aa41d3a6437ec"/>
+    id="id-7fff3d962ccf4785895aa41d3a6437ec">
+  <properties
+      key="Object ID"
+      value="af14de3e-21de-4b44-a327-d8a0ded510e4"/>
+</archimate:Grouping>

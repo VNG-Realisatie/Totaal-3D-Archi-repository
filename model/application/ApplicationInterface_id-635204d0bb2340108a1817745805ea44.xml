@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data fundament API"
-    id="id-635204d0bb2340108a1817745805ea44"/>
+    id="id-635204d0bb2340108a1817745805ea44">
+  <properties
+      key="Object ID"
+      value="041f10cc-edde-41a4-b805-44330325a7c1"/>
+</archimate:ApplicationInterface>

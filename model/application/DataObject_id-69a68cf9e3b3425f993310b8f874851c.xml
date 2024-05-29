@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunningszaak"
-    id="id-69a68cf9e3b3425f993310b8f874851c"/>
+    id="id-69a68cf9e3b3425f993310b8f874851c">
+  <properties
+      key="Object ID"
+      value="c33a2c08-12b9-4859-9938-41cc0ced5ac6"/>
+</archimate:DataObject>

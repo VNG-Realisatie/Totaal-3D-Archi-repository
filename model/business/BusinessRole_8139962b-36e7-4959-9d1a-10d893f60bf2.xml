@@ -1,4 +1,8 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Initiatief nemer"
-    id="8139962b-36e7-4959-9d1a-10d893f60bf2"/>
+    id="8139962b-36e7-4959-9d1a-10d893f60bf2">
+  <properties
+      key="Object ID"
+      value="5ff90676-ee43-4921-9c3f-b67aedf1de60"/>
+</archimate:BusinessRole>

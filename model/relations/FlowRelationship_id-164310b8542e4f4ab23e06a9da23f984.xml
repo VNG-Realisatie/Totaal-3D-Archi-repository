@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Procesdata"
     id="id-164310b8542e4f4ab23e06a9da23f984">
+  <properties
+      key="Object ID"
+      value="77b2fd5e-b009-4960-8303-96e4dc3b488f"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-7a6666b42db94a3aada9383bf822cb8c.xml#id-7a6666b42db94a3aada9383bf822cb8c"/>

@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3D Vergunningen aanvraag Back-end"
-    id="31ae6b8e-a8c8-4b85-a71c-01a27efafacc"/>
+    id="31ae6b8e-a8c8-4b85-a71c-01a27efafacc">
+  <properties
+      key="Object ID"
+      value="ac8e9b15-5ed0-44bc-85ba-04584f894c14"/>
+</archimate:ApplicationComponent>

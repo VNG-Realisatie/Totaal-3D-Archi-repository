@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Routeren terugmelding"
     id="id-3fd66719d5954890a7deaaa37c6372a7">
+  <properties
+      key="Object ID"
+      value="b3e9c591-d822-413c-bbe2-40b7f171a580"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-4f78ff3acda14a3d9f574622d6745f92.xml#id-4f78ff3acda14a3d9f574622d6745f92"/>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beslisregel beheer"
     id="id-d81efd2288d54e0b967af027457aa3c1"
-    documentation="Het component beslisregel beheer maakt het mogelijk om geautomatiseerde beslissingen te nemen mbt tot gegevensbewerkingen. Met name de componenten Workflow beheer, Transformatie en Validatie zullen gebruik maken van dit component."/>
+    documentation="Het component beslisregel beheer maakt het mogelijk om geautomatiseerde beslissingen te nemen mbt tot gegevensbewerkingen. Met name de componenten Workflow beheer, Transformatie en Validatie zullen gebruik maken van dit component.">
+  <properties
+      key="Object ID"
+      value="dc0080a5-6c4f-4096-86e6-a2df646936ac"/>
+</archimate:ApplicationComponent>

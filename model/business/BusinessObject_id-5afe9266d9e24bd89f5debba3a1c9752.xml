@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Provincie"
     id="id-5afe9266d9e24bd89f5debba3a1c9752"
-    documentation="Een door het parlement als provincie in een wet benoemd gedeelte van het Nederlands grondgebied (eerste versie van definitie voor SOR)&#xA;&#xA;"/>
+    documentation="Een door het parlement als provincie in een wet benoemd gedeelte van het Nederlands grondgebied (eerste versie van definitie voor SOR)&#xA;&#xA;">
+  <properties
+      key="Object ID"
+      value="535a7bf3-2600-4e49-a6da-8160e10742ef"/>
+</archimate:BusinessObject>

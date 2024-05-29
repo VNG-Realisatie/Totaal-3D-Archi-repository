@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transformatie"
     id="id-2700a6b4454049eea7dedc3bb7279153"
-    documentation="Het component Transformatie draagt zorg voor de transformatie van een set aan gegevens volgens de ene standaard naar de andere standaard (bijvoorbeeld BIM naar CityGML)"/>
+    documentation="Het component Transformatie draagt zorg voor de transformatie van een set aan gegevens volgens de ene standaard naar de andere standaard (bijvoorbeeld BIM naar CityGML)">
+  <properties
+      key="Object ID"
+      value="a61c2fa0-5ddb-48f9-b5b4-fbba00c5e8d3"/>
+</archimate:ApplicationComponent>

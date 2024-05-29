@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scketch-up conversie"
-    id="afa184ac-f44e-417c-9fe1-8286b8be44dc"/>
+    id="afa184ac-f44e-417c-9fe1-8286b8be44dc">
+  <properties
+      key="Object ID"
+      value="7f5b062b-dbe9-4e89-9546-9615c1c31015"/>
+</archimate:ApplicationInterface>

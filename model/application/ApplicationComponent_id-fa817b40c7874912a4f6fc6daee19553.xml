@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheer 3D object registratie"
     id="id-fa817b40c7874912a4f6fc6daee19553"
-    documentation="Een nog nader te bepalen applicatie waarmee de 3D object registratie beheerd gaat worden."/>
+    documentation="Een nog nader te bepalen applicatie waarmee de 3D object registratie beheerd gaat worden.">
+  <properties
+      key="Object ID"
+      value="c12c8c78-3d3b-4d8b-9ab7-35b31c154bbb"/>
+</archimate:ApplicationComponent>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(3) integratie"
     id="id-ee37c825b1a3426ba5071764100a1e57"
-    documentation="Common ground integratie laag"/>
+    documentation="Common ground integratie laag">
+  <properties
+      key="Object ID"
+      value="5fa2f669-ccb5-4e82-bc3b-15d38216d845"/>
+</archimate:Grouping>

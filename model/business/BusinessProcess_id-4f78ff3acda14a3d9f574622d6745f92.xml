@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Terugmelden"
     id="id-4f78ff3acda14a3d9f574622d6745f92"
-    documentation="Het doorgeven van een mogelijk onjuist in de registratie opgenomen gegeven aan de bronhouder met daarbij een voldoende onderbouwing van de mogelijke onjuistheid om een onderzoek mogelijk te maken.&#xD;&#xA;"/>
+    documentation="Het doorgeven van een mogelijk onjuist in de registratie opgenomen gegeven aan de bronhouder met daarbij een voldoende onderbouwing van de mogelijke onjuistheid om een onderzoek mogelijk te maken.&#xD;&#xA;">
+  <properties
+      key="Object ID"
+      value="e68cf3b3-80fa-42b3-b593-218be250afdb"/>
+</archimate:BusinessProcess>

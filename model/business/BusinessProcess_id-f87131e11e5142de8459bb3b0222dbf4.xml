@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeken"
     id="id-f87131e11e5142de8459bb3b0222dbf4"
-    documentation="Het analyseren van een mogelijk onjuist gegeven in de registratie naar aanleiding van een terugmelding. Na het verzamelen van aanvullende gegevens kan het al dan niet nodig zijn gegevens in de registratie aan te passen.&#xD;&#xA;"/>
+    documentation="Het analyseren van een mogelijk onjuist gegeven in de registratie naar aanleiding van een terugmelding. Na het verzamelen van aanvullende gegevens kan het al dan niet nodig zijn gegevens in de registratie aan te passen.&#xD;&#xA;">
+  <properties
+      key="Object ID"
+      value="13528089-8597-4354-bb1a-041aa5cc7a21"/>
+</archimate:BusinessProcess>

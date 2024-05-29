@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="LV BAG"
     id="id-73904b6daddc41b3a49a917aaa39f38c"
-    documentation="De BAG (Basisregistratie Adressen en Gebouwen) is onderdeel van het overheidsstelsel van basisregistraties. Gemeenten zijn bronhouders van de BAG. Zij zijn verantwoordelijk voor het opnemen van de gegevens in de BAG en voor de kwaliteit ervan.&#xD;&#xA;&#xD;&#xA;Alle gemeenten stellen gegevens over adressen en gebouwen centraal beschikbaar via de Landelijke Voorziening BAG (LV BAG). Het Kadaster beheert de LV BAG en stelt de gegevens beschikbaar aan de diverse afnemers.&#xD;&#xA;&#xD;&#xA;https://www.kadaster.nl/zakelijk/registraties/basisregistraties/bag"/>
+    documentation="De BAG (Basisregistratie Adressen en Gebouwen) is onderdeel van het overheidsstelsel van basisregistraties. Gemeenten zijn bronhouders van de BAG. Zij zijn verantwoordelijk voor het opnemen van de gegevens in de BAG en voor de kwaliteit ervan.&#xD;&#xA;&#xD;&#xA;Alle gemeenten stellen gegevens over adressen en gebouwen centraal beschikbaar via de Landelijke Voorziening BAG (LV BAG). Het Kadaster beheert de LV BAG en stelt de gegevens beschikbaar aan de diverse afnemers.&#xD;&#xA;&#xD;&#xA;https://www.kadaster.nl/zakelijk/registraties/basisregistraties/bag">
+  <properties
+      key="Object ID"
+      value="fa527e1a-ffee-4e74-9dbf-6d12d9998b4e"/>
+</archimate:ApplicationComponent>

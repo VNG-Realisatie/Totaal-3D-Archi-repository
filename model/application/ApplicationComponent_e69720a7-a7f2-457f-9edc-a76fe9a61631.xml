@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="IFC converter (DH)"
-    id="e69720a7-a7f2-457f-9edc-a76fe9a61631"/>
+    id="e69720a7-a7f2-457f-9edc-a76fe9a61631">
+  <properties
+      key="Object ID"
+      value="e51f503f-dceb-4e44-8e51-857fd0d64730"/>
+</archimate:ApplicationComponent>

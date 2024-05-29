@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intake vergunning"
-    id="id-ec5ca5fe61f04435b7843b1aeb53694f"/>
+    id="id-ec5ca5fe61f04435b7843b1aeb53694f">
+  <properties
+      key="Object ID"
+      value="07e0e819-788a-4e1d-b631-5590993672dd"/>
+</archimate:BusinessProcess>

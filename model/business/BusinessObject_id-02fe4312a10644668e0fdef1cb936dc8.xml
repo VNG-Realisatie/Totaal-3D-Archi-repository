@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overbrugging"
     id="id-02fe4312a10644668e0fdef1cb936dc8"
-    documentation="Kunstwerk dat een beweegbare of vaste verbinding tussen twee punten betreft, die door water, een weg of anderszins gescheiden zijn, bestaande uit een brugdek/-bak met landhoofden en veelal gesteund door pijlers."/>
+    documentation="Kunstwerk dat een beweegbare of vaste verbinding tussen twee punten betreft, die door water, een weg of anderszins gescheiden zijn, bestaande uit een brugdek/-bak met landhoofden en veelal gesteund door pijlers.">
+  <properties
+      key="Object ID"
+      value="66e99dd4-4757-40b1-ab53-9de4664855ff"/>
+</archimate:BusinessObject>

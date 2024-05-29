@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GWSW.HyDX"
     id="id-d157bf3d83424627a2a876f640c9b1b7"
-    documentation="Uitwisselformaat voor hydraulische modelinstrumentaria&#xD;&#xA;https://data.gwsw.nl/hydx"/>
+    documentation="Uitwisselformaat voor hydraulische modelinstrumentaria&#xD;&#xA;https://data.gwsw.nl/hydx">
+  <properties
+      key="Object ID"
+      value="89a828fe-f483-44e6-a6c8-72fed9e92c73"/>
+</archimate:Requirement>

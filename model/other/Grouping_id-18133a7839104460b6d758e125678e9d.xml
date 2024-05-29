@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registratieve objecttypen"
-    id="id-18133a7839104460b6d758e125678e9d"/>
+    id="id-18133a7839104460b6d758e125678e9d">
+  <properties
+      key="Object ID"
+      value="d5711464-3344-4450-a1db-a3e6b8268931"/>
+</archimate:Grouping>

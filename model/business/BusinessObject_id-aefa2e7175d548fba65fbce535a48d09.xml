@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Akkerland"
     id="id-aefa2e7175d548fba65fbce535a48d09"
-    documentation="Terrein in gebruik als akker, met gewassen die in een teelt-roulatieschema zijn opgenomen."/>
+    documentation="Terrein in gebruik als akker, met gewassen die in een teelt-roulatieschema zijn opgenomen.">
+  <properties
+      key="Object ID"
+      value="d9515390-c555-498a-a3e6-f0fa87f56b08"/>
+</archimate:BusinessObject>

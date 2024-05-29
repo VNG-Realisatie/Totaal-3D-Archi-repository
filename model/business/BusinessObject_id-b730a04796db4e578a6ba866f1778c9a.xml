@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Knooppunt"
     id="id-b730a04796db4e578a6ba866f1778c9a"
-    documentation="(definitie ontbreekt)&#xA;"/>
+    documentation="(definitie ontbreekt)&#xA;">
+  <properties
+      key="Object ID"
+      value="135dfeb4-d6d5-453e-8965-0c3e15a34284"/>
+</archimate:BusinessObject>

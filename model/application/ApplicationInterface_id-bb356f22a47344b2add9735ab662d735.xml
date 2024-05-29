@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="TIR bestandsuitwisseling"
-    id="id-bb356f22a47344b2add9735ab662d735"/>
+    id="id-bb356f22a47344b2add9735ab662d735">
+  <properties
+      key="Object ID"
+      value="a38272ef-eb3c-49f9-aae3-efecac4eafc2"/>
+</archimate:ApplicationInterface>

@@ -1,4 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="City GML"
-    id="id-cef16676b1d34712a8bb1191e19625da"/>
+    id="id-cef16676b1d34712a8bb1191e19625da">
+  <properties
+      key="Object ID"
+      value="b74f8f33-c3ef-4f22-987c-b94fdf8d9e60"/>
+</archimate:Requirement>

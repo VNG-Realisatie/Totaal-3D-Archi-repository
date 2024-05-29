@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transformatie"
-    id="id-7a8f922b98cd427ab8a1bdc857d41c5b"/>
+    id="id-7a8f922b98cd427ab8a1bdc857d41c5b">
+  <properties
+      key="Object ID"
+      value="798bcb1c-3eaf-4cf3-9fde-5bff4e7de2cc"/>
+</archimate:ApplicationFunction>

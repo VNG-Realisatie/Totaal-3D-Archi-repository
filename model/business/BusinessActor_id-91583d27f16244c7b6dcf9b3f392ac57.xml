@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gemeente Rotterdam"
-    id="id-91583d27f16244c7b6dcf9b3f392ac57"/>
+    id="id-91583d27f16244c7b6dcf9b3f392ac57">
+  <properties
+      key="Object ID"
+      value="93d2e834-06bd-40c1-b6f7-715b0d4ea56c"/>
+</archimate:BusinessActor>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transformatie API"
     id="id-f64cda9289a54a66800fdf31315d760d"
-    documentation="API's van de transformatie tools die vanuit ADF worden aangeroepen."/>
+    documentation="API's van de transformatie tools die vanuit ADF worden aangeroepen.">
+  <properties
+      key="Object ID"
+      value="7adb1bdb-5fc2-474b-9d60-d0c45941e699"/>
+</archimate:ApplicationInterface>

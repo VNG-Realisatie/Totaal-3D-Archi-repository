@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verrijken"
     id="id-c9244ec9fb1f4bc1a0ab2944f95a2f29"
-    documentation="Het zodanig transformeren van in de registratie opgenomen gegevens dat een op afnemersbehoeften afgestemd gegevensproduct ontstaat."/>
+    documentation="Het zodanig transformeren van in de registratie opgenomen gegevens dat een op afnemersbehoeften afgestemd gegevensproduct ontstaat.">
+  <properties
+      key="Object ID"
+      value="c9b4ccf3-bb77-4564-a109-d57d4baa3823"/>
+</archimate:BusinessProcess>

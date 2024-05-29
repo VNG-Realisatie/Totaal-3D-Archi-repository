@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CAD systemen"
-    id="id-e3aabc2acbf74be4b3b902a87ce896a5"/>
+    id="id-e3aabc2acbf74be4b3b902a87ce896a5">
+  <properties
+      key="Object ID"
+      value="276e4ede-b4b7-415e-a19c-b3109b44719d"/>
+</archimate:ApplicationComponent>

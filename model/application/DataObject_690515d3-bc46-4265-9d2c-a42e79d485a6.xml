@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vergunnings-aanvraag"
     id="690515d3-bc46-4265-9d2c-a42e79d485a6"
-    documentation="De 3D objectregistratie die het eindproduct is van het inwinnen van 3D data."/>
+    documentation="De 3D objectregistratie die het eindproduct is van het inwinnen van 3D data.">
+  <properties
+      key="Object ID"
+      value="dcd9a937-4926-426b-8957-6c1de78b4ad4"/>
+</archimate:DataObject>

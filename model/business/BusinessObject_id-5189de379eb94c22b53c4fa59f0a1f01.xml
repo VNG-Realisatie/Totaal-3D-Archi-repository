@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Groen object"
     id="id-5189de379eb94c22b53c4fa59f0a1f01"
-    documentation="Op basis van type begroeiing, beplanting, natuurlijk voorkomen of morfologische aspecten getypeerd stuk aardoppervlak (herkomst definitie: Voorstel NEN3610)&#xA;&#xA;"/>
+    documentation="Op basis van type begroeiing, beplanting, natuurlijk voorkomen of morfologische aspecten getypeerd stuk aardoppervlak (herkomst definitie: Voorstel NEN3610)&#xA;&#xA;">
+  <properties
+      key="Object ID"
+      value="5fc5b1ca-93b1-417c-917a-e1e58e8d25a1"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verharding"
     id="id-5f4f6801a2ad4e90bf293624e8c0d26d"
-    documentation="Oppervlak, dat door egaliseren, verstevigen en/of verruwen voor het beoogde gebruik geschikt gemaakt is, bestaande uit in één of meer lagen over een ondergrond of onderliggende constructie aangelegd materiaal."/>
+    documentation="Oppervlak, dat door egaliseren, verstevigen en/of verruwen voor het beoogde gebruik geschikt gemaakt is, bestaande uit in één of meer lagen over een ondergrond of onderliggende constructie aangelegd materiaal.">
+  <properties
+      key="Object ID"
+      value="518878ba-b477-4a07-9e3f-18e2b5d44638"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inspecteren"
     id="id-43e9bb1cd2984972aff26cecef26a706"
-    documentation="Visueel of anderszins inspecteren van de getransformeerde data (staat alles op de juiste plek, zitten er geen rare uitschieters of gaten in, etc.)"/>
+    documentation="Visueel of anderszins inspecteren van de getransformeerde data (staat alles op de juiste plek, zitten er geen rare uitschieters of gaten in, etc.)">
+  <properties
+      key="Object ID"
+      value="ede22866-e3f7-4a17-b5bb-5a49a7619b1a"/>
+</archimate:BusinessProcess>

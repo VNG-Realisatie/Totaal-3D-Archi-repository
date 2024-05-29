@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verstrekker"
     id="id-c261f1f70a3a402d863a432e5f2cfba6"
-    documentation="De verstrekker is verantwoordelijk voor het verstrekken van de gegevens aan afnemers. De verstrekker is ook verantwoordelijk voor het faciliteren van het gebruik (zoals het leveren van kennis en ondersteuning aan afnemers voor het aansluiten op landelijke voorzieningen). "/>
+    documentation="De verstrekker is verantwoordelijk voor het verstrekken van de gegevens aan afnemers. De verstrekker is ook verantwoordelijk voor het faciliteren van het gebruik (zoals het leveren van kennis en ondersteuning aan afnemers voor het aansluiten op landelijke voorzieningen). ">
+  <properties
+      key="Object ID"
+      value="521e3745-605d-43e6-9b5c-f4e3c70acdea"/>
+</archimate:BusinessRole>

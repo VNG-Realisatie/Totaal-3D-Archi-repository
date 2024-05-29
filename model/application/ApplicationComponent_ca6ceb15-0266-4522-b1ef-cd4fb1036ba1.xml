@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Web browser"
-    id="ca6ceb15-0266-4522-b1ef-cd4fb1036ba1"/>
+    id="ca6ceb15-0266-4522-b1ef-cd4fb1036ba1">
+  <properties
+      key="Object ID"
+      value="b7d93fa9-f5f5-4cd8-aa73-150973c78566"/>
+</archimate:ApplicationComponent>

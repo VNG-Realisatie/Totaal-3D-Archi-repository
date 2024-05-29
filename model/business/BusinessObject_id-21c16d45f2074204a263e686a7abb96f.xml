@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onbepaald terrein"
     id="id-21c16d45f2074204a263e686a7abb96f"
-    documentation="Fysiek begrensd en zichtbaar terrein dat bij een gebouw hoort, dat niet verder wordt gedetailleerd in andere reële objecten en dat bestaat uit een mengvorm van verharding, water, begroeiing en/of constructies."/>
+    documentation="Fysiek begrensd en zichtbaar terrein dat bij een gebouw hoort, dat niet verder wordt gedetailleerd in andere reële objecten en dat bestaat uit een mengvorm van verharding, water, begroeiing en/of constructies.">
+  <properties
+      key="Object ID"
+      value="7ea2540b-ebc5-45a6-b789-6d3b5eff5e81"/>
+</archimate:BusinessObject>

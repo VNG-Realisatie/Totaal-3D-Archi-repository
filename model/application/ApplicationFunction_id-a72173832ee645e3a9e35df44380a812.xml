@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validatie"
-    id="id-a72173832ee645e3a9e35df44380a812"/>
+    id="id-a72173832ee645e3a9e35df44380a812">
+  <properties
+      key="Object ID"
+      value="d8b769cc-ed2f-40b9-9a35-81db04d15d55"/>
+</archimate:ApplicationFunction>

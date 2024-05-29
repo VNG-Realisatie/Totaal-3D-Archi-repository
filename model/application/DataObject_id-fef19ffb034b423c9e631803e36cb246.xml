@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Besluit"
-    id="id-fef19ffb034b423c9e631803e36cb246"/>
+    id="id-fef19ffb034b423c9e631803e36cb246">
+  <properties
+      key="Object ID"
+      value="a93ade26-f583-41ec-b91f-f526e6eff992"/>
+</archimate:DataObject>

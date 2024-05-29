@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Fruit- of kweekbomen"
     id="id-ca0c064ba0084e45942378bfc67fb4ba"
-    documentation="Begroeiing die het kweken van meerjarige siergewassen en bomen betreft ten behoeve van een later gebruik elders of voor het kweken van fruit."/>
+    documentation="Begroeiing die het kweken van meerjarige siergewassen en bomen betreft ten behoeve van een later gebruik elders of voor het kweken van fruit.">
+  <properties
+      key="Object ID"
+      value="8c2acd4e-2655-425d-b417-dc771b0051a6"/>
+</archimate:BusinessObject>

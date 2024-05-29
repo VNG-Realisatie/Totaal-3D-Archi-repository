@@ -1,4 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoering initiatief"
-    id="aad9c9cd-5c95-420d-8e8f-432012923706"/>
+    id="aad9c9cd-5c95-420d-8e8f-432012923706">
+  <properties
+      key="Object ID"
+      value="0cc045d5-f0c3-413b-a0b0-41469283083e"/>
+</archimate:BusinessFunction>

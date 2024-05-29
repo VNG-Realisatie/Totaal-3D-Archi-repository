@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Knooppunt (water)"
     id="id-9e40634d2fa8494cba5957cae6c9a8a1"
-    documentation="(definitie ontbreekt)&#xA;"/>
+    documentation="(definitie ontbreekt)&#xA;">
+  <properties
+      key="Object ID"
+      value="75d59a69-4554-4776-ad38-45c62ba88d9d"/>
+</archimate:BusinessObject>

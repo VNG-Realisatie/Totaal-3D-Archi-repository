@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwijzing ingewonnen data"
     id="id-b1a93b11a0814142b4e4a0d5d3ba093e"
-    documentation="Als data extern wordt aangeleverd, dan wordt het door de applicatie opgeslagen (via ADF). Als data al aanwezig is bij de gemeente en er is met de leverende partij een duidelijke SLA over de data, dan kan het opslaan van een verwijzing voldoende zijn. Twee keer opslaan van de data is onwenselijk omdat synchronisatie dan ook moet worden ingeregeld. Vandaar dat naast ingewonnen data ook een verwijzing kan worden aangeleverd."/>
+    documentation="Als data extern wordt aangeleverd, dan wordt het door de applicatie opgeslagen (via ADF). Als data al aanwezig is bij de gemeente en er is met de leverende partij een duidelijke SLA over de data, dan kan het opslaan van een verwijzing voldoende zijn. Twee keer opslaan van de data is onwenselijk omdat synchronisatie dan ook moet worden ingeregeld. Vandaar dat naast ingewonnen data ook een verwijzing kan worden aangeleverd.">
+  <properties
+      key="Object ID"
+      value="cc9e316a-4554-4c9c-986b-650b3e35ebd9"/>
+</archimate:DataObject>

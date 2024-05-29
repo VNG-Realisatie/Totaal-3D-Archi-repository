@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Terugmelding"
     id="id-4f6411281f4f49b5bc51679dd6a67189"
-    documentation="De component Terugmelding heeft als doel dat meldingen van afnemers over de juistheid van gegevens geregistreerd kunnen worden en beschikbaar zijn voor bronhouders, zodat zij ze kunnen behandelen.&#xA;&#xA;Overheidspartijen die verplicht gebruik maken van basisregistraties hebben een terugmeldplicht. Zie ‘Eis 2: De afnemers hebben een terugmeldplicht’&#xA;&#xA;Deze component biedt services waarmee afnemers twijfels over de juistheid van gegevens kunnen melden bij de objectenregistratie."/>
+    documentation="De component Terugmelding heeft als doel dat meldingen van afnemers over de juistheid van gegevens geregistreerd kunnen worden en beschikbaar zijn voor bronhouders, zodat zij ze kunnen behandelen.&#xA;&#xA;Overheidspartijen die verplicht gebruik maken van basisregistraties hebben een terugmeldplicht. Zie ‘Eis 2: De afnemers hebben een terugmeldplicht’&#xA;&#xA;Deze component biedt services waarmee afnemers twijfels over de juistheid van gegevens kunnen melden bij de objectenregistratie.">
+  <properties
+      key="Object ID"
+      value="acdd0431-b277-4f84-aa56-cee10d7233a3"/>
+</archimate:ApplicationComponent>

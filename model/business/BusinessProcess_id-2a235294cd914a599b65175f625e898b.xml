@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vernietigen"
     id="id-2a235294cd914a599b65175f625e898b"
-    documentation="Het afvoeren van gegevens vanuit de registratie van een gebruiker als deze voor het proces waarvoor de gegevens zijn verzameld niet langer noodzakelijk zijn."/>
+    documentation="Het afvoeren van gegevens vanuit de registratie van een gebruiker als deze voor het proces waarvoor de gegevens zijn verzameld niet langer noodzakelijk zijn.">
+  <properties
+      key="Object ID"
+      value="ffa56eaf-e01e-4c6f-9d94-91455d981190"/>
+</archimate:BusinessProcess>

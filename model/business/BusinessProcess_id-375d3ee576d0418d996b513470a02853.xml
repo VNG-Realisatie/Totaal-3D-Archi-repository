@@ -1,4 +1,8 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Leveren ingewonnen data"
-    id="id-375d3ee576d0418d996b513470a02853"/>
+    id="id-375d3ee576d0418d996b513470a02853">
+  <properties
+      key="Object ID"
+      value="d985a59f-9eff-42ea-a144-7fd15582dc83"/>
+</archimate:BusinessProcess>

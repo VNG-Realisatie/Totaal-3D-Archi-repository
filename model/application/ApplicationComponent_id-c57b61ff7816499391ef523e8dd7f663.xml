@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Asset Management Water(Obsurv)"
-    id="id-c57b61ff7816499391ef523e8dd7f663"/>
+    id="id-c57b61ff7816499391ef523e8dd7f663">
+  <properties
+      key="Object ID"
+      value="ada49943-3328-4bb8-8a81-1453153b6890"/>
+</archimate:ApplicationComponent>

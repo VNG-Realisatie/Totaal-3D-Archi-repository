@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Spoorverbinding"
     id="id-82a7df2759e34e86a13a62592d37d556"
-    documentation="(definitie ontbreekt)&#xA;"/>
+    documentation="(definitie ontbreekt)&#xA;">
+  <properties
+      key="Object ID"
+      value="d616a082-3bfe-4dda-b165-7a35743e640b"/>
+</archimate:BusinessObject>

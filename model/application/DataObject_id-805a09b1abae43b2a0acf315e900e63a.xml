@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Riooldata"
-    id="id-805a09b1abae43b2a0acf315e900e63a"/>
+    id="id-805a09b1abae43b2a0acf315e900e63a">
+  <properties
+      key="Object ID"
+      value="31ed3210-d8a0-492b-9c7e-720d7635c8ab"/>
+</archimate:DataObject>

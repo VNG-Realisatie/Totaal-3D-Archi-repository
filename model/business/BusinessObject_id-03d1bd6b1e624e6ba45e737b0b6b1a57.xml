@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebouwblok"
     id="id-03d1bd6b1e624e6ba45e737b0b6b1a57"
-    documentation="Grootste aaneengesloten samenstel van gebouwen die bouwkundig-constructief met elkaar verbonden zijn. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)"/>
+    documentation="Grootste aaneengesloten samenstel van gebouwen die bouwkundig-constructief met elkaar verbonden zijn. (herkomst eerste globale aanzet van een definitie: eindrapport werkgroep bouwwerken)">
+  <properties
+      key="Object ID"
+      value="f4ec27c5-2a52-4abb-abf7-6bc554a2ec32"/>
+</archimate:BusinessObject>

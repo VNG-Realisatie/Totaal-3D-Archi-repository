@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="T3D Orchestratie API (Den Haag)"
     id="id-8bf68ca88b31459fa3c3b6c17ab7a718"
-    documentation="Het riooldatabestand (in CityGML) gaat via de Rioned API naar de orchestratietool van de gemeente Den Haag. Hier vindt validatie van het CityGML-bestand plaats. Via de API van de orchestratietool komt het bestand vervolgens terecht in VCS. "/>
+    documentation="Het riooldatabestand (in CityGML) gaat via de Rioned API naar de orchestratietool van de gemeente Den Haag. Hier vindt validatie van het CityGML-bestand plaats. Via de API van de orchestratietool komt het bestand vervolgens terecht in VCS. ">
+  <properties
+      key="Object ID"
+      value="1ae8c0ba-8d98-489d-9d4b-f0b9b8c8870f"/>
+</archimate:ApplicationInterface>

@@ -1,4 +1,8 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PDOK WFS service"
-    id="id-7ec91ebb9103481f991df38f8f41bffe"/>
+    id="id-7ec91ebb9103481f991df38f8f41bffe">
+  <properties
+      key="Object ID"
+      value="8739a1a3-e81c-4f81-b3ae-7ca4ebe3624f"/>
+</archimate:ApplicationInterface>

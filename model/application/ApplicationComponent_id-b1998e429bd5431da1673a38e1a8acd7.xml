@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afname"
     id="id-b1998e429bd5431da1673a38e1a8acd7"
-    documentation="De component Afname heeft als doel om afnemers in staat te stellen objectgegevens en daarvan afgeleide gegevens af te nemen, zodat ze deze gegevens en afgeleide gegevens kunnen gebruiken in hun eigen processen. Deze component biedt toegang tot alle voor afnemers beschikbare objectgegevens, inclusief meta-gegevens, en tot alle door de objectenregistratie beschikbaar gestelde afgeleide gegevens.&#xA;&#xA;De component Afname biedt services voor informatiesystemen om objectgegevens en afgeleide gegevens af te nemen."/>
+    documentation="De component Afname heeft als doel om afnemers in staat te stellen objectgegevens en daarvan afgeleide gegevens af te nemen, zodat ze deze gegevens en afgeleide gegevens kunnen gebruiken in hun eigen processen. Deze component biedt toegang tot alle voor afnemers beschikbare objectgegevens, inclusief meta-gegevens, en tot alle door de objectenregistratie beschikbaar gestelde afgeleide gegevens.&#xA;&#xA;De component Afname biedt services voor informatiesystemen om objectgegevens en afgeleide gegevens af te nemen.">
+  <properties
+      key="Object ID"
+      value="1eb3823d-5926-4560-8b9d-7323e2b8d1ff"/>
+</archimate:ApplicationComponent>

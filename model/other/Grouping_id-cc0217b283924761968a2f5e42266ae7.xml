@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Algemeen"
-    id="id-cc0217b283924761968a2f5e42266ae7"/>
+    id="id-cc0217b283924761968a2f5e42266ae7">
+  <properties
+      key="Object ID"
+      value="3377fc45-134b-4503-b9ff-be98831ceb6b"/>
+</archimate:Grouping>
