@@ -1,5 +1,5 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Team GDI | Bart den Dulk |
+| Team GDI | Marcel Rietdijk |
 <hr/>
 
